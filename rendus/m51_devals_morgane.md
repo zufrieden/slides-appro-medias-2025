@@ -30,6 +30,10 @@ _Quelles étapes et comment allez-vous répartir l'investissement des 36h dispon
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
+## Expérimentation
+
+_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+
 ---
 
 # RAPPORT FINAL À RENDRE POUR LE 28 MARS 23h59
@@ -41,6 +45,9 @@ _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-form
 ## Réponses aux 5 questions
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+
+## Résultat de l'expérimentation
+_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
 
 ## Investissement
 
