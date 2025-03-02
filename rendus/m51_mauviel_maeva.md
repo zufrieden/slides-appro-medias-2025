@@ -25,14 +25,13 @@ Avantages pour mon TB et mon avenir professionnel :
 
 Je n'ai pas choisi Workvivo comme sujet principal car la platforme est payante et je ne peux pas y avoir accès avant le début de mon TB.
 
-- 
 ## État initial
 
 _Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
 
 Actuellement, mon niveau de connaissances sur la communication interne via un RSE est limitée car je connais les bases des réseaux sociaux publics (LinkedIn, Slack, Teams) mais je dois approfondir leurs capacités et leur contraintes dans un contexte professionnel interne. En effet j'ai pu utiliser LikedIn et Teams à l'heig-vd et Slack avec diverses associations de festivals mais mes interventions étaient limitées.
 
-Implications pour mon auto-formation
+Implications pour mon auto-formation :
 - Rechercher les meilleures pratiques utilisées par les entreprises dans la gestion d’un RSE
 - Étudier les types de contenus et formats les plus engageants pour une communauté interne
 
@@ -41,40 +40,40 @@ Implications pour mon auto-formation
 _Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
 _Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
 
-- Analyser les meilleures pratiques de communication interne sur un RSE 
-Spécifique : Étudier les stratégies adoptées par les entreprises pour animer un RSE.
-Mesurable : Synthétiser 5 bonnes pratiques identifiées grâce à des articles et des études de cas.
-Atteignable : Recherche documentaire sur des sources académiques (ex. bibliothèques en ligne) et professionnelles.
-Réaliste : Informations disponibles via articles, livres.
-Temporellement défini : Finaliser cette analyse en 2 semaines.
+Analyser les meilleures pratiques de communication interne sur un RSE 
+- Spécifique : Étudier les stratégies adoptées par les entreprises pour animer un RSE
+- Mesurable : Synthétiser 5 bonnes pratiques identifiées grâce à des articles et des études de cas
+- Atteignable : Recherche documentaire sur des sources académiques (ex. bibliothèques en ligne) et professionnelles
+- Réaliste : Informations disponibles via articles, livres
+- Temporellement défini : Finaliser cette analyse en 2 semaines
 
-- Comprendre les types de contenus les plus efficaces pour dynamiser un RSE
-Spécifique : Identifier les contenus (articles, vidéos, événements) les plus engageants.
-Mesurable : Lister et décrire au moins 10 formats de contenu utilisés par les entreprises.
-Atteignable : Étude de cas, analyses de plateformes existantes et recherches en ligne.
-Réaliste : Informations disponibles sur des blogs spécialisés et retours d’expérience d’entreprises.
-Temporellement défini : Finaliser cette liste en 1 mois.
+Comprendre les types de contenus les plus efficaces pour dynamiser un RSE
+- Spécifique : Identifier les contenus (articles, vidéos, événements) les plus engageants
+- Mesurable : Lister et décrire au moins 10 formats de contenu utilisés par les entreprises
+- Atteignable : Étude de cas, analyses de plateformes existantes et recherches en ligne
+- Réaliste : Informations disponibles sur des blogs spécialisés et retours d’expérience d’entreprises
+- Temporellement défini : Finaliser cette liste en 1 mois
 
-- Identifier les mécanismes d’engagement et d’interaction les plus efficaces
-Spécifique : Étudier les techniques utilisées pour inciter les employés à interagir sur un RSE.
-Mesurable : Décrire et comparer des stratégies clés (gamification, sondages, événements...).
-Atteignable : Recherche de modèles théoriques et d'analyses d’entreprises.
-Réaliste : Sources accessibles via des articles, études de cas et livres sur la communication interne.
-Temporellement défini : Finaliser cette analyse en 6 semaines.
+Identifier les mécanismes d’engagement et d’interaction les plus efficaces
+- Spécifique : Étudier les techniques utilisées pour inciter les employés à interagir sur un RSE
+- Mesurable : Décrire et comparer des stratégies clés (gamification, sondages, événements...)
+- Atteignable : Recherche de modèles théoriques et d'analyses d’entreprises
+- Réaliste : Sources accessibles via des articles, études de cas et livres sur la communication interne
+- Temporellement défini : Finaliser cette analyse en 6 semaines
 
-- Définir les indicateurs de performance les plus pertinents pour mesurer l’impact d’un RSE
-Spécifique : Identifier 5 KPIs essentiels pour évaluer l’engagement des utilisateurs.
-Mesurable : Construire une grille d’analyse expliquant chaque indicateur.
-Atteignable : Étude des méthodes d’évaluation de la communication digitale.
-Réaliste : Inspiré des métriques utilisées par des plateformes collaboratives (taux d’adoption, interactions, temps passé...).
-Temporellement défini : Finalisé en 2 mois.
+Définir les indicateurs de performance les plus pertinents pour mesurer l’impact d’un RSE
+- Spécifique : Identifier 5 KPIs essentiels pour évaluer l’engagement des utilisateurs
+- Mesurable : Construire une grille d’analyse expliquant chaque indicateur
+- Atteignable : Étude des méthodes d’évaluation de la communication digitale
+- Réaliste : Inspiré des métriques utilisées par des plateformes collaboratives (taux d’adoption, interactions, temps passé...)
+- Temporellement défini : Finalisé en 2 mois
 
-- Synthétiser les connaissances en un guide théorique sur la gestion d’un RSE
-Spécifique : Produire un document sur l'animation d’un RSE pour vendeurs.
-Mesurable : Structurer le guide (types de contenus, engagement, KPIs...).
-Atteignable : Basé sur les recherches menées au long de l’étude.
-Réaliste : Ce document pourra être utilisé une fois Workvivo accessible.
-Temporellement défini : Finalisé avant la fin de la formation.
+Synthétiser les connaissances en un guide théorique sur la gestion d’un RSE
+- Spécifique : Produire un document sur l'animation d’un RSE pour vendeurs
+- Mesurable : Structurer le guide (types de contenus, engagement, KPIs...)
+- Atteignable : Basé sur les recherches menées au long de l’étude
+- Réaliste : Ce document pourra être utilisé une fois Workvivo accessible
+- Temporellement défini : Finalisé avant la fin de la formation
 
 J'ai noté ces deadlines pour être réaliste. Etant donné que nous n'avons pas de périodes allouées pour réaliser cette formation, il est peu probable que j'ai le temps de la terminer avant le 28 mars 2025.
 
@@ -91,26 +90,26 @@ Phase 2 : Analyse des types de contenus les plus engageants (7h)
 - Lister et comparer les formats et canaux de diffusion les plus efficaces
 
 Phase 3 : Étude des mécanismes d’engagement et d’interaction (8h)
-- Identifier les techniques pour engager une communauté sur un RSE.
+- Identifier les techniques pour engager une communauté sur un RSE
 - Décrire des stratégies clés pour stimuler l’engagement des vendeurs
 
 Phase 4 : Identification des KPIs et méthodologie de suivi (6h)
 - Rechercher les indicateurs clés de performance pour mesurer l’efficacité d’un RSE
 
 Phase 5 : Rédaction du guide théorique (8h)
-- Synthétiser les connaissances en un document structuré et pédagogique.
-- Ajouter des recommandations pour la gestion d’un RSE adapté aux vendeurs.
+- Synthétiser les connaissances en un document structuré et pédagogique
+- Ajouter des recommandations pour la gestion d’un RSE adapté aux vendeurs
 
 
 ## 5 questions
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
-Quels sont les principaux défis de la communication interne sur un RSE ?
-Quels types de contenus sont les plus efficaces pour dynamiser une communauté interne ?
-Comment mesurer l’impact d’une communication interne sur un RSE ?
-Quels sont les avantages et limites de la gamification sur un RSE ?
-Comment adapter une stratégie de communication digitale aux vendeurs ?
+- Quels sont les principaux défis de la communication interne sur un RSE ?
+- Quels types de contenus sont les plus efficaces pour dynamiser une communauté interne ?
+- Comment mesurer l’impact d’une communication interne sur un RSE ?
+- Quels sont les avantages et limites de la gamification sur un RSE ?
+- Comment adapter une stratégie de communication digitale aux vendeurs ?
 
 ## Expérimentation
 
