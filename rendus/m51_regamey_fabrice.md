@@ -8,19 +8,19 @@
 
 _Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
 
-Le sujet prend place dans le domaine du marketing digital, plus précisément dans la publicité sur les réseaux sociaux. Il s'agira de prendre connaissances des univers Google et Meta et de leurs outils respectifs tel que Google Ads, Google Analytics 4 (GA4) et Meta Ads (Facebook & Instagram Ads). 
+Le sujet prend place dans le domaine du marketing digital, plus précisément dans la publicité sur les réseaux sociaux. Il s'agira de prendre connaissance des univers Google et Meta et de leurs outils respectifs tels que Google Ads, Google Analytics 4 (GA4) et Meta Ads (Facebook & Instagram Ads).
 
 ### Contexte
 
 _Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
 
-J'ai choisis ce sujet car je lance mon activité d'indépendant, où je propose des services aux PME afin d’optimiser leur visibilité en ligne grâce à la publicité digitale. Profiter de ce module pour développement mes compétences sur la gestion des outils de publicité et un réel avantage car ceci représente mon coeur de service. 
+J'ai choisi ce sujet car je lance mon activité d'indépendant, où je propose des services aux PME afin d’optimiser leur visibilité en ligne grâce à la publicité digitale. Profiter de ce module pour développer mes compétences sur la gestion des outils de publicité est un réel avantage, car ceci représente mon cœur de service.
 
 ## État initial
 
 _Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
 
-Au delà des notions de marketing abordé dans le cadre de la formation, je n'ai aucunes connaissances préalable dans les univers Google et Meta. 
+Au-delà des notions de marketing abordées dans le cadre de la formation, je n'ai aucune connaissance préalable dans les univers Google et Meta.
 
 Je pars donc de zéro pour chacun de mes objectifs.
 
@@ -34,24 +34,24 @@ _Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de
 
 _Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
 
-La première étape avant de planifier et répartir les 36 heures de travail et de faire un constat du planning actuel et de quantifié la charge de travail.
+La première étape avant de planifier et répartir les 36 heures de travail est de faire un constat du planning actuel et de quantifier la charge de travail.
 
-Dans ce contexte d'étude entre le travail d'articulation et la semaine CRUNCH, le temps à disposition est très limité pour un travail de cette ampleur. 
+Dans ce contexte d'étude entre le travail d'articulation et la semaine CRUNCH, le temps à disposition est très limité pour un travail de cette ampleur.
 
-Au vu des délais donnés et de la composition des journées (études, transports, premières nécessités, activités extra scolaire, etc..), la réalisation d'une étude 36 heures, est un exercice trop ambitieux que je ne parviendrai pas à tenir. De ce fait, ma planification est basée sur une étude de 24h. Cette décision est faite afin d'avoir un travail réaliste, mieux réparti et plus appliqué. 
+Au vu des délais donnés et de la composition des journées (études, transports, premières nécessités, activités extra-scolaires, etc.), la réalisation d'une étude de 36 heures est un exercice trop ambitieux que je ne parviendrai pas à tenir. De ce fait, ma planification est basée sur une étude de 24h. Cette décision est prise afin d'avoir un travail réaliste, mieux réparti et plus appliqué.
 
-Voici le tableau descriptif de la répartition de la charge de travail :
+Voici le descriptif de la répartition de la charge de travail :
 
 Formation	Durée (h)
-Google Ads - Display Certification	3h
-Google Ads - Measurement Certification	4h
-Google Ads - Search Certification	4h
-Google Analytics Certification	5h
-Lecture du support "Facebook Media Buying Professional"	1h
-Meta Certified Media Buying Professional (et ses formations associées)	5h
-Rédaction de notes et résumé	2h
-Recherche supplémentaire et autres tâches	1h
-Total	25h
+Google Ads - Display Certification	**3h**
+Google Ads - Measurement Certification	**4h**
+Google Ads - Search Certification	**4h**
+Google Analytics Certification	**5h**
+Lecture du support "Facebook Media Buying Professional"	**1h**
+Meta Certified Media Buying Professional (et ses formations associées)	**5h**
+Rédaction de notes et résumé **2h**
+Recherche supplémentaire et autres tâches	**1h**
+Total	**25h**
 
 ## 5 questions
 
