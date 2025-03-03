@@ -1,38 +1,55 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-1/2 MONTANARI TRISTAN - PERMIS DRONE
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
-## Mon sujet d'étude est ...
+### Décrire le sujet
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Le sujet de mon étude porte sur l'obtention du permis de base A1/A3 pour piloter un drone en Suisse. Ce permis est obligatoire pour voler légalement et nécessite une formation couvrant la réglementation, la sécurité, la météorologie et la gestion des drones. Cette formation est en lien avec mon travail de Bachelor, car elle me permettra de diversifier la production de contenu visuel pour Leuba Collection (collection automobile) en intégrant des prises de vue aériennes. C'est également un argument de vente d'être autorisé à faire voler un drône. 
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+J’ai choisi ce sujet car l’utilisation de drones dans la production de contenu vidéo offre des possibilités créatives uniques. Dans mon Travail de Bachelor avec Leuba Collection, l'objectif est d'apporter une valeur ajoutée en variant les angles et types de prises de vue. Obtenir ce permis me permettra de travailler légalement et en toute sécurité, tout en développant des compétences utiles pour ma carrière dans la création de contenu audiovisuel.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Actuellement, je possède un drone que je sais faire voler, mais je n’ai pas encore obtenu le permis A1/A3. Mes connaissances sont limitées aux bases du pilotage, et je n’ai pas encore de maîtrise approfondie des aspects réglementaires, météorologiques et sécuritaires. Cette auto-formation me permettra d’acquérir les compétences nécessaires et de m’entraîner via un simulateur pour améliorer mon pilotage.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+1. Obtenir le permis de base A1/A3 d’ici la fin de la formation** en réussissant l’examen théorique en ligne avec un score minimum de 90 %.  
+   - *Validation* : Passage et réussite de l'examen en ligne sur la plateforme officielle.  
+   - *Critère de réussite* : Score minimum de 90 % à l'examen.  
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+2. Améliorer mes compétences de pilotage en réalisant au moins 10 heures de vol sur simulateur d’ici la fin de la formation, en apprenant et maîtrisant 5 nouveaux mouvements de caméra adaptés aux prises de vue aériennes.  
+   - *Validation* : Suivi du temps d'entraînement sur le simulateur DJI et auto-évaluation des mouvements appris.  
+   - *Critère de réussite* : Réalisation d'au moins 10 heures de vol et maîtrise de 5 nouveaux mouvements avec fluidité.  
+
+3. Appliquer mes connaissances en conditions réelles en réalisant au moins 3 séances de vol avec mon drone pour tester les compétences acquises.  
+   - *Validation* : Réalisation de 3 sessions de vol en extérieur avec mise en pratique des techniques apprises.  
+   - *Critère de réussite* : Capacité à réaliser des prises de vue stables et maîtrisées, avec application des règles de sécurité et de navigation.  
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+**Au préalable:** Créer un compte eIAM et renseigner ses informations (déjà fait).
+**Chaque jour: ** 1h de théorie + 30min de pratique sur le simulateur.
+**25 mars: ** Examen (possibilité de le repasser après 24h en cas d'échec).
+ 
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Quelles sont les principales règles de vol pour un drone en Suisse sous le permis A1/A3 ?  
+2. Comment évaluer les conditions météorologiques avant un vol ?  
+3. Quelles précautions prendre pour garantir un vol sécurisé en zone peuplée ?  
+4. Quels types de mouvements de caméra sont adaptés aux prises de vue aériennes ?  
+5. Comment gérer les risques de perte de signal ou d’interférences lors d’un vol ?  
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+L’expérimentation se fera en deux étapes :  
+
+1. Passer et réussir l’examen théorique du permis A1/A3 pour valider les connaissances réglementaires et techniques.  
+2. Appliquer les connaissances en conditions réelles en effectuant plusieurs vols de test avec mon drone, en mettant en pratique les notions apprises.  
+
 
 ---
 
