@@ -9,46 +9,40 @@ Mon objectif est d’optimiser l’intégration de contenus pédagogiques dans l
 
 ### Contexte  
 
-- Mieux comprendre les besoins pédagogiques des utilisateurs.  
-- Intégrer des concepts de **gamification, micro-learning et adaptive learning**.  
-- Développer des compétences clés pour l’**UX/UI dans la fintech**.  
+**Explorer les méthodes d’apprentissage en ligne** et leur pertinence pour l’éducation financière.  
+**Comprendre comment les bases de la finance sont enseignées** aux débutants pour adapter l’expérience utilisateur.  
+**Identifier les bonnes pratiques UX/UI en e-learning** pour améliorer l’engagement et la rétention des utilisateurs sur les plateformes fintech.
 
 ## État initial  
 
-- **Finance** : connaissances basiques.  
-- **UX et pédagogie numérique** : peu d’expérience en **e-learning et gamification**.  
-- **Objectif** : qcquérir des compétences pour concevoir une **expérience d’apprentissage efficace**.  
-
+**Finance** : connaissances basiques, besoin d’un cadre structuré pour mieux comprendre les fondamentaux.  
+- **UX et pédagogie numérique** : compétences en design UX/UI, mais peu d’expérience en **e-learning** et en **gamification** appliqués à la finance.
+  
 ## Objectifs  
 
-1. **Benchmark** de **5 plateformes e-learning & 3 fintechs** → Analyse des méthodes utilisées.  
-2. **Étude des bonnes pratiques pédagogiques en finance** (3 sources académiques + 5 articles).  
-3. **Prototype interactif** avec **3 mécaniques d’apprentissage** adaptées.  
-4. **Tests utilisateurs** pour évaluer l’**engagement et la compréhension**.  
+1. **Étudier 5 plateformes d’apprentissage en ligne** (Coursera, Udemy, Khan Academy…) pour analyser les formats pédagogiques.  
+2. **Analyser 3 fintechs** proposant du contenu éducatif (Swissquote, Revolut, eToro…) afin d’identifier les approches utilisées.  
+3. **Synthétiser les principes clés** de l’apprentissage des bases de la finance et leurs implications UX/UI.  
+4. **Identifier les tendances actuelles en UX/UI** pour l’éducation en ligne et évaluer leur pertinence pour mon TB. 
 
 ## Démarche  
 
-- Recherche sur les tendances d’apprentissage numérique.  
-- Étude des bonnes pratiques pédagogiques en finance.  
-- Conception d’un parcours d’apprentissage UX.  
-- Prototypage sur Figma.  
-- Tests et ajustements.  
+- **Recherches sur les approches pédagogiques en e-learning** (micro-learning, gamification, adaptive learning).  
+- **Étude des formats et structures de cours en ligne sur la finance** pour comprendre ce qui facilite l’apprentissage.  
+- **Analyse des mécanismes d’engagement et d’interaction UX/UI** dans ces plateformes et leur impact sur la rétention des utilisateurs. 
 
 ## 5 questions  
 
-1. Comment lever les **freins à l’apprentissage de la finance** via l’UX ?  
-2. Quel impact de la **gamification** sur l’engagement ?  
-3. Quels contenus pédagogiques sont les **plus efficaces** ?  
-4. Comment mesurer **l’efficacité d’un parcours d’apprentissage** ?  
-5. Quelles sont les **bonnes pratiques UX/UI** pour un module éducatif financier ?  
+1. Quels sont les formats pédagogiques les plus efficaces en e-learning, et sont-ils applicables aux fintechs ?  
+2. Comment simplifier l’apprentissage des bases de la finance via une plateforme numérique ?  
+3. Quels éléments UX/UI favorisent la compréhension et l’engagement des utilisateurs dans un contexte éducatif ?  
+4. Quelles différences UX entre une plateforme e-learning généraliste et une fintech éducative ?  
+5. Comment les tendances actuelles en apprentissage numérique influencent-elles la conception des services financiers en ligne ?
 
 ## Expérimentation  
 
-- **Prototype interactif sur Figma** avec :  
-  - **Parcours utilisateur adaptatif**.  
-  - **Quiz interactifs & feedback immédiat**.  
-  - **Système de progression et récompenses**.  
-- **Validation** via **tests utilisateurs**.  
+- **Synthèse des recherches** sous forme de fiches ou d’un document récapitulatif pour identifier les meilleures pratiques.  
+- **Comparaison des plateformes et fintechs** en termes d’expérience utilisateur et d’efficacité pédagogique, afin de dégager des axes d’amélioration pour mon TB. 
 
 ---
 
