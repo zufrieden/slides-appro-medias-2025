@@ -1,4 +1,4 @@
-# M51-1/2 EMERI LEO - RAG
+# M51-2 EMERI LEO - RAG
 
 ## Mon sujet d'étude est le Retrieval Augmented Generation (RAG)
 
