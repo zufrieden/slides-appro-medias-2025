@@ -1,4 +1,4 @@
-# M51-1/2 Macaluso Léa - IA et reconnaissance d’images pour l’évaluation automatique des sinistres
+# M51-1/2 MACALUSO LÉA - IA ET RECONNAISSANCE D’IMAGES POUR L’ÉVALUATION AUTOMATIQUE DES SINISTRES
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
