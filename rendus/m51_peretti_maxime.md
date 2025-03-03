@@ -1,38 +1,54 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-1/2 PERETTI MAXIME - UX ET APPRENTISSAGE FINANCIER INTERACTIF  
 
-# ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
+# ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59  
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est ...  
 
-**_Décrire le sujet_**
+**_Les méthodes d’apprentissage numérique appliquées à la finance._**  
+Mon objectif est d’optimiser l’intégration de contenus pédagogiques dans les plateformes fintech, en lien avec mon TB chez Swissquote.  
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+### Contexte  
 
-### Contexte
+- Mieux comprendre les besoins pédagogiques des utilisateurs.  
+- Intégrer des concepts de **gamification, micro-learning et adaptive learning**.  
+- Développer des compétences clés pour l’**UX/UI dans la fintech**.  
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+## État initial  
 
-## État initial
+- **Finance** : connaissances basiques.  
+- **UX et pédagogie numérique** : peu d’expérience en **e-learning et gamification**.  
+- **Objectif** : qcquérir des compétences pour concevoir une **expérience d’apprentissage efficace**.  
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+## Objectifs  
 
-## Objectifs
+1. **Benchmark** de **5 plateformes e-learning & 3 fintechs** → Analyse des méthodes utilisées.  
+2. **Étude des bonnes pratiques pédagogiques en finance** (3 sources académiques + 5 articles).  
+3. **Prototype interactif** avec **3 mécaniques d’apprentissage** adaptées.  
+4. **Tests utilisateurs** pour évaluer l’**engagement et la compréhension**.  
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+## Démarche  
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+- Recherche sur les tendances d’apprentissage numérique.  
+- Étude des bonnes pratiques pédagogiques en finance.  
+- Conception d’un parcours d’apprentissage UX.  
+- Prototypage sur Figma.  
+- Tests et ajustements.  
 
-## Démarche
+## 5 questions  
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+1. Comment lever les **freins à l’apprentissage de la finance** via l’UX ?  
+2. Quel impact de la **gamification** sur l’engagement ?  
+3. Quels contenus pédagogiques sont les **plus efficaces** ?  
+4. Comment mesurer **l’efficacité d’un parcours d’apprentissage** ?  
+5. Quelles sont les **bonnes pratiques UX/UI** pour un module éducatif financier ?  
 
-## 5 questions
+## Expérimentation  
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
-
-## Expérimentation
-
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+- **Prototype interactif sur Figma** avec :  
+  - **Parcours utilisateur adaptatif**.  
+  - **Quiz interactifs & feedback immédiat**.  
+  - **Système de progression et récompenses**.  
+- **Validation** via **tests utilisateurs**.  
 
 ---
 
