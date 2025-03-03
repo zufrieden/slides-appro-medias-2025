@@ -64,11 +64,11 @@ Identifier des solutions de repli ou des ajustements à mettre en place pour am�
 
 La validation de l’apprentissage se fera via la réalisation d’un prototype Proof of Concept (POC) :
 * Prototype POC :
- * Intégration d’un modèle génératif open-source (ex : via Ollama/DeepSeek) avec une solution de récupération de données (Elastic ou équivalent).
- * Tests sur des cas concrets avec un ensemble de questions définies afin de vérifier la pertinence et la qualité des réponses.
+  * Intégration d’un modèle génératif open-source (ex : via Ollama/DeepSeek) avec une solution de récupération de données (Elastic ou équivalent).
+  * Tests sur des cas concrets avec un ensemble de questions définies afin de vérifier la pertinence et la qualité des réponses.
 * Méthode de test et critères de réussite :
- * Le prototype devra répondre correctement aux tests définis.
- * Les performances seront évaluées sur la cohérence, la pertinence et l’exactitude des réponses générées.
+  * Le prototype devra répondre correctement aux tests définis.
+  * Les performances seront évaluées sur la cohérence, la pertinence et l’exactitude des réponses générées.
  * La documentation des tests et des ajustements apportés viendra compléter cette validation.
 
 ---
