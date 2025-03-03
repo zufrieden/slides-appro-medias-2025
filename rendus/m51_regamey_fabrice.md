@@ -36,7 +36,7 @@ _Quelles étapes et comment allez-vous répartir l'investissement des 36h dispon
 
 La première étape avant de planifier et répartir les 36 heures de travail est de faire un constat du planning actuel et de quantifier la charge de travail.
 
-Dans ce contexte d'étude entre le travail d'articulation et la semaine CRUNCH, le temps à disposition est très limité pour un travail de cette ampleur.
+Dans ce contexte d'étude entre le travail d'integration et la semaine CRUNCH, le temps à disposition est très limité pour un travail de cette ampleur.
 
 Au vu des délais donnés et de la composition des journées (études, transports, premières nécessités, activités extra-scolaires, etc.), la réalisation d'une étude de 36 heures est un exercice trop ambitieux que je ne parviendrai pas à tenir. De ce fait, ma planification est basée sur une étude de 24h. Cette décision est prise afin d'avoir un travail réaliste, mieux réparti et plus appliqué.
 
