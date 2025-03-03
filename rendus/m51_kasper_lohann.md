@@ -1,20 +1,22 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-2 KASPER LOHANN - WORDPRESS
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est : WordPress
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+_WordPress est un système de gestion de contenu (CMS) open-source permettant de créer, gérer et personnaliser des sites web. Il est utilisé par des millions de sites à travers le monde, allant de simples blogs à des sites d'entreprise complexes. Son écosystème inclut des thèmes, des plugins et une large communauté de développeurs._ 
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+_J’ai choisi ce sujet car WordPress est largement utilisé dans le domaine du développement web et peut être un atout majeur pour mon Travail de Bachelor (TB). Mon TB consiste en la refonte d’un site web, et j’aimerais donc approfondir mes connaissances en WordPress afin de mener à bien ce projet. En maîtrisant WordPress, je pourrai proposer une solution moderne, optimisée et adaptée aux besoins du site en question.
+
+De plus, WordPress est une compétence valorisée dans le monde professionnel, que ce soit pour des projets freelance, du développement web ou du marketing digital. En acquérant ces compétences, je pourrai proposer des solutions adaptées aux besoins des clients et entreprises._
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+_J’ai déjà une bonne expérience avec la structure de base de WordPress, l’utilisation des plugins et l’optimisation SEO. Cependant, je souhaite approfondir mes compétences dans la gestion technique avancée (hébergement, migration, configuration et sécurité) ainsi que dans la gestion et l’optimisation d’un site WordPress existant._
 
 ## Objectifs
 
