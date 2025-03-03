@@ -1,4 +1,4 @@
-# M51-1/2 FERREIRA TIAGO - SUJET_ETUDE
+# M51-1/2 FERREIRA TIAGO - GA4 et Meta Business Suite
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
@@ -14,8 +14,8 @@ Une maîtrise de GA4 et Meta Business Suite est un atout essentiel pour travaill
 ## État initial
 
 GA4 :
-Connaissance de base des indicateurs classiques (nombre de visiteurs, sources de trafic).
-Peu de pratique sur la configuration des événements personnalisés et les rapports avancés.
+Connaissance de base des indicateurs classiques (nombre de visiteurs, sources de trafic).  
+Peu de pratique sur la configuration des événements personnalisés et les rapports avancés.  
 
 Meta Business Suite :
 Expérience basique de publication manuelle sur Facebook et Instagram.
@@ -25,30 +25,30 @@ Jamais testé les fonctionnalités avancées comme la planification et la gestio
 ## Objectifs
 
 GA4 :
-Comprendre les indicateurs clés → Savoir interpréter les données de trafic et d'engagement.
-Configurer un événement personnalisé → Suivi des clics sur un bouton via Google Tag Manager.
-Analyser un parcours utilisateur → Créer un entonnoir de conversion simple.
-Générer un rapport pertinent → Construire un tableau de bord pour suivre la performance digitale.
+Comprendre les indicateurs clés → Savoir interpréter les données de trafic et d'engagement.  
+Configurer un événement personnalisé → Suivi des clics sur un bouton via Google Tag Manager.  
+Analyser un parcours utilisateur → Créer un entonnoir de conversion simple.  
+Générer un rapport pertinent → Construire un tableau de bord pour suivre la performance digitale.  
 
 Meta Business Suite
-Planifier du contenu → Programmer une série de publications sur un mois.
-Analyser les performances → Savoir lire les indicateurs et optimiser une stratégie en conséquence.
-Tester la configuration d'une campagne publicitaire → Créer une annonce test (sans l'activer).
-Optimiser la gestion des interactions → Mettre en place des réponses automatiques et gérer efficacement les messages.
+Planifier du contenu → Programmer une série de publications sur un mois.  
+Analyser les performances → Savoir lire les indicateurs et optimiser une stratégie en conséquence.  
+Tester la configuration d'une campagne publicitaire → Créer une annonce test (sans l'activer).  
+Optimiser la gestion des interactions → Mettre en place des réponses automatiques et gérer efficacement les messages.  
 
 ## Démarche
 
 GA4 (18h)
-6h → Tutoriels et documentation Google sur GA4 et Google Tag Manager.
-6h → Exercices pratiques : configuration d'événements et analyses de parcours.
-4h → Construction d’un tableau de bord simple.
-2h → Rédaction d’un guide sur les métriques essentielles.
+6h → Tutoriels et documentation Google sur GA4 et Google Tag Manager.  
+6h → Exercices pratiques : configuration d'événements et analyses de parcours.  
+4h → Construction d’un tableau de bord simple.  
+2h → Rédaction d’un guide sur les métriques essentielles.  
 
 Meta Business Suite (18h)
-8h → Apprentissage des outils et planification de contenu.
-6h → Analyse des statistiques et compréhension des métriques clés.
-2h → Simulation d'une campagne publicitaire.
-2h → Réalisation d’un support pédagogique (mini-guide)
+8h → Apprentissage des outils et planification de contenu.  
+6h → Analyse des statistiques et compréhension des métriques clés.  
+2h → Simulation d'une campagne publicitaire.  
+2h → Réalisation d’un support pédagogique (mini-guide)  
 
 ## 5 questions
 
@@ -60,8 +60,8 @@ Meta Business Suite (18h)
 
 ## Expérimentation
 
-Réalisation d’un guide pratique expliquant comment configurer et exploiter les données sur GA4.
-Programmation d’une série de publications test avec planification avancée.
+Réalisation d’un guide pratique expliquant comment configurer et exploiter les données sur GA4.  
+Programmation d’une série de publications test avec planification avancée.  
 Réalisation d’un mini guide sur l’utilisation des outils 
 
 ---
