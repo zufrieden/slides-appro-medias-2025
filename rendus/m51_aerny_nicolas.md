@@ -6,11 +6,15 @@
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._
+
+**Laravel**
 
 ### Contexte
 
 _Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+
+Le travail de bachelor va mener à la réalisation du site front du service central à la problématique. La majeure partie du temps du tb sera consacrée à ce front. Il sera réalisé avec Laravel car le framework fait partie du stack interne au service où je ferai le tb. C'est une condition requise pour faire ce travail.
 
 ## État initial
 
