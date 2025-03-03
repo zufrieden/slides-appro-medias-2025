@@ -30,9 +30,9 @@ Actuellement, je possède un drone que je sais faire voler, mais je n’ai pas e
 
 ## Démarche
 
-**Au préalable:** Créer un compte eIAM et renseigner ses informations (déjà fait).
-**Chaque jour: ** 1h de théorie + 30min de pratique sur le simulateur.
-**25 mars: ** Examen (possibilité de le repasser après 24h en cas d'échec).
+Au préalable: Créer un compte eIAM et renseigner ses informations (déjà fait).
+Chaque jour: 1h de théorie + 30min de pratique sur le simulateur.
+25 mars: Examen (possibilité de le repasser après 24h en cas d'échec).
  
 
 ## 5 questions
