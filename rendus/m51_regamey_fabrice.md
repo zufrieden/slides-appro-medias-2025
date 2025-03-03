@@ -51,7 +51,6 @@ Voici le descriptif de la répartition de la charge de travail :
   Meta Certified Media Buying Professional (et ses formations associées)	**5h**\
   --------------\
   Rédaction de notes et résumé **2h**\
-  Recherche supplémentaire et autres tâches	**1h**\
   --------------\
   Total	**25h**\
 
