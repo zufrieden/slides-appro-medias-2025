@@ -13,12 +13,12 @@ C'est également intéressant pour mon futur professionnel car cela renforce mes
 ## État initial
 
 Connaissances et pratique à ce jour :
-* J'ai assisté à plusieurs talks sur le RAG, dans le cadre de mon travail et du cours IIM à San Francisco et comprends donc son utilité dans la génération de contenu.
+* J'ai assisté à plusieurs talks sur le RAG, dans le cadre de mon travail et du cours IIM à San Francisco, et comprends donc son utilité dans la génération de contenu.
 * J'ai rapidement expérimenté avec quelques outils en ligne comme Elastic AI Playground et acquis des notions de base sur son fonctionnement.
 
 Implications :
-* Ce niveau de connaissance pourra me permettre de démarrer un prototype puis de mettre en place un intégration dans un environnement local.
-* Dans mon cas, cette auto-formation va me permettre de passer de concepts et connaissances à des cométences pratiques afin de pouvoir explorer les possibilités et tester les limites de cette technologie.
+* Ce niveau de connaissance pourra me permettre de démarrer un prototype puis de mettre en place une intégration dans un environnement local.
+* Dans mon cas, cette auto-formation va me permettre de passer de concepts et connaissances à des compétences pratiques afin de pouvoir explorer les possibilités et tester les limites de cette technologie.
 
 ## Objectifs
 
@@ -40,7 +40,7 @@ La répartition des 36 heures se fera en 3 phases:
 * Réaliser des tests initiaux pour valider la récupération des données et l’intégration du modèle génératif.
 3. Finalisation du Prototype et Validation (10 heures)
 * Affiner le prototype en ajustant les paramètres et en corrigeant les éventuels problèmes identifiés lors des tests.
-* Mettre en place une des tests (dont les 5 questions définies ci-dessous) pour évaluer la performance et la pertinence du système.
+* Mettre en place des tests (dont les 5 questions définies ci-dessous) pour évaluer la performance et la pertinence du système.
 * Documenter l’ensemble du processus et rédiger le rapport final.
 
 ## 5 questions
