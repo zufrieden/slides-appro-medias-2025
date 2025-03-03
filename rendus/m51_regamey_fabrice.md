@@ -55,6 +55,8 @@ Recherche supplémentaire et autres tâches	**1h**\
 --------------\
 Total	**25h**\
 
+Je m'organiserai pour prendre chaque formation les unes après les autres, sans dépasser le temps fixé. J'effecturai aussi des résumés lorsque ce sera pertinent.  
+
 ## 5 questions
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
