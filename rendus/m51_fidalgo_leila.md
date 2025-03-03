@@ -4,35 +4,54 @@
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Maîtriser Figma et ses outils pour faire de l'UX/UI design parfaitement
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+J'ai découvert l'existence de Figma en Ingénierie des médias. Je ne dirai pas que nous avons "appris" à l'utiliser. Comme mentionné dans ce cours, nous étions en grande partie autodidactes. Nous avons exploré l'outil par nous-mêmes et avons bien évidemment eu des conseils et quelques approfondissements dans le cadre de certains de nos cours ici.
+
+Mon travail de bachelor consistera à réviser et améliorer l'UX/UI de l'interface d'une application pour Terre des Hommes. Je vais donc passer beaucoup de mon temps aux côtés de Figma.
+
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Figma est un outil puissant aux multiples fonctionnalités. Je maîtrise les bases, mais j’ai encore beaucoup à apprendre, notamment en ce qui concerne les bonnes pratiques. Nous en avons vu certaines en cours, mais par paresse, je ne les appliquais pas systématiquement et je les ai maintenant oubliées.
+
+De plus, je n’ai pas utilisé Figma depuis plusieurs mois, étant partie en échange ce dernier semestre. J’avais d’ailleurs envisagé de l’utiliser pour rédiger mon rapport de séjour, mais en me rendant compte que j’avais presque tout oublié, j’ai vite abandonné.
+
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+Je souhaite être capable de maîtriser Figma de manière approfondie afin de pouvoir l’ajouter sérieusement à mes hard skills. Je n’aurai pas le temps d’en explorer chaque recoin en détail, mais je veux au moins avoir une vue d’ensemble de ses possibilités et savoir l’utiliser efficacement.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+En plus, je veux acquérir les compétences spécifiques nécessaires en UX et UI design : bonnes pratiques, création de prototypes interactifs, réalisation de maquettes, conception d'interfaces visuelles, etc.
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Dans un premier temps, je compte explorer l'ensemble des fonctionnalités de Figma afin de prendre connaissance. Ensuite, je dresserai une liste des compétences à approfondir et organiserai mon apprentissage par thématique.
+
+Je compte m'exercer de 2 manières :
+	• Soit réaliser des petits exercices par thème,
+	• Soit me lancer dans un projet directement.
+	
+Un projet pourrait être particulièrement intéressant, car j’envisage de poursuivre mes études avec le nouveau Master en Digital Experience Design à Lausanne. Cela me permettrait également d’enrichir mon portfolio en y intégrant des réalisations concrètes.
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Quelles sont les meilleures pratiques en UX/UI design à maîtriser sur Figma ?
+	
+2. Comment structurer efficacement un projet UX sur Figma pour garantir une bonne organisation des fichiers et des composants ?
+	
+3. Comment utiliser les différentes fonctionnalités des prototypes interactifs sur Figma ?
+	
+4. Comment utiliser les Auto-Layout et les Contraintes pour concevoir des interfaces responsives sur Figma ?
+	
+5. Comment utiliser les styles et les composants dans Figma pour garantir la cohérence visuelle ?
+
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Suivre les tutoriels Figma ainsi que des vidéos YouTube.
 
 ---
 
