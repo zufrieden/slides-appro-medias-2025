@@ -6,33 +6,36 @@
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Je souhaite comprendre la structure du CMS OpenCMS, apprendre à déployer un site OpenCMS en local et découvrir comment y intégrer des programmes JavaScript.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+Dans le cadre de mon TB à l'Institut suisse de sismologie, je dois intégrer de nouveaux questionnaires sur le site web afin que les utilisateurs puissent tester leurs connaissances sur les séismes en Suisse. Lors d'un entretien dans les bureaux à Zurich avec mes futurs collègues, on m'a expliqué qu'ils utilisaient exclusivement des technologies open source et que les questionnaires devaient être intégrés à leur CMS, OpenCMS. Ils m'ont également précisé que ces questionnaires devaient être programmés en JavaScript.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+À ce jour, je ne connais pas du tout OpenCMS. En revanche, je sais programmer des questionnaires en JavaScript.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
-
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
-
+1. D'ici le 28 mars, je dois être capable de déployer un site en local en utilisant OpenCMS afin de comprendre ses différents composants. L'objectif sera atteint si je parviens à déployer le site.
+2. D'ici le 28 mars, je dois être capable d'intégrer un programme simple en JavaScript sur une page de mon site local. L'objectif sera atteint si un petit programme JavaScript fonctionne sur une des pages du site.
+   
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Pour commencer, je vais lire la documentation d'OpenCMS afin de comprendre comment déployer un site en local. Une fois le site déployé, je me renseignerai sur la manière d’y intégrer des programmes JavaScript afin de pouvoir réaliser le mien.
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
-
+1. Quelles sont les étapes essentielles pour déployer un site en local avec OpenCMS ?
+2. Quelles sont les spécificités d'OpenCMS par rapport à d'autres CMS ?
+3. Quels sont les outils et méthodes recommandés pour inclure et exécuter du code JavaScript dans OpenCMS ?
+4. Comment structurer un fichier JavaScript pour l'intégrer à un site OpenCMS ?
+5. Quelles sont les limitations et particularités liées à l'intégration d'un programme JavaScript dans un site géré avec OpenCMS ?
+   
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Mon POC consistera en un site local utilisant OpenCMS, avec un petit programme JavaScript accessible sur certaines pages du site.
 
 ---
 
