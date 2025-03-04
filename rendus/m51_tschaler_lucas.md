@@ -1,38 +1,60 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-1 TSCHALER LUCAS - BUDIBASE
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est la découverte et l'approfondissement de l'outil [Budibase](https://budibase.com/) 
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+**Description du sujet**  
+Budibase est une plateforme no-code permettant de créer des applications web et des outils internes de manière rapide et efficace. Cet outil offre des fonctionnalités comme la gestion des bases de données, la création d'interfaces utilisateur et l'automatisation de processus. L'objectif de cette étude est de comprendre comment utiliser Budibase pour développer une application.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+J'ai choisi ce sujet car Budibase est un outil que je vais devoir utiliser pendant mon TB. Ne le connaissant pas encore, il est essentiel que je maîtrise ses fonctionnalités pour pouvoir l'exploiter au mieux. Cette compétence me sera utile pour gagner du temps lors du développement de mon projet et garantir un résultat plus professionnel. Par ailleurs, dans mon avenir professionnel, la maîtrise d'un outil no-code comme Budibase peut être un atout pour la création rapide de solutions internes en entreprise.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Actuellement, je n'ai aucune connaissance ni expérience avec Budibase. Cette méconnaissance implique que je vais devoir commencer par des bases théoriques avant d'expérimenter l'outil. Mon apprentissage devra être structuré pour que je puisse progressivement maîtriser ses fonctionnalités et les appliquer pendant mon TB.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
-
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+1. Comprendre le fonctionnement de Budibase : Lire la [documentation officielle](https://docs.budibase.com/docs/what-is-budibase) et suivre des [tutoriels d'introduction](https://vimeo.com/showcase/budibase-university) d'ici au 14 mars.
+2. Approfondire l'aspect des interfaces utilisateur : Que cela soit pour mon TB ou mon futur professionnel, j'aimerais me diriger vers l'UI et l'UX. A faire d'ici au 21 mars.
+3. Valider les acquis en réalisant un mini-projet : Développer une application fonctionnelle et documenter mon apprentissage pour démontrer mes compétences acquises.
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Semaine 1 : Découverte
+* Telechargement et installation du logiciel 
+* Lecture de la documentation
+* Suivi de tutoriels d'introduction
+* Test de l'interface et des fonctionnalités de base
+
+Semaine 2 : Premiers essais
+* Développement d'une interface utilisateur basique
+* Premiers tests d'interaction
+
+Semaine 3 : Application
+* Réalisation du prototype
+* Tests et optimisation
+* Rédaction d'une documentation
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Comment concevoir une interface utilisateur dynamique avec Budibase ?
+2. Comment utiliser les automatisations dans Budibase pour simplifier des tâches répétitives ?
+3. Comment intégrer Budibase avec d'autres outils via des APIs ?
+4. Quels sont les avantages de Budibase pour un projet professionnel ?
+5. Quelles sont les limites de Budibase ?
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Pour valider mon apprentissage, je vais développer un prototype d'application. Ce prototype inclura :
+* Une interface utilisateur fonctionnelle
+* Des automatisations pour améliorer l'efficacité
+* Une documentation expliquant les fonctionnalités implémentées
+* Une marche à suivre/tutoriel pour expliquer les étapes de la réalisation  
+
+À la fin du projet, je testerai l'application pour m'assurer qu'elle fonctionne comme prévu.
 
 ---
 
