@@ -14,11 +14,9 @@ _J'ai choisi ce sujet, car React.js est beaucoup utilisé dans le monde professi
 
 ## État initial
 
-_J'ai des connaissances en JavaScript ainsi que plus généralement en code, mais je n'ai jamais utilisé React.js. Je ne vais donc pas viser une maîtrise totale lors du rendu final de ce cours._
+_J'ai des connaissances en JavaScript ainsi que, plus généralement en code, mais je n'ai jamais utilisé React.js. Je ne vais donc pas viser une maîtrise totale lors du rendu final de ce cours._
 
 ## Objectifs
-
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
 
 _Compléter la section Get Started sur https://react.dev/learn avant le 28.03.2025 à 23h (une heure pour compléter le rapport)._
 
