@@ -6,21 +6,21 @@
 
 **_Décrire le sujet_**
 
-_WordPress est un système de gestion de contenu (CMS) open-source permettant de créer, gérer et personnaliser des sites web. Il est utilisé par des millions de sites à travers le monde, allant de simples blogs à des sites d'entreprise complexes. Son écosystème inclut des thèmes, des plugins et une large communauté de développeurs._ 
+WordPress est un système de gestion de contenu (CMS) open-source permettant de créer, gérer et personnaliser des sites web. Il est utilisé par des millions de sites à travers le monde, allant de simples blogs à des sites d'entreprise complexes. Son écosystème inclut des thèmes, des plugins et une large communauté de développeurs.
 
 ### Contexte
 
-_J’ai choisi ce sujet car WordPress est largement utilisé dans le domaine du développement web et peut être un atout majeur pour mon Travail de Bachelor (TB). Mon TB consiste en la refonte d’un site web, et j’aimerais donc approfondir mes connaissances en WordPress afin de mener à bien ce projet. En maîtrisant WordPress, je pourrai proposer une solution moderne, optimisée et adaptée aux besoins du site en question.
+J’ai choisi ce sujet car WordPress est largement utilisé dans le domaine du développement web et peut être un atout majeur pour mon Travail de Bachelor (TB). Mon TB consiste en la refonte d’un site web, et j’aimerais donc approfondir mes connaissances en WordPress afin de mener à bien ce projet. En maîtrisant WordPress, je pourrai proposer une solution moderne, optimisée et adaptée aux besoins du site en question.
 
-De plus, WordPress est une compétence valorisée dans le monde professionnel, que ce soit pour des projets freelance, du développement web ou du marketing digital. En acquérant ces compétences, je pourrai proposer des solutions adaptées aux besoins des clients et entreprises._
+De plus, WordPress est une compétence valorisée dans le monde professionnel, que ce soit pour des projets freelance, du développement web ou du marketing digital. En acquérant ces compétences, je pourrai proposer des solutions adaptées aux besoins des clients et entreprises.
 
 ## État initial
 
-_J’ai déjà une bonne expérience avec la structure de base de WordPress, l’utilisation des plugins et l’optimisation SEO. Cependant, je souhaite approfondir mes compétences dans la gestion technique avancée (hébergement, migration, configuration et sécurité) ainsi que dans la gestion et l’optimisation d’un site WordPress existant._
+J’ai déjà une bonne expérience avec la structure de base de WordPress, l’utilisation des plugins et l’optimisation SEO. Cependant, je souhaite approfondir mes compétences dans la gestion technique avancée (hébergement, migration, configuration et sécurité) ainsi que dans la gestion et l’optimisation d’un site WordPress existant.
 
 ## Objectifs
 
-_Mes objectifs sont formulés selon la méthode SMART :
+Mes objectifs sont formulés selon la méthode SMART :
 
 Apprendre à migrer un site WordPress vers un domaine existant (configuration d’un hébergement, exportation et importation des données, redirection du domaine Wix vers WordPress) en trois semaines.
 
@@ -40,22 +40,22 @@ Tester et analyser l’impact des optimisations de performance sur un site WordP
 
 Vérifier la stabilité et le bon fonctionnement d’un site WordPress en environnement de test.
 
-._
+.
 
 
 ## Démarche
 
-_Migration et hébergement (12h) : Étude des techniques de migration depuis Wix, configuration d’un environnement de test pour simuler la migration.
+Migration et hébergement (12h) : Étude des techniques de migration depuis Wix, configuration d’un environnement de test pour simuler la migration.
 
 Sécurisation et configuration avancée (10h) : Mise en place des certificats SSL, exploration des mesures de protection contre les cyberattaques et test des configurations de sécurité.
 
 Optimisation des performances (8h) : Mise en place d’outils d’optimisation, gestion du cache, compression d’images et amélioration du temps de chargement sur un environnement de test.
 
-Validation des apprentissages (6h) : Rédaction d’un guide récapitulatif des étapes clés et des meilleures pratiques découvertes._
+Validation des apprentissages (6h) : Rédaction d’un guide récapitulatif des étapes clés et des meilleures pratiques découvertes.
 
 ## 5 questions
 
-_Quelles sont les meilleures méthodes pour migrer un site Wix vers WordPress tout en conservant le même nom de domaine ?
+Quelles sont les meilleures méthodes pour migrer un site Wix vers WordPress tout en conservant le même nom de domaine ?
 
 Comment sécuriser un site WordPress contre les attaques courantes et les vulnérabilités ?
 
@@ -65,11 +65,11 @@ Quelles sont les bonnes pratiques pour optimiser la performance d’un site Word
 
 Quels outils permettent d’améliorer la sécurité et la rapidité d’un site WordPress existant ?
 
-_
+
 
 ## Expérimentation
 
-_Pour valider mes compétences, je vais :
+Pour valider mes compétences, je vais :
 
 Effectuer une étude approfondie des étapes nécessaires à la migration d’un site Wix vers WordPress.
 
@@ -79,7 +79,7 @@ Tester différentes optimisations de performances sur un site WordPress existant
 
 Rédiger un guide détaillé expliquant la démarche de migration, d’hébergement et d’optimisation.
 
-Cette expérimentation me permettra d’acquérir des connaissances pratiques que je pourrai appliquer lors de la refonte du site pour mon Travail de Bachelor._
+Cette expérimentation me permettra d’acquérir des connaissances pratiques que je pourrai appliquer lors de la refonte du site pour mon Travail de Bachelor.
 
 ---
 
