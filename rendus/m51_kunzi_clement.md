@@ -4,17 +4,21 @@
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
+**Les puces NFC sont utilisées dans de nombreux domaines, notamment pour le paiement sans contact, la gestion des accès ou encore l'authentification. Dans le cadre de mon TB, l'objectif est d’explorer leur usage pour le timbrage des heures de travail et voir comment les intégrer efficacement dans une PWA.**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+- Ce sujet est directement lié à mon Travail de Bachelor, qui vise à intégrer des fonctionnalités de timbrage NFC dans une PWA.  
+- Comprendre en détail les technologies sous-jacentes (protocoles NFC, stockage des données, sécurité, compatibilité des appareils) sera un atout pour mon projet.  
+- Cela pourrait aussi être utile pour de futures implémentations en entreprise ou pour d’autres projets nécessitant une interaction physique avec des dispositifs mobiles.  
+
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+- J’ai une bonne compréhension des applications web et des API, mais je n’ai pas encore développé d’intégration avancée avec du NFC.  
+- Je dois approfondir la compréhension du fonctionnement des puces NFC, de leur programmation, et de leur interopérabilité avec les applications web et mobiles.  
+
 
 ## Objectifs
 
@@ -24,15 +28,26 @@ _Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+1. **Comprendre les bases** du NFC : protocoles, types de puces, stockage des données.  
+2. **Configurer un environnement de test** avec une puce NFC et une application web/mobile pour interagir avec.  
+3. **Développer une preuve de concept (PoC)** intégrant la lecture/écriture d'une puce NFC avec une PWA.  
+4. **Sécuriser les échanges de données** entre l’application et la puce NFC.  
+5. **Évaluer la faisabilité** d'une intégration à grande échelle dans une entreprise.  
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Quels sont les différents types de puces NFC et leurs usages ?  
+2. Comment fonctionne le protocole de communication entre un téléphone et une puce NFC ?  
+3. Comment sécuriser les échanges de données entre une puce NFC et une application web ?  
+4. Quels sont les défis liés à l’intégration du NFC dans une PWA ?  
+5. Quels sont les cas d’usage les plus pertinents pour le timbrage via NFC ?  
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Je vais réaliser un **prototype fonctionnel** où une puce NFC enregistrera un pointage de travail lorsqu'elle est scannée avec un téléphone. Ce prototype permettra de valider :  
+- La faisabilité technique sur une PWA.  
+- La fluidité de l’expérience utilisateur.  
+- La robustesse du stockage et de la transmission des données.  
 
 ---
 
