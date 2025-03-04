@@ -8,7 +8,7 @@ la psychologie derrière les comportements et interactions avec des interfaces d
 
 ### Contexte
 
-Pour mon travail de Bachelor, je dois faire une refonte de certains outils du site web de POMOCA, une entreprise qui confectionnent principalement des peaux de phoques. Comprendre certains comportements et pouvoir plonger plus en profondeur dans la peau de l'utilisateur me permettra de faire un travail plus intuitif et centré sur l'humain.
+Pour mon travail de Bachelor, je dois faire une refonte de certains outils du site web de POMOCA, une entreprise qui confectionne principalement des peaux de phoques. Comprendre certains comportements et pouvoir plonger plus en profondeur dans la peau de l'utilisateur me permettra de faire un travail plus intuitif et centré sur l'humain.
 
 ## État initial
 
