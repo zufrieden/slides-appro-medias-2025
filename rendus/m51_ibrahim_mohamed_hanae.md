@@ -41,7 +41,7 @@ Critères de réussite :
 - Reproduire des interfaces complexes.
 - Expérimenter toutes les fonctionnalités avancées (auto-layout, variables, interactions avancées).
 
-3- Application sur mon projet TB (10h)
+3. Application sur mon projet TB (10h)
 - Concevoir et itérer sur mon interface en intégrant mes nouvelles compétences.
 - Tester mon design avec des utilisateurs.
 
