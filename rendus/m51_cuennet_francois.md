@@ -35,7 +35,7 @@ Les 4 heures restantes me permettront de finaliser le rapport.
 2. Quelles principes ou connaissances pourrai-je utiliser pour la refonte du site web de POMOCA?
 3. En quoi ce que j'apprends me permet de mieux comprendre les principes que je connais déjà (Don Norman, Nielsen)? Puis-je faire des liens avec mes connaissances actuelles?
 4. Parmi les concepts que j'aurai appris, lesquelles ont le plus changé ma perception du design?
-5. Quels principes que j'aurai étudiés vais-je appliquer systématiquement dans vos futurs projets UX et pourquoi?
+5. Quels principes que j'aurai étudiés vais-je appliquer systématiquement dans mes futurs projets UX et pourquoi?
 
 ## Expérimentation
 
