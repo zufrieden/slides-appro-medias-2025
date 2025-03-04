@@ -22,13 +22,13 @@ J’ai déjà une bonne expérience avec la structure de base de WordPress, l’
 
 Mes objectifs sont formulés selon la méthode SMART :
 
-Apprendre à migrer un site WordPress vers un domaine existant (configuration d’un hébergement, exportation et importation des données, redirection du domaine Wix vers WordPress) en trois semaines.
+- Apprendre à migrer un site WordPress vers un domaine existant (configuration d’un hébergement, exportation et importation des données, redirection du domaine Wix vers WordPress) en trois semaines.
 
-Maîtriser la gestion avancée d’un hébergement WordPress (FTP, base de données, certificats SSL, redirections) et sécuriser un site WordPress contre les cyberattaques.
+- Maîtriser la gestion avancée d’un hébergement WordPress (FTP, base de données, certificats SSL, redirections) et sécuriser un site WordPress contre les cyberattaques.
 
-Optimiser les performances et la sécurité d’un site WordPress existant (mise en cache, compression d’images, protection contre les attaques).
+- Optimiser les performances et la sécurité d’un site WordPress existant (mise en cache, compression d’images, protection contre les attaques).
 
-Valider la mise en ligne d’un site WordPress sur son domaine final en assurant son bon fonctionnement après la migration.
+- Valider le processus de mise en ligne d’un site WordPress sur son domaine final en assurant son bon fonctionnement après la migration.
 
 Validation des objectifs :
 
@@ -45,13 +45,13 @@ Vérifier la stabilité et le bon fonctionnement d’un site WordPress en enviro
 
 ## Démarche
 
-Migration et hébergement (12h) : Étude des techniques de migration depuis Wix, configuration d’un environnement de test pour simuler la migration.
+- Migration et hébergement (12h) : Étude des techniques de migration depuis Wix, configuration d’un environnement de test pour simuler la migration.
 
-Sécurisation et configuration avancée (10h) : Mise en place des certificats SSL, exploration des mesures de protection contre les cyberattaques et test des configurations de sécurité.
+- Sécurisation et configuration avancée (10h) : Mise en place des certificats SSL, exploration des mesures de protection contre les cyberattaques et test des configurations de sécurité.
 
-Optimisation des performances (8h) : Mise en place d’outils d’optimisation, gestion du cache, compression d’images et amélioration du temps de chargement sur un environnement de test.
+- Optimisation des performances (8h) : Mise en place d’outils d’optimisation, gestion du cache, compression d’images et amélioration du temps de chargement sur un environnement de test.
 
-Validation des apprentissages (6h) : Rédaction d’un guide récapitulatif des étapes clés et des meilleures pratiques découvertes.
+- Validation des apprentissages (6h) : Rédaction d’un guide récapitulatif des étapes clés et des meilleures pratiques découvertes.
 
 ## 5 questions
 
