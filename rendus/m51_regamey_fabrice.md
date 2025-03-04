@@ -52,7 +52,7 @@ Voici le descriptif de la répartition de la charge de travail :
   --------------\
   Rédaction de notes et résumé **2h**\
   --------------\
-  Total	**25h**\
+  Total	**24h**\
 
 Je m'organiserai pour prendre chaque formation les unes après les autres, sans dépasser le temps fixé. J'effecturai aussi des résumés lorsque ce sera pertinent.  
 
