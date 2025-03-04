@@ -30,6 +30,10 @@ _Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignabl
 
 _Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
 
+- D'ici au 28 mars, j’obtiendrai les certifications Google (Display, Search, Measurement, Analytics) en suivant les formations officielles et en validant les examens correspondants.\
+- D'ici au 28 mars, je validerai la certification "Meta Certified Media Buying Professional" en complétant les formations associées et en réussissant l’évaluation (si elle est accessible).\
+- D’ici au 28 mars, je rédigerai au moins deux résumés (google et meta) issus des formations suivies pour consolider mes apprentissages.
+
 ## Démarche
 
 _Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
