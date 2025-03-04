@@ -26,14 +26,10 @@ Je vais évaluer mon niveau de connaissance actuel et le comparer avec mon nivea
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
-
 Je vais répartir l'investissement des 36 heures du cours en 1h30 par jour que je vais utiliser dans mes transports (45min aller - 45min retour), ce qui fait 32h au total.
 Les 4 heures restantes me permettront de finaliser le rapport.
 
 ## 5 questions
-
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
 1. Quels sont les principaux facteurs psychologiques qui influent un utilisateur d'une interface digitale?
 2. Quelles principes ou connaissances pourrai-je utiliser pour la refonte du site web de POMOCA?
@@ -42,8 +38,6 @@ _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nou
 5. Quels principes que j'aurai étudiés vais-je appliquer systématiquement dans vos futurs projets UX et pourquoi?
 
 ## Expérimentation
-
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
 
 Pour valider mon apprentissage en psychologie UX, je vais réaliser un POC sous forme d’analyse UX du site web de POMOCA grâce aux principes que j'aurai appris, et proposer des améliorations UX basées sur la psychologie cognitive.
 
