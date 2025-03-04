@@ -20,21 +20,66 @@ _J’ai déjà une bonne expérience avec la structure de base de WordPress, l�
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+_Mes objectifs sont formulés selon la méthode SMART :
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+Apprendre à migrer un site WordPress vers un domaine existant (configuration d’un hébergement, exportation et importation des données, redirection du domaine Wix vers WordPress) en trois semaines.
+
+Maîtriser la gestion avancée d’un hébergement WordPress (FTP, base de données, certificats SSL, redirections) et sécuriser un site WordPress contre les cyberattaques.
+
+Optimiser les performances et la sécurité d’un site WordPress existant (mise en cache, compression d’images, protection contre les attaques).
+
+Valider la mise en ligne d’un site WordPress sur son domaine final en assurant son bon fonctionnement après la migration.
+
+Validation des objectifs :
+
+Comprendre et documenter les étapes d’une migration complète d’un site Wix vers WordPress.
+
+Configurer un hébergement et explorer les bonnes pratiques de sécurisation.
+
+Tester et analyser l’impact des optimisations de performance sur un site WordPress.
+
+Vérifier la stabilité et le bon fonctionnement d’un site WordPress en environnement de test.
+
+._
+
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+_Migration et hébergement (12h) : Étude des techniques de migration depuis Wix, configuration d’un environnement de test pour simuler la migration.
+
+Sécurisation et configuration avancée (10h) : Mise en place des certificats SSL, exploration des mesures de protection contre les cyberattaques et test des configurations de sécurité.
+
+Optimisation des performances (8h) : Mise en place d’outils d’optimisation, gestion du cache, compression d’images et amélioration du temps de chargement sur un environnement de test.
+
+Validation des apprentissages (6h) : Rédaction d’un guide récapitulatif des étapes clés et des meilleures pratiques découvertes._
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+_Quelles sont les meilleures méthodes pour migrer un site Wix vers WordPress tout en conservant le même nom de domaine ?
+
+Comment sécuriser un site WordPress contre les attaques courantes et les vulnérabilités ?
+
+Comment configurer un hébergement WordPress avancé avec gestion des certificats SSL et des redirections ?
+
+Quelles sont les bonnes pratiques pour optimiser la performance d’un site WordPress après sa migration ?
+
+Quels outils permettent d’améliorer la sécurité et la rapidité d’un site WordPress existant ?
+
+_
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+_Pour valider mes compétences, je vais :
+
+Effectuer une étude approfondie des étapes nécessaires à la migration d’un site Wix vers WordPress.
+
+Configurer un hébergement de test et mettre en place des mesures de sécurité avancées.
+
+Tester différentes optimisations de performances sur un site WordPress existant.
+
+Rédiger un guide détaillé expliquant la démarche de migration, d’hébergement et d’optimisation.
+
+Cette expérimentation me permettra d’acquérir des connaissances pratiques que je pourrai appliquer lors de la refonte du site pour mon Travail de Bachelor._
 
 ---
 
