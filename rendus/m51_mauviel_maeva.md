@@ -4,7 +4,7 @@
 
 ## Mon sujet d'étude est la communication interne d’un réseau social d’entreprise
 
-**_Décrire le sujet_**
+**_Décrire le sujet_** 
 
 Les réseaux sociaux d’entreprise (RSE) sont des outils essentiels pour fluidifier la communication interne, favoriser la collaboration et renforcer l’engagement des employés. Dans le cadre de mon Travail de Bachelor (TB), qui porte sur l’implémentation de la plateforme Workvivo, j'ai besoin de comprendre comment un réseau social interne peut être optimisé pour maximiser l’engagement des vendeurs.
 
