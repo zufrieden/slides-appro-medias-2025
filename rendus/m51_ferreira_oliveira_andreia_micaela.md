@@ -1,38 +1,74 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-1/2 FERREIRA_OLIVEIRA ANDREIA - APPRENTISSAGE_ET_FONCTIONNEMENT_DES_CHATBOTS
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est l’apprentissage et le fonctionnement des chatbots, notamment leur capacité à traiter et mémoriser des informations issues de documents.
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Les chatbots sont de plus en plus utilisés pour automatiser la gestion et le traitement d’informations. Dans le cadre de mon Travail de Bachelor, je dois analyser des besoins, faire la conception et le développement des chatbots pour le département des ventes d’une entreprise. Je dois comprendre comment on entraîne des chatbots à mémoriser des informations et faciliter le travail d’une société.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+L’entreprise a exprimé le besoin de mieux suivre les commandes et d’optimiser la gestion des ventes. Tout cela à travers l’utilisation de chatbots. 
+Ce sujet est plus ou moins lié à mon ikigaï et n’ayant jamais vraiment approfondi le sujet durant mes études, j’ai besoin de comprendre le fonctionnement et comment je pourrai utiliser les chatbots afin de mener à bien mon Travail de Bachelor. 
+
+Avantages du sujet pour mon TB :
+-	Prendre de l’avance sur le sujet pour me concentrer sur d’autres points, lors du TB
+-	Avoir une idée claire sur la direction que je veux prendre
+-	Comprendre comment les chatbots pourront être utiles au sein d’une société
+-	Connaissance et maîtrise des chatbots disponibles
+  
+De plus, les chatbots font de plus en plus partie de notre quotidien et en tant que future chargée de création, je dois m’informer sur leurs utilisations, leurs avantages et leurs risques.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Actuellement mon niveau de connaissance est limité à l’utilisation de certains chatbots en tant qu’utilisatrice, comme ChatGPT. Mais je ne me suis jamais vraiment renseignée profondément sur leur fonctionnement et comment les entraîner. Mon objectif est donc de renforcer mes connaissances sur ces outils et d’acquérir les compétences nécessaires qui m’aideront à les utiliser au sein du département des ventes de l’entreprise.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+Premièrement, je dois comprendre comment les chatbots mémorisent et traitent les informations. Pour cela je vais faire de la recherche documentaire. Je vais ensuite rechercher des plateformes de création de chatbots qui permettent de répondre à mon sujet. 
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+Je testerai l’une de ces plateformes en créant un chatbot simple qui répond à des questions fréquentes.
+
+J’utiliserai des ressources en ligne comme des tutoriels sur Youtube pour mieux comprendre et m’aider à travailler avec les chatbots.
+
+J’utiliserai les guides proposés par les plateformes pour créer un chatbot basique. 
+
+J’accorderai une tranche de 8 heures pour la création d’un chatbot simple.
+
+Les objectifs seront atteints si j’arrive à travailler avec un chatbot qui répond à mes questions selon des informations mémorisées.
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Afin d’atteindre mon objectif, voici la démarche que je vais suivre :
+1.	Phase de recherche (15h)
+ .	Dans cette étape, j’aimerais me documenter à travers des articles et autres ressources en ligne pour comprendre les bases du fonctionnement des chatbots, notamment leur capacité à mémoriser et traiter les informations ainsi que leurs utilisations au sein des entreprises.
+
+2.	Phase de recherche de plateforme de création de Chatbots (3h)
+ .	Je ferai de la recherche et testerai plusieurs plateformes de création de chatbots pour trouver celles qui seront les plus adaptées selon mon sujet.
+  	
+3.	Phase d’apprentissage de création de chatbot (5h)
+ .	Après avoir trouvé quelques plateformes de création, je les testerai en utilisant les guides pour créer un chatbot simple qui sera capable de répondre à des questions basiques. Ceci me permettra, par la suite, de sélectionner la plateforme qui sera utilisée lors de mon TB.
+  	
+4.	Phase de création d’un chatbot simple (8h)
+ .	Dans cette étape, je créerai un chatbot simple et vérifierai qu’il peut mémoriser et traiter des informations correctement, tout en m’assurant qu’il répondra de manière pertinente et efficace aux questions spécifiques liées au suivi des ventes.
+  	
+5.	Phase de résumé (5h)
+ .	Une fois que j’aurai récolté toutes les données et informations nécessaires, j’aimerais créer un document qui résume le tout comme une sorte de marche à suivre que je pourrai réutiliser lors de mon TB.
+
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+-	Quel rôle joue un chatbot dans un environnement professionnel, et quel sont ses avantages ?
+-	Quelles plateformes de création de chatbots existent et quelles sont leurs fonctionnalités clés ?
+-	Comment un chatbot peut-il mémoriser des informations et les utiliser dans des conversations futures ?
+-	Quels sont les limitations et les défis potentiels liés à la création d’un chatbot pour une entreprise ?
+-	Comment tester et améliorer continuellement un chatbot après sa mise en place dans une entreprise ?
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Comme expliqué dans la démarche, je vais créer un chatbot simple qui pourra interagir avec des utilisateurs et fournir des réponses simples selon des informations spécifiques mémorisées. Je choisirai une plateforme de création de chatbots et lui ferai mémoriser des informations du domaine en lien avec mon TB.
 
 ---
 
