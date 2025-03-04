@@ -32,13 +32,13 @@ Mes objectifs sont formulés selon la méthode SMART :
 
 Validation des objectifs :
 
-Comprendre et documenter les étapes d’une migration complète d’un site Wix vers WordPress.
+- Comprendre et documenter les étapes d’une migration complète d’un site Wix vers WordPress.
 
-Configurer un hébergement et explorer les bonnes pratiques de sécurisation.
+- Configurer un hébergement et explorer les bonnes pratiques de sécurisation.
 
-Tester et analyser l’impact des optimisations de performance sur un site WordPress.
+- Tester et analyser l’impact des optimisations de performance sur un site WordPress.
 
-Vérifier la stabilité et le bon fonctionnement d’un site WordPress en environnement de test.
+- Vérifier la stabilité et le bon fonctionnement d’un site WordPress en environnement de test.
 
 
 
