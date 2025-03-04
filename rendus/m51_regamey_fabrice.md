@@ -64,6 +64,8 @@ _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nou
 
 _Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
 
+Je fournirai les certifications obtenues lorsque celles-ci sont disponibles ainsi que des résumés lorsque cela est pertinent. Ces documents me permettront de structurer les connaissances acquises et de les conserver comme référence pour mes futurs projets.
+
 ---
 
 # RAPPORT FINAL À RENDRE POUR LE 28 MARS 23h59
