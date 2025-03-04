@@ -1,38 +1,60 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-2 CHENEVAL_MICHAËL - REQUÊTES API
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude porte sur les requêtes API
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Je souhaite m'améliorer sur la gestion des requêtes API afin de renforcer mes compétences en développement frontend et mieux comprendre l'interaction entre le frontend et le backend.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+J'ai choisi ce sujet car il constituera l'élément central de mon travail de Bachelor. Mon projet consistera à transférer des données d'un logiciel vers un autre. Pour cela, je devrai récupérer les données via l'API du premier logiciel, puis les transmettre au second programme en utilisant une autre API. La maîtrise des requêtes API est donc essentielle pour assurer une communication fluide et efficace entre ces deux systèmes. Cette compétence sera également un atout majeur pour mon avenir professionnel, en me permettant d'intégrer et d'interfacer divers services et bases de données dans mes futurs projets.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Actuellement, j'ai une connaissance de base des requêtes API, notamment avec fetch et axios. Je sais effectuer des requêtes GET et POST simples, mais j'ai encore des lacunes concernant la gestion des erreurs, l'authentification (OAuth, JWT), l'optimisation des requêtes, et le caching. L'objectif de cette auto-formation est de structurer mon apprentissage pour acquérir des compétences avancées et les appliquer dans un projet concret.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+1. Comprendre et maîtriser les requêtes API avec fetch et axios
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+   - Effectuer des requêtes GET, POST, PUT et DELETE
+   - Gérer les erreurs et afficher des messages pertinents
+
+2. Gérer l'authentification des requêtes API
+
+   - Implémenter l'utilisation de tokens JWT
+   - Apprendre à gérer les erreurs d'authentification et les tokens expirés
+
+3. Optimiser les requêtes API
+
+   - Réduire le nombre de requêtes inutiles
+   - Mettre en place un simple système de caching
+
+4. Mettre en place un projet concret utilisant des requêtes API
+   - Développer une petite application frontend qui récupère et affiche des données d'une API
+   - Gérer correctement les erreurs et l'affichage des données
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Je vais répartir mon temps (36h) en plusieurs étapes :
+
+- Recherche et théorie (6h) : Documentation sur les requêtes API et bonnes pratiques
+- Expérimentations techniques (12h) : Implémentation de requêtes avec fetch et axios, gestion des erreurs et de l'authentification
+- Projet concret (15h) : Développement d'une application frontend consommant une API
+- Tests et validation (3h) : Vérification des compétences acquises à travers mes 5 questions
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Comment effectuer une requête GET et POST avec fetch et axios ?
+2. Comment gérer les erreurs d’une requête API et afficher un message utilisateur pertinent ?
+3. Comment fonctionne l’authentification avec JWT et comment l’implémenter dans une requête API ?
+4. Comment optimiser les requêtes API pour éviter les appels inutiles ?
+5. Comment mettre en place un système de caching basique pour améliorer les performances ?
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Je vais réaliser une application frontend permettant de récupérer et d'afficher des informations depuis une API publique (par exemple, une API météo ou une API de films). L'application mettra en place une gestion basique des erreurs et du caching pour optimiser les performances.
 
 ---
 
@@ -47,6 +69,7 @@ _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-form
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
 
 ## Résultat de l'expérimentation
+
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
 
 ## Investissement
