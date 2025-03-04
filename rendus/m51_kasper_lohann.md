@@ -40,7 +40,7 @@ Tester et analyser l’impact des optimisations de performance sur un site WordP
 
 Vérifier la stabilité et le bon fonctionnement d’un site WordPress en environnement de test.
 
-.
+
 
 
 ## Démarche
@@ -55,15 +55,15 @@ Validation des apprentissages (6h) : Rédaction d’un guide récapitulatif des 
 
 ## 5 questions
 
-Quelles sont les meilleures méthodes pour migrer un site Wix vers WordPress tout en conservant le même nom de domaine ?
+- Quelles sont les meilleures méthodes pour migrer un site Wix vers WordPress tout en conservant le même nom de domaine ?
 
-Comment sécuriser un site WordPress contre les attaques courantes et les vulnérabilités ?
+- Comment sécuriser un site WordPress contre les attaques courantes et les vulnérabilités ?
 
-Comment configurer un hébergement WordPress avancé avec gestion des certificats SSL et des redirections ?
+- Comment configurer un hébergement WordPress avancé avec gestion des certificats SSL et des redirections ?
 
-Quelles sont les bonnes pratiques pour optimiser la performance d’un site WordPress après sa migration ?
+- Quelles sont les bonnes pratiques pour optimiser la performance d’un site WordPress après sa migration ?
 
-Quels outils permettent d’améliorer la sécurité et la rapidité d’un site WordPress existant ?
+- Quels outils permettent d’améliorer la sécurité et la rapidité d’un site WordPress existant ?
 
 
 
@@ -71,13 +71,13 @@ Quels outils permettent d’améliorer la sécurité et la rapidité d’un site
 
 Pour valider mes compétences, je vais :
 
-Effectuer une étude approfondie des étapes nécessaires à la migration d’un site Wix vers WordPress.
+- Effectuer une étude approfondie des étapes nécessaires à la migration d’un site Wix vers WordPress.
 
-Configurer un hébergement de test et mettre en place des mesures de sécurité avancées.
+- Configurer un hébergement de test et mettre en place des mesures de sécurité avancées.
 
-Tester différentes optimisations de performances sur un site WordPress existant.
+- Tester différentes optimisations de performances sur un site WordPress existant.
 
-Rédiger un guide détaillé expliquant la démarche de migration, d’hébergement et d’optimisation.
+- Rédiger un guide détaillé expliquant la démarche de migration, d’hébergement et d’optimisation.
 
 Cette expérimentation me permettra d’acquérir des connaissances pratiques que je pourrai appliquer lors de la refonte du site pour mon Travail de Bachelor.
 
