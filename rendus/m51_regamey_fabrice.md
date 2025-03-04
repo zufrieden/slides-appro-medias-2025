@@ -60,6 +60,12 @@ Je m'organiserai pour prendre chaque formation les unes après les autres, sans 
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
+- Quels sont les principaux types de campagnes disponibles sur Google Ads et dans quels cas les utiliser ?\
+- Comment Google Analytics 4 permet-il de suivre et d’analyser les performances d’une campagne publicitaire ?\
+- Quels critères sont essentiels pour définir une audience efficace sur Meta Ads ?\
+- Quelles sont les principales différences entre Google Ads et Meta Ads en termes de ciblage et de format publicitaire ?\
+- Quels indicateurs clés (KPIs) doivent être surveillés pour mesurer l’efficacité d’une campagne publicitaire en ligne ?\
+
 ## Expérimentation
 
 _Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
