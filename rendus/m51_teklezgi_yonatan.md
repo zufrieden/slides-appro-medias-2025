@@ -1,38 +1,86 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-2 TEKLEZGI Yonatan - Visualisation des données
 
-# ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
+# **ÉTAT INITIAL ET OBJECTIFS – Approfondissement Médias**  
+**Date de rendu : 4 mars, 23h59**  
 
-## Mon sujet d'étude est ...
+## **Mon sujet d’étude : Prise en main des outils de data visualisation pour l’analyse des KPIs en sponsoring**  
 
-**_Décrire le sujet_**
+### **Décrire le sujet**  
+L’objectif est d’apprendre à utiliser **Power BI, Tableau et Google Data Studio** afin de mieux comprendre comment structurer et analyser des données liées aux KPIs en sponsoring.  
+Ce travail portera sur :  
+- L’exploration des fonctionnalités principales de chaque outil.  
+- La création de visualisations de données simples et compréhensibles.  
+- L’apprentissage des bonnes pratiques pour structurer des tableaux de bord.  
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+---
 
-### Contexte
+## **Contexte**  
+Ce sujet est essentiel pour mon Travail de Bachelor car l’analyse des **KPIs en sponsoring** repose sur une bonne exploitation des données. Aujourd’hui, les décisions en sponsoring sont souvent basées sur des indicateurs classiques, mais l’usage de la **data visualisation** permettrait une approche plus efficace et stratégique.  
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+### **Pourquoi c’est pertinent ?**  
+- **Pour mon TB** : Comprendre comment visualiser et interpréter les performances des partenariats.  
+- **Pour mon avenir professionnel** : La maîtrise des outils de data visualisation est un atout clé en **marketing et communication digitale**.  
 
-## État initial
+---
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+## **État initial**  
+- **Connaissances actuelles** :  
+  - Bases en analyse de données avec Excel et Google Analytics.  
+  - Notions théoriques sur les KPIs en sponsoring.  
+  - Aucune expérience sur Power BI et Tableau.  
 
-## Objectifs
+- **Objectif de la formation** :  
+  - Comprendre l’interface et les fonctionnalités de Power BI, Tableau et Google Data Studio.  
+  - Être capable de **créer des visualisations basiques** et de structurer des tableaux de bord.  
+  - Apprendre à connecter et manipuler des sources de données variées.  
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+---
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+## **Objectifs (SMART)**  
+1. **Prendre en main l’interface et les fonctionnalités principales** de Power BI, Tableau et Google Data Studio d’ici le **15 mars**.  
+2. **Créer des visualisations simples (graphiques, tableaux, filtres interactifs)** sur des jeux de données fictifs d’ici le **20 mars**.  
+3. **Comprendre et appliquer les bonnes pratiques en data visualisation** (choix des graphiques, lisibilité, pertinence des indicateurs) d’ici le **25 mars**.  
+4. **Réaliser une comparaison des trois outils** en fonction de leurs avantages et limites d’ici le **30 mars**.  
 
-## Démarche
+### **Validation des objectifs**  
+- Réalisation de visualisations de base sur chaque outil.  
+- Création de mini-tableaux de bord avec des filtres interactifs.  
+- Rédaction d’un **document de synthèse** comparant les logiciels et leur pertinence pour l’analyse des KPIs.  
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+---
 
-## 5 questions
+## **Démarche (répartition des 36h de travail)**  
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+| **Phase** | **Tâches** | **Durée estimée** |  
+|-----------|-----------|------------------|  
+| **Phase 1 : Découverte des outils** | Installation, prise en main des interfaces, exploration des fonctionnalités de base | 6h |  
+| **Phase 2 : Premières visualisations** | Création de graphiques simples (barres, lignes, camemberts), exploration des filtres interactifs | 8h |  
+| **Phase 3 : Manipulation des données** | Connexion à différentes sources de données, transformation et structuration | 10h |  
+| **Phase 4 : Analyse et bonnes pratiques** | Comparaison des outils, identification des forces et limites | 8h |  
+| **Phase 5 : Rédaction du rapport final** | Documentation des apprentissages et recommandations | 4h |  
 
-## Expérimentation
+---
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+## **5 questions pour tester l’acquisition des compétences**  
+1. **Quelle est la différence entre Power BI, Tableau et Google Data Studio en termes de fonctionnalités ?**  
+2. **Comment structurer un jeu de données pour qu’il soit facilement exploitable dans un outil de data visualisation ?**  
+3. **Quels types de visualisations sont les plus adaptés à l’analyse des KPIs en sponsoring ?**  
+4. **Comment appliquer des filtres et des interactions pour améliorer la lisibilité d’un tableau de bord ?**  
+5. **Quels sont les critères clés pour évaluer la pertinence d’un outil de data visualisation pour un projet ?**  
+
+---
+
+## **Expérimentation (prise en main des logiciels plutôt qu’un POC)**  
+- **Projet : Apprentissage pratique des outils**  
+- **Activités prévues** :  
+  - **Création de visualisations basiques** (graphiques interactifs, tableaux dynamiques).  
+  - **Connexion à différentes sources de données** (CSV, Excel, Google Sheets).  
+  - **Test des fonctionnalités avancées** (filtres, drill-down, calculs automatiques).  
+- **Résultat attendu** :  
+  - **Être capable d’utiliser chaque outil de manière autonome** pour une analyse de données basique.  
+  - **Comprendre les différences entre Power BI, Tableau et Google Data Studio** pour choisir le plus adapté à mon TB.  
+  - **Produire un rapport comparatif des outils et des apprentissages acquis**.  
+
 
 ---
 
