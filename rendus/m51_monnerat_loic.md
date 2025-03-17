@@ -1,38 +1,67 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
-
-# ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
+# M51-1/2 MONNERAT LOÏC - La communication interne d’une entreprise et la conception de sa stratégie
 
 ## Mon sujet d'étude est ...
+La communication interne d’une entreprise et la conception de sa stratégie.
 
-**_Décrire le sujet_**
+Il ne s’agit malheureusement pas d’un sujet très technique étant donné que mon TB  porte sur une création de stratégie interne de communication pour l’entreprise Swisstiming. 
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+De plus, j’ai choisi la communication interne ET la conception de sa stratégie, car j’ai le sentiment que dès qu’on commence à analyser une communication interne, on rentre déjà dans une phase d’analyse en vue de la création d’une stratégie afin d’optimiser la communication interne.
 
 ### Contexte
-
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+Le sujet choisi va m’aider à pleinement comprendre ce qu’est la communication interne dans une entreprise, comment l’analyser, l’améliorer et donc concevoir une stratégie pour cette dernière. C’est donc un très gros avantage d’étudier ce sujet dans le cadre de ce cours, car ça aurait été de toute manière un passage obligé avant de débuter le TB.
 
 ## État initial
+Actuellement je n’ai que peu de connaissance concernant la communication interne d’une entreprise et la conception de sa stratégie. À travers certains cours de communication et de marketing, nous avons déjà évoqué le sujet, mais purement dans la conception d’une stratégie de communication interne et externe, qui plus est, de manière assez générale.
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Ce qui veut dire que j’ai beaucoup à explorer et que je devrai ne pas trop me disperser au vu du tant limité pour ce travail. Il en va donc de même pour les objectifs à fixer qui devront rester réalistes.
 
 ## Objectifs
+### Objectif N°1
+🎯 Être capable de définir ce qu’est la communication interne d’une entreprise en une phrase d’ici au 28 mars 2025.
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+✅ L’objectif est validé si j’arrive à définir la communication interne en une phrase.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+### Objectif N°2
+🎯 Lister et décrire les éléments clés d’une stratégie de communication interne d’ici au 28 mars 2025.
+
+✅ L’objectif est validé une fois la synthèse des éléments clés d’une stratégie de communication interne écrite.
+
+### Objectif N°3
+🎯 Avoir trouvé 5 ressources clé, autant bien digitale que physique, d’ici au 28 mars 2025, auxquelles je pourrai me référer lors de mon travail de Bachelor.
+
+✅ L’objectif est validé si je peux démontrer de quelle façon les 5 ressources trouvées peuvent être utile lors du travail de Bachelor.
+
+### Objectif N°4
+🎯 Avoir étudié 3 stratégies de communication internes de 3 entreprises différentes d’ici au 28 mars 2025 en identifiant leurs points forts et leurs limites.
+
+✅ L’objectif est validé une fois qu’une synthèse de l’identification de leurs points forts et leurs limites des 3 stratégies est écrite.
+
+### Objectif N°5
+🎯 Recenser les 5 outils/canaux les plus couramment utilisés en communication interne d’ici au 28 mars 2025, en identifiant les cas d’utilisation et leur pertinence.
+
+✅ L’objectif est validé une fois qu’une synthèse des cas d’utilisations des 5 outils ainsi que leur pertinence est rédigé.
 
 ## Démarche
-
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Étant donné que nous n’avons aucunes périodes de cours alloué à ce travail, je vais essayer de prendre en tout cas une moyenne 3h par semaines pour atteindre mes objectifs d’ici à leurs dates limite.
 
 ## 5 questions
+### Question N°1
+Qu’est-ce que la communication interne d’une entreprise et sa stratégie?
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+### Question N°2
+À quoi sert une stratégie de communication interne pour une entreprise?
+
+### Question N°3
+Comment se construit une stratégie de communication interne?
+
+### Question N°4
+À quoi doit-on faire attention lors de la construction d’une stratégie de communication interne?
+
+### Question N°5
+Comment évaluer l’efficacité d’une stratégie de communication interne dans une entreprise ?
 
 ## Expérimentation
-
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Étant donné mon sujet d’étude, je réaliserai un document PDF qui synthétisera toutes mes recherches et apprentissages qui me permettront notamment d’atteindre les objectifs SMART fixés.
 
 ---
 
