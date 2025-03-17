@@ -1,38 +1,75 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-2 EMERI LEO - RAG
 
-# ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
+## Mon sujet d'étude est le Retrieval Augmented Generation (RAG)
 
-## Mon sujet d'étude est ...
-
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Le Retrieval Augmented Generation (RAG) est une technique combinant un modèle génératif et un mécanisme de récupération de données. Le principal avantage est de pouvoir générer du contenu de manière cohérente, en gardant un modèle et un ton constant. Uniquement la source des données change selon le contexte mais pas le modèle.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+J'ai choisi ce sujet car c'est une technologie à laquelle je m'intéresse déjà de par mon travail chez Nespresso et par intérêt pour la Gen AI en général.
+Les avantages pour mon TB sont de pouvoir créer des contenus automatisés et cohérents, en adoptant un même ton de marque, sans se soucier de modifier les poids du modèle à chaque génération.
+C'est également intéressant pour mon futur professionnel car cela renforce mes compétences en intelligence artificielle et en intégration de solutions technologiques innovantes.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Connaissances et pratique à ce jour :
+* J'ai assisté à plusieurs talks sur le RAG, dans le cadre de mon travail et du cours IIM à San Francisco, et comprends donc son utilité dans la génération de contenu.
+* J'ai rapidement expérimenté avec quelques outils en ligne comme Elastic AI Playground et acquis des notions de base sur son fonctionnement.
+
+Implications :
+* Ce niveau de connaissance pourra me permettre de démarrer un prototype puis de mettre en place une intégration dans un environnement local.
+* Dans mon cas, cette auto-formation va me permettre de passer de concepts et connaissances à des compétences pratiques afin de pouvoir explorer les possibilités et tester les limites de cette technologie.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
-
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+1. Créer un prototype de RAG en local d’ici au 28 mars 2025, en intégrant un modèle génératif open-source (ex. DeepSeek via Ollama) et une solution de recherche de données (ex. Elastic).
+* Critère de réussite : Le prototype devra produire des réponses cohérentes et pertinentes pour au moins 80 % d’un ensemble de 20 questions testées.
+2. Valider l’efficacité du RAG pour le TB, en comparant ses performances avec celles d’un modèle génératif classique, et en identifiant ses avantages et limites.
+* Critère de réussite : L’objectif sera atteint si une analyse comparative démontre une amélioration significative en termes de pertinence et de cohérence des réponses.
+3. Documenter et synthétiser le processus d’implémentation et de test du prototype d’ici au 28 mars 2025, en détaillant les étapes, les réglages effectués et les résultats obtenus.
+* Critère de réussite : La rédaction d’un rapport final complet, incluant une synthèse des points forts et des limites du RAG dans le cadre du TB.
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+La répartition des 36 heures se fera en 3 phases:
+1. Documentation et tests en ligne (10 heures)
+* Se documenter sur le RAG et tester les fonctionnalités disponibles sur des plateformes comme Elastic pour comprendre les mécanismes exacts de récupération et de génération.
+* Identifier les paramètres et configurations pertinentes pour le prototype.
+2. Implémentation et premiers tests locaux (16 heures)
+* Développer un prototype local intégrant un modèle open-source comme DeepSeek ou Llama et un moteur de recherche dans le style d’Elastic.
+* Réaliser des tests initiaux pour valider la récupération des données et l’intégration du modèle génératif.
+3. Finalisation du Prototype et Validation (10 heures)
+* Affiner le prototype en ajustant les paramètres et en corrigeant les éventuels problèmes identifiés lors des tests.
+* Mettre en place des tests (dont les 5 questions définies ci-dessous) pour évaluer la performance et la pertinence du système.
+* Documenter l’ensemble du processus et rédiger le rapport final.
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Est-ce que le RAG est adapté à mon Travail de Bachelor ?
+Évaluer si le système répond aux besoins spécifiques du TB en termes de cohérence et d’automatisation.
+
+2. Est-ce que mon prototype fonctionne ?
+Vérifier que le pipeline (récupération + génération) produit des réponses pertinentes et cohérentes lors des tests.
+
+3. Quels sont les avantages et les limites du RAG dans ce contexte ?
+Analyser les bénéfices apportés par l’intégration de la récupération de données par rapport à une génération pure.
+
+4. Comment optimiser la récupération des données pour garantir un contexte pertinent ?
+Tester différents paramètres de recherche et évaluer leur impact sur la qualité des réponses générées.
+
+5. Quelles alternatives peuvent être envisagées si le modèle ne répond pas correctement ?
+Identifier des solutions de repli ou des ajustements à mettre en place pour améliorer le système en cas de résultats insuffisants.
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+La validation de l’apprentissage se fera via la réalisation d’un prototype Proof of Concept (POC) :
+* Prototype POC :
+  * Intégration d’un modèle génératif open-source (ex : via Ollama/DeepSeek) avec une solution de récupération de données (Elastic ou équivalent).
+  * Tests sur des cas concrets avec un ensemble de questions définies afin de vérifier la pertinence et la qualité des réponses.
+* Méthode de test et critères de réussite :
+  * Le prototype devra répondre correctement aux tests définis.
+  * Les performances seront évaluées sur la cohérence, la pertinence et l’exactitude des réponses générées.
+  * La documentation des tests et des ajustements apportés viendra compléter cette validation.
 
 ---
 
