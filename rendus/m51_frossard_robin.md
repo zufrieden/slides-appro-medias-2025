@@ -1,40 +1,40 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-1/2 FROSSARD ROBIN - ANALYSE DE LA REPRESENTATION DES SPONSORS VIA LES RESEAUX SOCIAUX DE CLUB SPORTIFS
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Mon sujet d'étude "Analyse de la representation des sponsors via les réseaux sociaux de club sportifs" 
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+Ce sujet va me permettre d'obtenir des compétences et des connaissances dans un sujet qui sera très présent dans le cadre de mon travail de Bachelor étant donné que je vais devoir créer la campagne de publication de l'année prochaine pour le club de basket pour lequel je vais travailler. 
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+J'ai un niveau basique et des connaissances basiques. J'aimerai cerner toutes les possiblités qui s'offrent à un club sportif afin de pouvoir par la suite utiliser celle qui sont le plus approprié.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+Analyser la communication et la réprésentation de leur sponsors de 4 clubs de différents domaines.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+Lister les différentes réprensations des sponsors et lister leurs faiblesses et forces.
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Je vais d'abord définir quels sont les clubs que je vais étudier la communications. Ensuite je vais étudier ce qu'ils font. Analyser leur réprésentation des sponsors, lister les points forts et points faible.
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Est-ce que je suis au courant de ce qu'il se fait dans le  maintenant ?
+2. Est-ce que j'ai appris des choses que je vais pouvoir appliquer dans mon travail de bachelor ?
+3. Quels sont, selon moi les 5 meilleures manières de represésenter un sponsor ?
+4. Quels sont, selon moi les choses à éviter lors de la représentation d'un sponsor
+5. Quel est la chose, si il y en a une, que j'ai encore de la peine à comprendre/appliquer dans le sujet sur lequel je devrais m'améliorer ?
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
-
----
+Réaliser une publication pour les RS de mon club en appliquant ce que j'aurai appris.
 
 # RAPPORT FINAL À RENDRE POUR LE 28 MARS 23h59
 
