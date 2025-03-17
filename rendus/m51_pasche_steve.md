@@ -1,38 +1,59 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-1/2 Pasche Steve - Autolayout Figma
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+L'optimisation de l'utilisation des Auto Layouts sur Figma pour améliorer la conception et la flexibilité des interfaces utilisateur.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+Dans le cadre de mon Travail de Bachelor, je conçois une plateforme UX/UI nécessitant une grande adaptabilité et une structure claire. La maîtrise avancée des Auto Layouts sur Figma est essentielle pour accélérer le processus de design, garantir la cohérence des composants et faciliter les itérations lors des tests utilisateurs.
 
+Cet apprentissage me permettra non seulement d'améliorer l'efficacité de mon projet actuel, mais aussi de renforcer mes compétences professionnelles en design systématique et en prototypage avancé, ce qui est crucial pour mon avenir en UX/UI design.
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+J’ai déjà une bonne maîtrise de Figma et des concepts de design UX/UI, mais mon utilisation des Auto Layouts reste très basique. Je souhaite approfondir mes connaissances pour exploiter pleinement cette fonctionnalité, notamment en ce qui concerne :
+
+- La gestion des composants dynamiques,
+- L’adaptation automatique des mises en page,
+- L’amélioration de la réutilisabilité des designs.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+Comprendre les fonctionnalités avancées d’Auto Layout : Explorer en détail ses possibilités pour structurer des interfaces flexibles.   
+**Critère de réussite :** Faire des tests sur des cas concrets (maquettes).
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+Créer un système de composants optimisé : Structurer une librairie réutilisable adaptée aux besoins de mon projet TB.   
+**Critère de réussite :** Mise en place d’un Design System de base optimisé avec Auto Layout.
+
+Gagner en efficacité dans la conception : Réduire le temps nécessaire aux ajustements manuels et améliorer l’organisation des fichiers Figma.   
+**Critère de réussite :** Comparaison du temps de conception avant/après l’apprentissage.
+
+Appliquer ces connaissances à mon projet TB : Optimiser les wireframes et prototypes en tirant parti d’Auto Layout.   
+**Critère de réussite :** Prototypage complet de l’interface principale avec Auto Layout.
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Semaine 1 : Recherche et apprentissage des fonctionnalités avancées d’Auto Layout (tutoriels, documentation, exercices pratiques).  
+Semaine 1-3 : Création d’un Design System de base qui pourrais m'aider pour la suite.  
+Semaine du 28 mars : Comparaison des méthodes avant/après et documentation des gains d’efficacité.  
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+Comment structurer des interfaces complexes avec Auto Layout sans compromettre leur flexibilité ?  
+Quelles sont les meilleures pratiques de composants d'Auto Layout ?  
+Comment optimiser l’adaptabilité des interfaces pour différentes tailles d’écran en utilisant Auto Layout ?  
+Quels gains de productivité peut-on mesurer en utilisant Auto Layout efficacement ?  
+Quels sont les éléments essentiels d’un Design System efficace sur Figma ?  
 
-## Expérimentation
+## Expérimentation   
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Pour valider mon apprentissage, je vais concevoir et documenter un Design System de base avec des éléments qui me seront utile et que je pourrais réutiliser dans le futur.
+Je structurerai une bibliothèque de composants réutilisables avec Auto Layout et styles globaux.  
+Je comparerai l’efficacité du design avant/après l’implémentation du Design System.  
+
+Cette expérimentation me permettra d’optimiser mon futur TB tout en acquérant une meilleur expertise dans le domaine de l'UI/UX.  
 
 ---
 
