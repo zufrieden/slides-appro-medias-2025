@@ -1,38 +1,85 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-2 KASPER LOHANN - WORDPRESS
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est : WordPress
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+WordPress est un système de gestion de contenu (CMS) open-source permettant de créer, gérer et personnaliser des sites web. Il est utilisé par des millions de sites à travers le monde, allant de simples blogs à des sites d'entreprise complexes. Son écosystème inclut des thèmes, des plugins et une large communauté de développeurs.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+J’ai choisi ce sujet car WordPress est largement utilisé dans le domaine du développement web et peut être un atout majeur pour mon Travail de Bachelor (TB). Mon TB consiste en la refonte d’un site web, et j’aimerais donc approfondir mes connaissances en WordPress afin de mener à bien ce projet. En maîtrisant WordPress, je pourrai proposer une solution moderne, optimisée et adaptée aux besoins du site en question.
+
+De plus, WordPress est une compétence valorisée dans le monde professionnel, que ce soit pour des projets freelance, du développement web ou du marketing digital. En acquérant ces compétences, je pourrai proposer des solutions adaptées aux besoins des clients et entreprises.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+J’ai déjà une bonne expérience avec la structure de base de WordPress, l’utilisation des plugins et l’optimisation SEO. Cependant, je souhaite approfondir mes compétences dans la gestion technique avancée (hébergement, migration, configuration et sécurité) ainsi que dans la gestion et l’optimisation d’un site WordPress existant.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+Mes objectifs sont formulés selon la méthode SMART :
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+- Apprendre à migrer un site WordPress vers un domaine existant (configuration d’un hébergement, exportation et importation des données, redirection du domaine Wix vers WordPress) en trois semaines.
+
+- Maîtriser la gestion avancée d’un hébergement WordPress (FTP, base de données, certificats SSL, redirections) et sécuriser un site WordPress contre les cyberattaques.
+
+- Optimiser les performances et la sécurité d’un site WordPress existant (mise en cache, compression d’images, protection contre les attaques).
+
+- Valider le processus de mise en ligne d’un site WordPress sur son domaine final en assurant son bon fonctionnement après la migration.
+
+Validation des objectifs :
+
+- Comprendre et documenter les étapes d’une migration complète d’un site Wix vers WordPress.
+
+- Configurer un hébergement et explorer les bonnes pratiques de sécurisation.
+
+- Tester et analyser l’impact des optimisations de performance sur un site WordPress.
+
+- Vérifier la stabilité et le bon fonctionnement d’un site WordPress en environnement de test.
+
+
+
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+- Migration et hébergement (12h) : Étude des techniques de migration depuis Wix, configuration d’un environnement de test pour simuler la migration.
+
+- Sécurisation et configuration avancée (10h) : Mise en place des certificats SSL, exploration des mesures de protection contre les cyberattaques et test des configurations de sécurité.
+
+- Optimisation des performances (8h) : Mise en place d’outils d’optimisation, gestion du cache, compression d’images et amélioration du temps de chargement sur un environnement de test.
+
+- Validation des apprentissages (6h) : Rédaction d’un guide récapitulatif des étapes clés et des meilleures pratiques découvertes.
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+- Quelles sont les meilleures méthodes pour migrer un site Wix vers WordPress tout en conservant le même nom de domaine ?
+
+- Comment sécuriser un site WordPress contre les attaques courantes et les vulnérabilités ?
+
+- Comment configurer un hébergement WordPress avancé avec gestion des certificats SSL et des redirections ?
+
+- Quelles sont les bonnes pratiques pour optimiser la performance d’un site WordPress après sa migration ?
+
+- Quels outils permettent d’améliorer la sécurité et la rapidité d’un site WordPress existant ?
+
+
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Pour valider mes compétences, je vais :
+
+- Effectuer une étude approfondie des étapes nécessaires à la migration d’un site Wix vers WordPress.
+
+- Configurer un hébergement de test et mettre en place des mesures de sécurité avancées.
+
+- Tester différentes optimisations de performances sur un site WordPress existant.
+
+- Rédiger un guide détaillé expliquant la démarche de migration, d’hébergement et d’optimisation.
+
+Cette expérimentation me permettra d’acquérir des connaissances pratiques que je pourrai appliquer lors de la refonte du site pour mon Travail de Bachelor.
 
 ---
 
