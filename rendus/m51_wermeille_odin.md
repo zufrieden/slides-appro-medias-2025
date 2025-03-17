@@ -1,38 +1,40 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-1/2 WERMEILLE ODIN - REACT.JS
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est React.js
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+_React.js est une bibliothèque open source JavaScript pour créer des interfaces utilisateurs._ 
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+_J'ai choisi ce sujet, car React.js est beaucoup utilisé dans le monde professionnel. Il me sera donc utile par la suite et, dans des délais plus bref, dans le cadre de mon travail de bachelor avec AlbaSim. Dans ce travail, j'ai le choix de développer l'interface qui m'est demandée avec WEGAS, si je peux y parvenir à temps ou React.js._
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+_J'ai des connaissances en JavaScript ainsi que, plus généralement en code, mais je n'ai jamais utilisé React.js. Je ne vais donc pas viser une maîtrise totale lors du rendu final de ce cours._
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
-
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+_Compléter la section Get Started sur https://react.dev/learn avant le 28.03.2025 à 23h (une heure pour compléter le rapport)._
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+_Répartition du temps disponible (~20h) entre les étapes : QuickStart (3h), Tutorial: Tic-Tac-Toe (2h), Thinking in React (2h), Installation(1/2h), Creating a React App (1h), Build a React app from Scratch (1h), Add React to an Existing Project (1h), Setup (-), Editor Setup (-), Using TypeScript (6h), React Developer Tools (1/2h), React Compiler (2h). Une heure est réservée aux recherches auxiliaires._
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+_Comment créer une app React.js ?
+Quelle sont les 3 plus grands avantages de React.js par rapport à Vue.js ?
+Quelle sont les 3 plus grands désavantages de React.js par rapport à Vue.js ?
+Y a t-il une différence de vitesse entre React et Vue? Si oui, laquelle?
+Quels navigateurs sont incompatibles avec React?_
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+_Je vais créer un repo GitHub qui contiendra mes essais sur React, ainsi que quelques exercices proposés sur https://react.dev/learn/react-developer-tools. Le lien sera inclu dans le rendu du 28.03.2025_
 
 ---
 
