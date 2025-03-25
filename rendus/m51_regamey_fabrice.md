@@ -102,6 +102,10 @@ En ce qui concerne la partie que j'ai pu réaliser, elle s'est avérée formatri
 
 _Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
 
+Pour terminer la certification "Google Search", il m'a fallu un peu plus de 10 heures, bien loin des 5 heures estimées.\
+Ceci est majoritairement dû aux conditions de travail. Je n'ai que très rarement pu me dégager plus d'une heure, ce qui ne permettait pas d'être très productif. J'ai essayé d'utiliser le temps de trajet dans le train ou encore le peu qu'il me restait le soir pour avancer dans la formation. Il était compliqué, à chaque petite session, de se mettre dedans et d'avancer efficacement.\
+Il m'a aussi fallu plus de temps car la formation est donnée en anglais et utilise beaucoup de termes techniques.
+
 ## Réflexion sur la méthode d'auto-formation
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
