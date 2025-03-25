@@ -96,7 +96,7 @@ _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessai
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
 
 J'ai commencé par m'identifier et créer mon espace sur la plateforme de formation Google nommée Skillshop. J'ai ensuite tout simplement tenté de libérer le plus de temps possible afin de suivre les formations.\
-En ce qui concerne la partie que j'ai pu réaliser, elle s'est avérée formatrice. Je n'avais aucune connaissance de base, et cela m'a permis d'en acquérir, mais surtout de briser la glace avec la vision complexe que j'avais des outils Google.\
+En ce qui concerne la partie que j'ai pu réaliser, elle s'est avérée formatrice. Je n'avais aucune connaissance de base, et cela m'a permis d'en acquérir, mais surtout de briser la glace avec la vision complexe que j'avais des outils Google.
 
 ## Investissement
 
