@@ -84,12 +84,19 @@ Je fournirai les certifications obtenues lorsque celles-ci sont disponibles ains
 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
 
+La réalité est bien différente de notre idéal planifié.\
+J'ai comblé une partie de mes attentes en ce qui concerne l'acquisition de nouvelles connaissances sur l'écosystème Google. Je pensais cependant réussir à en acquérir davantage.\
+Les objectifs n'ont pas été atteints, seule une formation a été validée. J'avoue avoir été surpris d'avoir besoin d'autant de temps pour compléter ne serait-ce qu'une formation.\
+
 ## Réponses aux 5 questions
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
 
 ## Résultat de l'expérimentation
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+J'ai commencé par m'identifier et créer mon espace sur la plateforme de formation Google nommée Skillshop. J'ai ensuite tout simplement tenté de libérer le plus de temps possible afin de suivre les formations.\
+En ce qui concerne la partie que j'ai pu réaliser, elle s'est avérée formatrice. Je n'avais aucune connaissance de base, et cela m'a permis d'en acquérir, mais surtout de briser la glace avec la vision complexe que j'avais des outils Google.\
 
 ## Investissement
 
@@ -99,7 +106,10 @@ _Détaillez le temps passé et les écarts avec l'investissement imaginé au dé
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
 
+
+
 ## Conclusion
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
+
 _Quelles implications pour votre TB et pourquoi ?_
