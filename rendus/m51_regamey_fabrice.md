@@ -30,8 +30,8 @@ _Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignabl
 
 _Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
 
-- D'ici au 28 mars, j’obtiendrai les certifications Google (Display, Search, Measurement, Analytics) en suivant les formations officielles et en validant les examens correspondants.\
-- D'ici au 28 mars, je validerai la certification "Meta Certified Media Buying Professional" en complétant les formations associées et en réussissant l’évaluation (si elle est accessible).\
+- D'ici au 28 mars, j’obtiendrai les certifications Google (Display, Search, Measurement, Analytics) en suivant les formations officielles et en validant les examens correspondants.
+- D'ici au 28 mars, je validerai la certification "Meta Certified Media Buying Professional" en complétant les formations associées et en réussissant l’évaluation (si elle est accessible).
 - D’ici au 28 mars, je rédigerai au moins deux résumés (google et meta) issus des formations suivies pour consolider mes apprentissages.
 
 ## Démarche
@@ -46,13 +46,13 @@ Au vu des délais donnés et de la composition des journées (études, transport
 
 Voici le descriptif de la répartition de la charge de travail :
 
-  Google Ads - Display Certification	**3h**\
-  Google Ads - Measurement Certification	**4h**\
-  Google Ads - Search Certification	**4h**\
-  Google Analytics Certification	**5h**\
+  Google Ads - Display Certification	**3h**
+  Google Ads - Measurement Certification	**4h**
+  Google Ads - Search Certification	**4h**
+  Google Analytics Certification	**5h**
   --------------\
-  Lecture du support "Facebook Media Buying Professional"	**1h**\
-  Meta Certified Media Buying Professional (et ses formations associées)	**5h**\
+  Lecture du support "Facebook Media Buying Professional"	**1h**
+  Meta Certified Media Buying Professional (et ses formations associées)	**5h**
   --------------\
   Rédaction de notes et résumé **2h**\
   --------------\
