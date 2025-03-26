@@ -121,3 +121,84 @@ Un des grands avantages de cette auto-formation est qu’elle m’a permis de me
 ## Conclusion
 
 J’ai renforcé mes compétences en IA appliquée, mieux compris les technologies de reconnaissance d’images, et identifié leurs applications concrètes dans le secteur de l’assurance. Cela me donne des pistes concrètes pour enrichir mon Travail de Bachelor, notamment pour la proposition d’une interface intelligente dans l’eFnol. Ce travail m’a aussi donné confiance pour aborder des sujets techniques plus complexes dans le futur.
+
+
+---
+
+
+# EXPERIMENTATION: RAPPORT DE SYNTHÈSE
+
+## IA et reconnaissance d’images pour l’évaluation automatique des sinistres
+
+### 1. Introduction
+
+Dans le cadre de mon Travail de Bachelor à la Vaudoise Assurances, je travaille sur la refonte de l’application eFnol, destinée à la déclaration de sinistres. L’objectif est de proposer une expérience utilisateur optimisée, plus fluide et plus efficace. Dans ce contexte, l’intégration d’une solution d’intelligence artificielle (IA), notamment via la reconnaissance d’images, pourrait considérablement améliorer le processus d’évaluation des sinistres.
+
+Le présent rapport vise à explorer les outils disponibles, à comprendre les usages concrets dans le domaine de l’assurance, et à formuler des pistes de réflexion pour une application future au sein de la Vaudoise.
+
+### 2. Panorama des outils d’IA pour la reconnaissance d’images
+
+#### Google Vision AI
+- Fonctionnalités : Analyse d’images (objets, visages, textes, scènes), détection de labels, reconnaissance de logos, lecture de documents (OCR).  
+- Avantages : Facilité d’intégration via API, très bonne documentation, précis sur les objets et environnements.  
+- Limites : Solution payante (après un quota gratuit), envoi des données sur les serveurs de Google (enjeux RGPD).
+
+#### AWS Rekognition
+- Fonctionnalités : Détection d’objets, de scènes, de visages, reconnaissance faciale, évaluation de similarité entre images.  
+- Avantages : Solution complète avec beaucoup de services autour, bien intégrée dans l’écosystème Amazon.  
+- Limites : Moins accessible sans expérience AWS, facturation rapide à l’usage, peu de transparence sur les coûts à grande échelle.
+
+#### OpenCV (Open Source)
+- Fonctionnalités : Bibliothèque très complète pour la manipulation d’images et de vidéos (détection d’objets, contours, mouvement).  
+- Avantages : Gratuit et open-source, totalement personnalisable, très utilisée dans la recherche.  
+- Limites : Requiert de bonnes compétences en développement (Python/C++), pas une solution clé-en-main.
+
+Aucun outil étudié n’est entièrement gratuit pour un usage à long terme. Tous demandent un minimum de compétences techniques pour l’intégration, ce qui constitue un frein dans un contexte où l’équipe projet est plutôt centrée sur l’UX. Toutefois, ces outils offrent un potentiel important pour automatiser une première lecture des images de sinistres (bris de glace, dégâts carrosserie, inondation…).
+
+### 3. Applications concrètes dans l’assurance
+
+#### Tractable (UK)
+- Fournit des solutions d’évaluation de sinistres auto à partir de simples photos, utilisées notamment par des assureurs comme Covéa (FR) ou Geico (USA).  
+- Résultats : Réduction du temps de traitement des sinistres de plusieurs jours à quelques minutes.
+
+#### Lemonade (USA)
+- Assurance 100% digitale qui utilise des IA pour traiter les réclamations très rapidement.  
+- Fonctionnement : Analyse automatique de photos, détection de fraudes, réponse instantanée dans certains cas.
+
+#### Autres cas
+- Aviva, Allianz, etc. intègrent progressivement la reconnaissance d’images pour accélérer le traitement.
+
+### 4. Observations
+
+Ce qu’on observe :
+- L’IA est déjà utilisée dans le secteur, mais souvent via des startups partenaires spécialisées.
+- L’implémentation se fait par étapes, en commençant par des cas simples (dommages visibles, sinistres fréquents).
+- Les retours sont majoritairement positifs, notamment pour le gain de temps et la satisfaction client.
+- Des limites subsistent : coût des solutions, précision variable, enjeux réglementaires (RGPD) et acceptabilité par les assurés.
+
+### 5. Recommandations pour la Vaudoise
+
+L’intégration d’une IA de reconnaissance d’images dans eFnol pourrait être pertinente dans une optique d’amélioration continue de l’expérience client. Toutefois, plusieurs conditions doivent être réunies :  
+
+**Opportunités**
+- Fluidification du parcours utilisateur : prise de photo intuitive, réponse automatisée ou semi-automatisée.
+- Réduction de la charge des gestionnaires : pré-analyse des sinistres fréquents.
+- Innovation différenciante sur le marché suisse.
+
+**Freins à anticiper**
+- Coût des technologies : les solutions performantes sont rarement gratuites.
+- Intégration technique complexe : demande des ressources en développement.
+- Questions éthiques et juridiques : traitement des données personnelles sensibles.
+
+**Piste réaliste à court terme**
+- Mettre en place un prototype simple dans eFnol, permettant :
+- La prise de photo intégrée (mobile/web).
+- Un envoi vers une API d’analyse basique (test avec quota gratuit de Google Vision ou AWS).
+- Une interprétation manuelle assistée (l’IA propose une pré-catégorisation, l’humain valide).
+
+### 6. Conclusion
+
+Ce travail de synthèse a permis d’identifier les possibilités et les limites des outils d’IA pour l’évaluation des sinistres par image. Il conforte l’idée qu’une telle solution peut renforcer l’efficacité d’une application comme eFnol, à condition d’envisager une intégration progressive, maîtrisée, et centrée sur l’expérience utilisateur.
+
+Il serait pertinent de proposer dans le cadre du Travail de Bachelor un axe de réflexion (ou un POC théorique) autour de cette thématique, en lien avec les maquettes UX/UI proposées dans la refonte de l’eFnol.
+
