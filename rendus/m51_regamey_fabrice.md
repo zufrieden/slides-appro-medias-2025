@@ -87,6 +87,7 @@ _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-form
 La réalité est bien différente de notre idéal planifié.\
 J'ai comblé une partie de mes attentes en ce qui concerne l'acquisition de nouvelles connaissances sur l'écosystème Google. Je pensais cependant réussir à en acquérir davantage.\
 Les objectifs n'ont pas été atteints, seule une formation a été validée. J'avoue avoir été surpris d'avoir besoin d'autant de temps pour compléter ne serait-ce qu'une formation.\
+Je suis actuellement en train de suivre la certification "Google Analytics".\
 
 ## Réponses aux 5 questions
 
@@ -110,10 +111,27 @@ Il m'a aussi fallu plus de temps car la formation est donnée en anglais et util
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
 
+L’auto-formation présente plusieurs avantages:\
+- la flexibilité d’apprentissage\
+- la possibilité de progresser à son propre rythme\
+- de cibler précisément les compétences dont on a besoin\
+
+Et aussi des inconvénients:\
+- l'absence de cadre strict\
+- aucun accompagnement\
+- 
+
 
 
 ## Conclusion
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
 
+J'ai appris que l'auto-formation demande une grande discipline et une organisation rigoureuse, surtout lorsqu'on a un emploi du temps chargé.\ 
+J’ai également constaté que suivre des formations en anglais avec un vocabulaire technique demande un effort supplémentaire et augmente le temps d’apprentissage.\
+Dernier point, je me suis rendu compte de l'importance de se dégager de vraies plages horaires afin d'être plus efficace, plutôt que d’essayer de progresser par petites sessions dispersées.\
+
 _Quelles implications pour votre TB et pourquoi ?_
+
+Cette formation m'a permis d’acquérir des compétences qui me seront utiles dans le cadre de mon activité d'indépendant que je souhaite lancer.\
+Car en comprenant mieux les outils Google pour la publicité digitale, je serai en meilleure posture pour apporter une réelle valeur ajoutée aux PME, même s'il me reste encore beaucoup à apprendre.\
