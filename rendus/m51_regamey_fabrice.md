@@ -56,7 +56,7 @@ Voici le descriptif de la répartition de la charge de travail :
   --------------\
   Rédaction de notes et résumé **2h**\
   --------------\
-  Total	**24h**\
+  Total	**24h**
 
 Je m'organiserai pour prendre chaque formation les unes après les autres, sans dépasser le temps fixé. J'effecturai aussi des résumés lorsque ce sera pertinent.  
 
@@ -64,11 +64,11 @@ Je m'organiserai pour prendre chaque formation les unes après les autres, sans 
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
-- Quels sont les principaux types de campagnes disponibles sur Google Ads et dans quels cas les utiliser ?\
-- Comment Google Analytics 4 permet-il de suivre et d’analyser les performances d’une campagne publicitaire ?\
-- Quels critères sont essentiels pour définir une audience efficace sur Meta Ads ?\
-- Quelles sont les principales différences entre Google Ads et Meta Ads en termes de ciblage et de format publicitaire ?\
-- Quels indicateurs clés (KPIs) doivent être surveillés pour mesurer l’efficacité d’une campagne publicitaire en ligne ?\
+- Quels sont les principaux types de campagnes disponibles sur Google Ads et dans quels cas les utiliser ?
+- Comment Google Analytics 4 permet-il de suivre et d’analyser les performances d’une campagne publicitaire ?
+- Quels critères sont essentiels pour définir une audience efficace sur Meta Ads ?
+- Quelles sont les principales différences entre Google Ads et Meta Ads en termes de ciblage et de format publicitaire ?
+- Quels indicateurs clés (KPIs) doivent être surveillés pour mesurer l’efficacité d’une campagne publicitaire en ligne ?
 
 ## Expérimentation
 
@@ -84,10 +84,10 @@ Je fournirai les certifications obtenues lorsque celles-ci sont disponibles ains
 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
 
-La réalité est bien différente de notre idéal planifié.\
+La réalité est bien différente de notre idéal planifié.
 J'ai comblé une partie de mes attentes en ce qui concerne l'acquisition de nouvelles connaissances sur l'écosystème Google. Je pensais cependant réussir à en acquérir davantage.\
 Les objectifs n'ont pas été atteints, seule une formation a été validée. J'avoue avoir été surpris d'avoir besoin d'autant de temps pour compléter ne serait-ce qu'une formation.\
-Je suis actuellement en train de suivre la certification "Google Analytics".\
+Je suis actuellement en train de suivre la certification "Google Analytics".
 
 ## Réponses aux 5 questions
 
@@ -111,14 +111,14 @@ Il m'a aussi fallu plus de temps car la formation est donnée en anglais et util
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
 
-L’auto-formation présente plusieurs avantages:\
-- la flexibilité d’apprentissage\
-- la possibilité de progresser à son propre rythme\
-- de cibler précisément les compétences dont on a besoin\
+L’auto-formation présente plusieurs avantages:
+- la flexibilité d’apprentissage
+- la possibilité de progresser à son propre rythme
+- de cibler précisément les compétences dont on a besoin
 
-Et aussi des inconvénients:\
-- l'absence de cadre strict\
-- aucun accompagnement\
+Et aussi des inconvénients:
+- l'absence de cadre strict
+- aucun accompagnement
 - 
 
 
