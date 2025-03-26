@@ -46,10 +46,10 @@ Au vu des délais donnés et de la composition des journées (études, transport
 
 Voici le descriptif de la répartition de la charge de travail :
 
-  Google Ads - Display Certification	**3h**
-  Google Ads - Measurement Certification	**4h**
-  Google Ads - Search Certification	**4h**
-  Google Analytics Certification	**5h**
+  Google Ads - Display Certification	**3h**\
+  Google Ads - Measurement Certification	**4h**\
+  Google Ads - Search Certification	**4h**\
+  Google Analytics Certification	**5h**\
   --------------\
   Lecture du support "Facebook Media Buying Professional"	**1h**
   Meta Certified Media Buying Professional (et ses formations associées)	**5h**
