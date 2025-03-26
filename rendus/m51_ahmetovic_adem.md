@@ -76,24 +76,49 @@ _Création d'un document récapitulatif avec les enseignements tirés qui m'aide
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+_Au début de cette auto-formation, mon objectif était d'améliorer ma gestion de projet en communication digitale en utilisant des outils comme Jira et en explorant différentes méthodologies (Agile, Cascade, Kanban). Je voulais structurer efficacement un projet, suivre son avancement et mieux communiquer avec les parties prenantes._
+
+_Cependant, en raison de la charge de travail importante liée à d'autres projets académiques, notamment le **Crunch** et le **projet d'intégration**, je n'ai pas pu consacrer autant de temps que prévu à cette auto-formation. J’ai réussi à explorer certaines fonctionnalités de Jira et à mieux comprendre les différences entre Agile et Cascade, mais je n’ai pas pu approfondir tous les aspects comme initialement prévu._
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. **Comment structurer efficacement un projet digital dans Jira ?**
+   - Une structure efficace repose sur la création d'une structure de nommage efficace. On peut utiliser la structure suivante pour organiser les tâches : Epic -> Story -> Task -> Subtask.
+   - L'utilisation de jalons permet de suivre les étapes clés et d'anticiper les blocages.
+
+2. **Quels sont les avantages et limites des méthodologies Agiles et Cascades dans un contexte de communication digitale ?**
+   - **Avantages d’Agile** : flexibilité, adaptation aux imprévus, itérations fréquentes permettant des ajustements rapides.
+   - **Limites d’Agile** : peut être difficile à suivre sans une bonne organisation, demande une forte implication des parties prenantes.
+   - **Avantages de Cascade** : structuration claire du projet, utile pour des projets avec des étapes bien définies.
+   - **Limites de Cascade** : manque de flexibilité, difficile d’intégrer des changements en cours de route.
+
+3. **Comment suivre et adapter un planning en fonction des imprévus et des besoins des parties prenantes ?**
+   - Avec l'anticipation des risques et l’ajustement des priorités.
+   - Jira permet aussi un suivi efficace grâce aux statuts de tâches.
+
+4. **Quels indicateurs de performance utiliser pour évaluer l’avancement et le succès d’un projet de communication ?**
+   - Taux d’achèvement des tâches et le respect des délais.
+   - D'autres indicateurs spécifiques peuvent être utilisés dans la communication comme le taux d’interaction ou le retour sur investissement des campagnes.
+
+5. **Comment présenter de manière claire et impactante l’état d’avancement d’un projet ?**
+   - Structurer les présentations avec les points clés : objectifs, avancements, risques, prochaines étapes.
+   - Utiliser des visuels (graphiques, diagrammes de Gantt, tableaux de progression).
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+_L’expérimentation a été partielle en raison du manque de temps. J’ai pu découvrir des outils et des méthodes, mais sans les appliquer à un projet complet. J’ai néanmoins acquis des bases utiles que je pourrai approfondir pendant la suite du projet d'intégratione participant à la gestion du projet et lors de mon travail de Bachelor._
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+- **Temps prévu** : 36 heures
+- **Temps réel investi** : Environ 28 heures
+- **Pourquoi cet écart ?** La priorité a été donnée au **Crunch** et au **projet d’intégration**, qui nécessitaient une implication importante. Cela a réduit mon temps disponible pour cette auto-formation.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+- **Avantages** : Flexibilité, apprentissage ciblé selon mes besoins.
+- **Inconvénients** : Difficulté à prioriser l’auto-formation face à des obligations académiques.
+- **Constat** : Sans contrainte externe, il est facile de sous-estimer le temps nécessaire ou de reporter l’apprentissage.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+_Même si je n’ai pas pu atteindre tous les objectifs fixés, j’ai tout de même renforcé mes bases en gestion de projet avec une meilleure compréhension du modèle en cascade et agile et compris l’importance d’une structuration claire avec des outils comme Jira. Ces apprentissages seront utiles pour mon Travail de Bachelor car ils me permetteront de ne pas perdre du temps à me demander ce que je dois faire et pour ma future carrière en marketing digital car ils me permetteront d'accéder plus facilement à des postes à responsabilités._
