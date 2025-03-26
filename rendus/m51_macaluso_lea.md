@@ -85,24 +85,39 @@ Ce travail permettra d’identifier les technologies adaptées et d’anticiper 
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+L’auto-formation s’est globalement déroulée comme prévu. J’avais initialement une bonne base en UX/UI mais peu de connaissances concrètes en IA ou en Computer Vision. Grâce à la planification claire des objectifs SMART, j’ai pu progresser de manière structurée. Les attentes étaient ambitieuses mais réalistes : explorer les technologies d’IA pour mieux comprendre leur potentiel dans le domaine des assurances, en particulier dans le cadre de mon TB à la Vaudoise. À la fin de ce parcours, j’ai acquis une vue d’ensemble des outils de reconnaissance d’images, compris leurs cas d’usage et les problématiques techniques/éthiques associées.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1️⃣ **Quels sont les outils les plus performants pour la reconnaissance d’images dans l’évaluation des sinistres ?**  
+J’ai étudié Google Vision AI, AWS Rekognition et OpenCV. Google Vision AI s’est révélé le plus accessible avec une documentation claire et des résultats fiables. AWS Rekognition offre des performances solides, notamment pour la détection d’objets et de scènes. OpenCV est plus technique et personnalisable, mais demande davantage de compétences en programmation.
+
+2️⃣ **Quels sont les principaux avantages et limites de l’IA appliquée à l’assurance ?**  
+Avantages : gain de temps, objectivité dans l’évaluation, automatisation des processus répétitifs, réduction de la fraude.
+Limites : complexité technique de l’intégration, coût des solutions, risques d’erreurs sur des cas atypiques, besoin d’une validation humaine.
+
+3️⃣ **Quels cas d’usage concrets existent aujourd’hui dans l’industrie de l’assurance ?**  
+Des entreprises comme Tractable ou Lemonade utilisent déjà l’IA pour analyser les dommages automobiles ou traiter les demandes de remboursement. Au Royaume-Uni, plusieurs compagnies intègrent ces technologies pour accélérer la gestion des sinistres auto via photos.
+
+4️⃣ **Comment ces solutions améliorent-elles l’expérience client et la gestion des sinistres ?**  
+Elles réduisent le délai de traitement des dossiers, améliorent la transparence, permettent une réponse quasi instantanée, et diminuent la frustration client liée à l’attente. Côté gestionnaires, elles permettent de se concentrer sur les cas complexes.
+
+5️⃣ **Quels défis techniques et éthiques doivent être pris en compte avant d’adopter ces technologies ?**  
+Techniquement : intégration avec les systèmes existants, qualité des données, sécurisation des échanges.  
+Éthiquement : respect de la vie privée, transparence de l’algorithme, biais possibles dans les décisions automatiques.
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+La réalisation du rapport m’a permis de structurer et synthétiser mes apprentissages. L’étude des outils disponibles, la compréhension de leur fonctionnement et l’analyse de cas concrets ont été très formatrices. J’ai aussi appris à vulgariser des notions techniques pour les rendre compréhensibles dans le contexte métier. Cela m’a donné une meilleure vision stratégique de la place que pourrait avoir l’IA dans le projet eFnol.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Je n’ai pas pu consacrer autant de temps que prévu à cette auto-formation, notamment à cause de la semaine du CRUNCH à la HEIG-VD qui a considérablement mobilisé mon attention et mon énergie. Malgré cela, je suis contente d’avoir pu me renseigner sur le sujet et de m’être familiarisée avec les concepts liés à l’IA et à la reconnaissance d’images. Cela me permet de mieux comprendre les enjeux techniques. Tester certains outils a été plus difficile que prévu, car il ne sont pas forcément gratuits, ce qui a constitué un frein. J’ai donc principalement travaillé à partir de la documentation et de démo.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+Un des grands avantages de cette auto-formation est qu’elle m’a permis de me concentrer sur un sujet qui m’est propre et directement utile pour mon Travail de Bachelor. Cela a renforcé ma motivation à apprendre, car je voyais un lien concret avec mon projet. J’ai pu avancer à mon rythme, me plonger dans des ressources pertinentes et me construire une base de connaissances solide. L’un des défis a été de trier l’information disponible et de rester focalisée sur ce qui était réellement applicable à mon contexte. Le manque de ressources gratuites pour tester certains outils m’a aussi limité dans la pratique.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+J’ai renforcé mes compétences en IA appliquée, mieux compris les technologies de reconnaissance d’images, et identifié leurs applications concrètes dans le secteur de l’assurance. Cela me donne des pistes concrètes pour enrichir mon Travail de Bachelor, notamment pour la proposition d’une interface intelligente dans l’eFnol. Ce travail m’a aussi donné confiance pour aborder des sujets techniques plus complexes dans le futur.
