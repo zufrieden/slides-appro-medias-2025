@@ -40,24 +40,26 @@ Réaliser une publication pour les RS de mon club en appliquant ce que j'aurai a
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Malgré le fait que je pensais que ce projet allait peu m'être  utile. Suite à ma discussion avec mon professeur de TB d'aujourd'hui je suis persuadé que je pourrai utiliser ce que j'ai appris durant mon approfondissement de manière concrète durant mon TB.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. À moitié, j'ai découvert plein de chose durant ma recherche
+2. Oui, la visibilité des sponsors est importante car le club obtient son financement via les sponsors
+3. Publications sponsorisées créatives et engageantes, placement de logo et branding dans les visuels, interviews et collaborations avec le sponsor, jeux-concours et offres exclusives sponsorisées, stories et reels en direct avec intégration du sponsor
 
 ## Résultat de l'expérimentation
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Je penses qu'après avoir analysé ce qu'il se fait, avoir lu des articles et regarder des formations, que j'ai tout résumé dans un document personnel qui me servira de document de rappelle pour la suite de ma carrière, j'ai du arriver autour des 25h. Vu que j'avais terminé ce que je voulais terminé je n'ai pas plus continué.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+Me former moi-même est quelque chose que j'aime faire. J'aime découvrir par moi même et apprendre avec ce que je trouve comme information sur le net. Desfois il est difficile de se motiver à travailler, mais une fois dans ma bulle j'avance vite dans mon travail. Je trouve qu'il est essentiel desfois de travailler seul et avancer à son propre rythme et ses propres horaires.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+J'ai appris beaucoup de chose sur l'importance de la visivilité des sponsors. Ce travail m'a aussi permis de me plonger un peu plus dans ma méthodologie de travail. C'était un peu comme un mini / pré travail de bachelor étant donné que c'était dans le même thème et qu'il s'agit d'un travail solitaire. C'était intéressant de voir les lacunes et les forces que j'ai lorsque je travaile seul. Et comme dis précédemment, moi qui pensait pas forcément que ça allait m'être d'une grande utilité, je pense maintenant que ça va grandement m'aider afin de créer une réele plus value pour le club. 
+
