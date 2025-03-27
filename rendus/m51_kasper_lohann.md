@@ -87,11 +87,57 @@ Cette expérimentation me permettra d’acquérir des connaissances pratiques qu
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+L'objectif de cette auto-formation était d'approfondir mes connaissances en WordPress, notamment en ce qui concerne la migration, l'hébergement avancé, la sécurité et l'optimisation des performances. J'avais déjà une certaine expérience avec WordPress, mais je souhaitais acquérir des compétences plus techniques pour mener à bien la refonte de site prévue dans mon Travail de Bachelor (TB).
+ 
+Dans l'ensemble, mes attentes ont été satisfaites. J'ai pu suivre une démarche structurée qui m'a permis de mieux comprendre les enjeux techniques liés à WordPress.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. Quelles sont les meilleures méthodes pour migrer un site Wix vers WordPress tout en conservant le même nom de domaine ?
+ 
+ - Exportation du contenu depuis Wix (via RSS ou copie manuelle si besoin).
+ 
+ - Installation de WordPress sur un hébergement avec le domaine configuré.
+ 
+ J'ai trouvé une vidéo qui expliquait très bien comment transéfer le nom de domaine depuis wix vers infomaniak, une fois le nom de domaine sur infomaniak, le site peut facilement être modifié à l'aide de wordpress. https://www.youtube.com/watch?v=D5otZVYqmHM
+ 
+2. Comment sécuriser un site WordPress contre les attaques courantes et les vulnérabilités ?
+ 
+ - Utilisation de plugins de sécurité comme Wordfence ou iThemes Security.
+ 
+ - Mise en place d'un certificat SSL.
+ 
+ - Renforcement des identifiants et des permissions utilisateurs.
+ 
+ - Mise à jour régulière de WordPress, des plugins et des thèmes.
+ 
+ . Activation d'une protection contre les attaques par force brute et les injections SQL.
+ 
+3. Comment configurer un hébergement WordPress avancé avec gestion des certificats SSL et des redirections ?
+ 
+ Je n'ai pas réussi à bien comprendre ce sujet, cependant j'ai quand même veillé à trouver des ressources sur le sujet, en lien avec l'hébergeur que je compte utiliser : https://www.infomaniak.com/fr/secure/certificats-ssl
+ 
+4. Quelles sont les bonnes pratiques pour optimiser la performance d’un site WordPress après sa migration ?
+ 
+ - Activation d'un système de mise en cache (WP Rocket, W3 Total Cache).
+ 
+ - Compression des images.
+ 
+ - Minimisation des scripts CSS et JavaScript.
+ 
+ - Utilisation d'un réseau de diffusion de contenu (CDN) comme Cloudflare.
+ 
+ - Surveillance des performances via Google PageSpeed Insights ou GTmetrix.
+
+5. Quels outils permettent d’améliorer la sécurité et la rapidité d’un site WordPress existant ?
+
+- Sécurité : Wordfence, iThemes Security, Sucuri.
+
+- Performance : WP Rocket, Autoptimize, Asset Cleanup.
+
+- Monitoring : Query Monitor, New Relic, Google PageSpeed Insights.
+
+- Sauvegarde : UpdraftPlus, BackupBuddy.
 
 ## Résultat de l'expérimentation
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
