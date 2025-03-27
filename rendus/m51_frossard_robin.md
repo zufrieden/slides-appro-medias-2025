@@ -47,9 +47,11 @@ Malgré le fait que je pensais que ce projet allait peu m'être  utile. Suite à
 1. À moitié, j'ai découvert plein de chose durant ma recherche
 2. Oui, la visibilité des sponsors est importante car le club obtient son financement via les sponsors
 3. Publications sponsorisées créatives et engageantes, placement de logo et branding dans les visuels, interviews et collaborations avec le sponsor, jeux-concours et offres exclusives sponsorisées, stories et reels en direct avec intégration du sponsor
+4. De forcer et d'abuser de son exposition. Si on le met partout à toute les sauces, ça risques de dégouter.
+5. Sortir de mes habitudes de créations. Je ne diversifie peut être pas assez
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+Dans l'ensemble ça c'est bien passé, j'ai eu quelque manque de motivation par moment à travailler sur le sujet. Devoir chercher des formations et des articles sur le sujet était desfois compliqué vu la niche du sujet. Quelque fois je trouvais quelque chose qui parlait du sujet mais pas dans un sens qui pouvait m'être utile. Mais j'ai quand même réussi à trouver les choses qui m'intéressaient. J'ai créé un document où j'ai pu ranger mes trouvailles et les éléments clé à retenir concernant le sujet. 
 
 ## Investissement
 
