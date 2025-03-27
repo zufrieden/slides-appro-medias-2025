@@ -150,22 +150,77 @@ Finalisation et Présentation du Guide
 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
 
+Quand j’ai commencé cette auto-formation, je savais que j’avais pas mal de choses à apprendre sur les réseaux sociaux d’entreprise. Je connaissais LinkedIn, Teams ou Slack, mais plutôt en surface, et pas vraiment dans une logique de communication interne structurée. Mon objectif principal était de mieux comprendre comment fonctionne un RSE, pour pouvoir ensuite accompagner l’implémentation de Workvivo chez Breitling dans le cadre de mon TB.
+
+J’ai compris les bases, identifié les bonnes pratiques, et surtout, j’ai commencé à poser les fondations d’un guide stratégique. Je n’ai pas pu tout finaliser comme je l’aurais voulu, mais j’ai une vision beaucoup plus claire du sujet qu’au début.
+
 ## Réponses aux 5 questions
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
 
+1. Quels sont les principaux défis de la communication interne sur un RSE ?
+   
+Il y en a plusieurs, mais les plus importants selon moi sont : réussir à impliquer tout le monde (et pas seulement quelques personnes motivées), proposer du contenu intéressant et pertinent, et éviter la surcharge d'infos. Il faut aussi bien connaître ses utilisateurs (ici, les vendeurs) pour que le ton et le format leur parlent vraiment.
+
+2. Quels types de contenus sont les plus efficaces pour dynamiser une communauté interne ?
+   
+Les formats courts, interactifs et visuels marchent bien. Par exemple :
+
+Témoignages ou portraits d’employés
+Classements, félicitations
+Challenges ou sondages
+Vidéos, stories, photos de terrain
+Le but, c’est que les gens aient envie de lire, de réagir, voire de participer eux-mêmes.
+
+3. Comment mesurer l’impact d’une communication interne sur un RSE ?
+
+On peut suivre plusieurs indicateurs, comme :
+- Le nombre d’utilisateurs actifs
+- Les interactions (likes, commentaires, partages)
+- Le taux de lecture des posts
+- Le nombre de contributeurs (ceux qui publient eux-mêmes)
+- Ça permet de savoir ce qui fonctionne et ce qu’il faut ajuster.
+
+4. Quels sont les avantages et limites de la gamification sur un RSE ?
+   
+C’est un bon levier d’engagement, surtout au début : ça motive, ça rend l’usage plus fun. Mais il faut faire attention à ne pas en faire trop, sinon ça peut vite lasser ou sembler artificiel. Il faut que ça ait du sens pour les utilisateurs.
+
+5. Comment adapter une stratégie de communication digitale aux vendeurs ?
+
+Il faut aller droit au but. Des contenus utiles, concrets, qu’on peut consulter rapidement sur téléphone. Il faut aussi valoriser leur travail, montrer qu’ils font partie de la dynamique de l’entreprise. Et utiliser des outils simples. 
+
 ## Résultat de l'expérimentation
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+Je n’ai pas pu tester un vrai RSE comme Workvivo, donc j’ai choisi de créer un guide stratégique pour animer un RSE orienté "vendeurs". J’ai rédigé une première version (pas encore finalisée), mais elle pose déjà les bases d’une stratégie avec :
+- Les types de contenus recommandés
+- Des idées d’animation
+- Les indicateurs de suivi
+- Quelques erreurs à éviter
+Même si ce n’est pas encore complet, ça m’a permis d’appliquer concrètement mes recherches.
 
 ## Investissement
 
 _Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
 
+Au départ, j’avais prévu de passer 36h. En réalité, j’ai pu en faire moins, autour de 10-15h. J’ai été prise par d’autres priorités (cours, projets...), et certaines phases ont été plus longues que prévu. Par exemple, la recherche d’infos fiables m’a pris du temps, mais j’ai parfois dû écourter la rédaction.
+
 ## Réflexion sur la méthode d'auto-formation
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+
+Ce que j’ai aimé :
+- Pouvoir avancer à mon rythme
+- Creuser un sujet qui m’intéresse vraiment
+- Choisir moi-même les ressources et les axes à approfondir
+
+Ce qui a été plus compliqué :
+- Gérer le temps 
+- Trouver des infos claires et adaptées à mon besoin
 
 ## Conclusion
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
 _Quelles implications pour votre TB et pourquoi ?_
+
+Même si je n’ai pas pu tout faire comme prévu, cette auto-formation m’a aidée à mieux comprendre ce qu’est un RSE, comment l’animer et pourquoi c’est important. J’ai avancé dans la réflexion sur le contenu, l’engagement, les KPIs… Ce sont des bases pour mon TB, qui me permettrons de mieux utiliser la plateforme Workvivo quand j'y aurai accès.
