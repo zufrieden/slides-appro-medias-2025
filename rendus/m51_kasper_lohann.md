@@ -18,6 +18,7 @@ De plus, WordPress est une compétence valorisée dans le monde professionnel, q
 
 J’ai déjà une bonne expérience avec la structure de base de WordPress, l’utilisation des plugins et l’optimisation SEO. Cependant, je souhaite approfondir mes compétences dans la gestion technique avancée (hébergement, migration, configuration et sécurité) ainsi que dans la gestion et l’optimisation d’un site WordPress existant.
 
+
 ## Objectifs
 
 Mes objectifs sont formulés selon la méthode SMART :
