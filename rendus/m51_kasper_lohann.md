@@ -140,17 +140,39 @@ Dans l'ensemble, mes attentes ont été satisfaites. J'ai pu suivre une démarch
 - Sauvegarde : UpdraftPlus, BackupBuddy.
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+L'expérimentation a été très enrichissante. Bien que je n'aie pas eu le temps d'acheter et de configurer un nouvel hébergement, j'ai pu tester des optimisations de performance sur un site WordPress existant, ochatee.ch, développé pour le cours d'e-commerce et hébergé sur Infomaniak.
+
+J'ai appliqué diverses techniques d'optimisation, telles que l'amélioration du cache, la compression des images et la surveillance des performances via google PageSpeed Insights. Ces tests m'ont permis d'observer les impacts réels des optimisations sur la vitesse de chargement et la réactivité du site.
+
+Par ailleurs, je n'ai pas rédigé de marche à suivre détaillée pour la migration, l'hébergement et l'optimisation, car j'ai trouvé des guides existants extrêmement bien documentés qui répondaient déjà à mes besoins. Cela m'a permis de me concentrer davantage sur l'expérimentation pratique et l'analyse des résultats.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+J'avais initialement prévu de consacrer environ 36 heures à cette auto-formation. Finalement, j'ai investi moins de temps, principalement parce que je n'ai pas réalisé la migration ni la configuration d’un nouvel hébergement.
+
+J'ai passé environ 7 heures sur la sécurisation et la configuration avancée, 6 heures sur l'optimisation des performances du site ochatee.ch, et 5 heures à valider mes apprentissages. Au total, j'estime avoir consacré environ 18 heures à cette auto-formation.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+Réflexion sur la méthode d’auto-formation
+
+L’auto-formation présente plusieurs avantages, notamment la liberté d’apprentissage et la possibilité d’approfondir certains aspects en fonction des besoins. Cependant, je me suis rendu compte que le manque de cadre rend parfois difficile de s’investir sur le long terme dans les recherches. Sans échéances précises ou suivi structuré, il est tentant de procrastiner ou de se disperser sur des sujets annexes.
+
+Points positifs :
+
+Flexibilité dans l’apprentissage.
+
+Acquisition de compétences pratiques directement applicables.
+
+Points négatifs :
+
+Manque de cadre qui complique la gestion du temps et l'investissement sur la durée.
+
+Difficultés à trouver des solutions à certains problèmes techniques sans aide extérieure.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+Cette expérience d’auto-formation a été très bénéfique et m’a permis de développer des compétences essentielles en WordPress. J’ai acquis une meilleure compréhension de la migration, de la sécurité et de l’optimisation des performances.
+
+Ces connaissances seront d’une grande aide pour mon Travail de Bachelor, car elles me permettront de proposer une solution optimisée et sécurisée lors de la refonte du site. De plus, elles renforcent mes compétences professionnelles et ouvrent des opportunités dans le domaine du développement web.
