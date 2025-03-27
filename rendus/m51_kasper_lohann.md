@@ -155,8 +155,6 @@ J'ai passé environ 7 heures sur la sécurisation et la configuration avancée, 
 
 ## Réflexion sur la méthode d'auto-formation
 
-Réflexion sur la méthode d’auto-formation
-
 L’auto-formation présente plusieurs avantages, notamment la liberté d’apprentissage et la possibilité d’approfondir certains aspects en fonction des besoins. Cependant, je me suis rendu compte que le manque de cadre rend parfois difficile de s’investir sur le long terme dans les recherches. Sans échéances précises ou suivi structuré, il est tentant de procrastiner ou de se disperser sur des sujets annexes.
 
 Points positifs :
