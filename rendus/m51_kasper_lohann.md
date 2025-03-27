@@ -161,15 +161,15 @@ L’auto-formation présente plusieurs avantages, notamment la liberté d’appr
 
 Points positifs :
 
-Flexibilité dans l’apprentissage.
+- Flexibilité dans l’apprentissage.
 
-Acquisition de compétences pratiques directement applicables.
+- Acquisition de compétences pratiques directement applicables.
 
 Points négatifs :
 
-Manque de cadre qui complique la gestion du temps et l'investissement sur la durée.
+- Manque de cadre qui complique la gestion du temps et l'investissement sur la durée.
 
-Difficultés à trouver des solutions à certains problèmes techniques sans aide extérieure.
+- Difficultés à trouver des solutions à certains problèmes techniques sans aide extérieure.
 
 ## Conclusion
 
