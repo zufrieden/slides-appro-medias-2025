@@ -93,6 +93,28 @@ Je suis actuellement en train de suivre la certification "Google Analytics".
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
 
+Voici mes 5 questions:
+- Quels sont les principaux types de campagnes disponibles sur Google Ads et dans quels cas les utiliser ?
+- Comment Google Analytics 4 permet-il de suivre et d’analyser les performances d’une campagne publicitaire ?
+- Quels critères sont essentiels pour définir une audience efficace sur Meta Ads ?
+- Quelles sont les principales différences entre Google Ads et Meta Ads en termes de ciblage et de format publicitaire ?
+- Quels indicateurs clés (KPIs) doivent être surveillés pour mesurer l’efficacité d’une campagne publicitaire en ligne ?
+
+Et mes réponses:
+- Google Ads propose plusieurs types de campagnes selon les objectifs. Les campagnes sur le Réseau de Recherche sont idéales pour capter une audience avec une intention d'achat claire, tandis que les campagnes Display permettent d’accroître la notoriété via des annonces visuelles sur des sites partenaires. Les campagnes Vidéo (YouTube Ads) sont parfaites pour le branding et l’engagement. Les campagnes Performance Max maximisent les conversions en diffusant sur tous les canaux Google. Les campagnes Shopping sont adaptées aux e-commerçants souhaitant afficher leurs produits sur Google Shopping.\
+  Le choix dépend donc de l’objectif : conversion, visibilité, trafic physique (Locales), ou promotion d’applications.
+- Je n'ai pas suivi la formation "Google Analytics"
+- Je n'ai pas acquis de connaissances pour les outils Meta
+- Idem
+- Pour mesurer l’efficacité d’une campagne publicitaire en ligne, plusieurs indicateurs clés de performance (KPIs) doivent être surveillés en fonction des objectifs:
+  - Taux de clics
+  - Coût par clic
+  - Taux de conversion
+  - Coût par acquisition
+  - Retour sur investissement publicitaire
+  - Impressions et portée
+  - Taux d’engagement (likes, partages, commentaires)
+
 ## Résultat de l'expérimentation
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
 
@@ -116,12 +138,10 @@ L’auto-formation présente plusieurs avantages:
 - la possibilité de progresser à son propre rythme
 - de cibler précisément les compétences dont on a besoin
 
-Et aussi des inconvénients:
-- l'absence de cadre strict
-- aucun accompagnement
-- 
-
-
+Et aussi des inconvénients :
+- L'absence de cadre strict
+- Aucun accompagnement
+- Peu, voire pas d’évaluation
 
 ## Conclusion
 
