@@ -185,7 +185,6 @@ J’avais prévu de répartir environ **36 heures** sur la recherche, l’analys
 Au total, je suis très proche des 36h. Les légers écarts viennent surtout de la phase de recherche où j’ai voulu approfondir certains points. Les retours sur le document ont été plus rapides que je ne l’anticipais.
 
 ## Réflexion sur la méthode d'auto-formation
-## Réflexion sur la méthode d'auto-formation
 - **Points positifs** :  
   - **Flexibilité** : J’ai pu adapter mon rythme de recherche en fonction de mes besoins réels.  
   - **Choix des ressources** : J’ai sélectionné les supports (articles, livres) qui me parlaient le plus et me semblaient directement utiles.  
