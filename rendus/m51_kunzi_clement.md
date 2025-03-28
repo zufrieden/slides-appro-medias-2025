@@ -1,4 +1,4 @@
-# M51-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M51-1/2 Künzi Céà,emt - Les Puces NFC
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
@@ -55,24 +55,37 @@ Je vais réaliser un **prototype fonctionnel** où une puce NFC enregistrera un 
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+L’apprentissage du NFC a été plus complexe que prévu, notamment en raison de la diversité des normes et des restrictions imposées par certains systèmes d’exploitation. Toutefois, les bases théoriques ont été bien assimilées, et la mise en pratique a permis d’obtenir des résultats concrets en termes de lecture et écriture de puces NFC via une PWA.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. **Quels sont les différents types de puces NFC et leurs usages ?**
+   - Il existe plusieurs types de puces NFC, classées selon les spécifications du NFC Forum (Type 1 à Type 5). Chaque type a des caractéristiques spécifiques en termes de capacité mémoire, vitesse de communication et sécurité.
+
+2. **Comment fonctionne le protocole de communication NFC ?**
+   - Le NFC repose sur l’induction électromagnétique et fonctionne en mode actif ou passif. Il utilise trois modes de communication : lecteur/écrivain, émulation de carte et peer-to-peer.
+
+3. **Quelles sont les contraintes de sécurité liées à l’usage des puces NFC ?**
+   - Les principaux risques incluent l’interception des données (sniffing), la modification de données (spoofing) et les attaques par rejeu. Des protocoles de chiffrement et d’authentification sont nécessaires pour renforcer la sécurité.
+
+4. **Comment intégrer la lecture et l’écriture NFC dans une PWA ?**
+   - L’API Web NFC permet d’interagir avec les puces NFC directement depuis un navigateur compatible. Cependant, cette technologie est encore en développement et ne fonctionne que sur certains appareils.
+
+5. **Quels sont les cas d’usage les plus pertinents du NFC dans les applications de gestion du temps ?**
+   - L’identification rapide des employés, l’horodatage automatique des entrées/sorties et le suivi des temps de travail en mobilité sont des cas d’usage courants.
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+L’expérimentation a permis de tester avec succès la lecture et l’écriture de données sur une puce NFC à partir d’une PWA. La mise en place a nécessité des ajustements en raison des limitations de compatibilité des appareils et des navigateurs. L’exercice a été formateur en termes de gestion des contraintes techniques et d’optimisation de l’expérience utilisateur.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Le temps investi a été plus élevé que prévu, en raison de la nécessité de surmonter plusieurs obstacles techniques, notamment en matière de compatibilité et de sécurité. Initialement prévu à 36h, le projet a nécessité environ 45h pour obtenir un prototype fonctionnel.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L’auto-formation a été bénéfique pour acquérir une autonomie technique et approfondir la compréhension du NFC. Cependant, certaines difficultés auraient pu être surmontées plus rapidement avec un accompagnement externe ou une documentation plus avancée.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+Ce projet m’a permis d’approfondir mes compétences en NFC et d’en comprendre les enjeux techniques et sécuritaires. L’intégration d’un système NFC dans une PWA est une solution viable mais encore limitée par certaines contraintes technologiques. Cette expérience me sera utile pour mon TB et potentiellement pour des applications professionnelles futures.
+
