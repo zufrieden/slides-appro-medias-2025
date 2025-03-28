@@ -148,8 +148,8 @@ Je pense que j’ai pu acquérir et découvrir les bases du Game Design, comment
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
 
-**Quelles sont les notions fondamentales du Game Design qui permettent de créer une expérience utilisateur engageante ?
-**
+## Quelles sont les notions fondamentales du Game Design qui permettent de créer une expérience utilisateur engageante ?
+
 Selon le cours en anglais de Will Wright, une bonne conception d’un jeu repose sur l’équilibre entre des règles simples qui crée des situations complexes et imprévisibles et liberté donnée au joueur pour explorer et interagir avec le jeu, créant sa propre histoire.
 
 L’itération et le prototypage rapide sont essentiels pour tester et affiner l’aspect fun d’un jeu avant d’investir dans un développement informatique. 
@@ -162,8 +162,8 @@ Le design visuel et sonore joue un rôle clé dans la création d’un bon jeu, 
 
 Finalement, le playtesting est indispensable pour observer les réactions des joueurs et ajuster l’expérience en fonction de leurs interactions réelles. En combinant ces éléments, un jeu devient plus captivant, intuitif et mémorable pour son public.
 
-**Comment puis-je améliorer mon leadership et ma créativité dans un projet collaboratif ?
-**
+## Comment puis-je améliorer mon leadership et ma créativité dans un projet collaboratif ?
+
 J’ai pu noter quelques points essentiels à mettre en pratique pour améliorer mon leadership et ma créativité par exemple avoir une vision audacieuse qui inspire l’équipe : "Diriger, c’est raconter une histoire dont les autres veulent faire partie", un bon leader "Ne crains pas de déranger le statu quo."
 
 Pour améliorer son leadership dans un projet collaboratif, il faut commencer par clarifier une vision forte et inspirante puis définir un objectif clair qui donne une direction à l’équipe. Il faut communiquer cette direction avec passion pour susciter l’engagement des talents.
@@ -175,8 +175,8 @@ Côté créativité, il faut cultiver une approche audacieuse et originale en pr
 
 L’attention aux détails est cruciale, ce sont souvent les éléments subtils qui différencient un projet remarquable d’un projet ordinaire. Dernier point, il est primordial de favoriser une culture de collaboration, transformer les désaccords en opportunités créatives et valoriser les contributions de chacun.
 
-**Quelles sont les méthodes de storytelling, les éléments essentiels pour captiver une audience et transmettre une idée forte ?
-**
+## Quelles sont les méthodes de storytelling, les éléments essentiels pour captiver une audience et transmettre une idée forte ?
+
 Le storytelling repose sur une structure narrative ; une situation initiale, un conflit et une résolution. Cette structure permet de capter l’attention en créant du suspense et en suscitant des émotions. Une bonne histoire est engageante, facile à mémoriser et elle transmet un message. Les grandes marques comme Apple et Nike utilisent ce procédé pour établir un lien émotionnel fort avec leur audience. 
 
 Pour renforcer l’impact, il est essentiel d’appliquer la règle des 3C : clarté (un message compréhensible), concision (éviter les détails superflus) et cohérence (aligner le récit avec les valeurs de l’audience).
@@ -184,8 +184,7 @@ Pour renforcer l’impact, il est essentiel d’appliquer la règle des 3C : cla
 Les éléments visuels jouent également un rôle crucial dans l’engagement du public. Une hiérarchie visuelle bien pensée guide l’œil vers l’information essentielle grâce à la taille, la couleur et le contraste. Les couleurs influencent la perception émotionnelle (ex. le bleu inspire confiance, le rouge évoque l’urgence ou la passion), tandis qu’une typographie lisible garantit une bonne compréhension du message. L’association d’images pertinentes et de métaphores visuelles, comme une montagne pour symboliser un défi, renforce l’impact du storytelling et rend l’histoire plus immersive.
 
 
-**Quels sont les meilleurs outils en UX que je pourrais réutiliser dans mon TB ?
-**
+## Quels sont les meilleurs outils en UX que je pourrais réutiliser dans mon TB ?
 
 Les meilleurs outils UX à exploiter combinent recherche utilisateur, prototypage et analyse des interactions. Pour comprendre les attentes et motivations des clients existants, il faut analyser leur comportement et identifier les points de friction dans leur parcours. 
 
@@ -202,8 +201,8 @@ L'IA peut également aider à synthétiser des entretiens clients ou générer d
 Côté conception, Figma permet la création de maquettes interactives et l’exploration de plusieurs concepts d’interface. Pour l’accessibilité et l’optimisation des interactions, des plugins peut aider à garantir une navigation fluide pour tous les utilisateurs. Google Analytics peut être utilisé pour suivre les indicateurs de rétention (taux de retour, engagement) et ajuster votre design en fonction des insights tirés des données. 
 
 
-**Quel est l'enseignement qui m'a été le plus utile parmi toutes ces ressources ?
-**
+## Quel est l'enseignement qui m'a été le plus utile parmi toutes ces ressources ?
+
 Le meilleur cours fut celui de de Will Wright sur le game design. Le cours parle de l'importance des mécaniques de jeu, du feedback et comment créer une expérience engageante pour le joueur. Le but du game designer est de fournir un cadre stimulant où la créativité du joueur peut s'exprimer librement. En s'appuyant sur des exemples concrets comme The Sims, Wright démontre comment les systèmes interactifs peuvent générer des expériences uniques et captivantes. Son enseignement n’était pas juste techniques, il a parlé également de la psychologie du joueur, en expliquant comment susciter l'engagement à travers des motivations variées (exploration, création, socialisation). La dimension sociale et immersive du jeu vidéo est particulièrement mise en valeur : les jeux ne sont pas seulement des défis, mais aussi des extensions de nous-mêmes, des moyens de raconter des histoires et de partager des mondes imaginaires. Son cours m’a permis d’élargir mes horizons, d’imaginer des possibilités et de me mettre à la place d’un créateur designer de jeux vidéo. 
 
 ## Résultat de l'expérimentation
