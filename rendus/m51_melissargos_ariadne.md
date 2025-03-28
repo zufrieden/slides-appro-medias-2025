@@ -78,24 +78,63 @@ Afin de valider mon apprentissage, je vais réaliser un document qui décrit mes
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Au début de cette auto-formation, j’avais trois objectifs SMART : installer CURSOR, le tester sur un projet open source, et corriger des bugs avec.
+
+J’ai pu réaliser le premier objectif sans souci : l’installation s’est faite rapidement, j’ai exploré l’interface et suivi un tutoriel simple. Ça m’a permis de comprendre les bases du fonctionnement de CURSOR.
+Concernant le deuxième objectif, j’ai commencé à explorer un projet open source, mais je n’ai pas eu le temps d’aller jusqu’à une expérimentation complète.
+Le troisième objectif n’a pas été réalisé, par manque de temps. Les semaines ont été bien remplies, entre les candidatures de master, les projets de groupe, et ma participation à un échange en France pour l’événement CRUNCH Innovation Time.
+
+Cela dit, l’outil m’a semblé vraiment prometteur, surtout en comparaison avec d’autres assistants comme Copilot. CURSOR propose une approche plus structurée et "globale" du projet, pas juste des compléments de ligne de code.
+
+Et surtout, cette prise en main me servira pour mon Travail de Bachelor, où je devrai travailler avec le code de la Medical Informatics Platform (MIP). Connaître CURSOR à l’avance, c’est déjà un avantage.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. **Quels sont les principaux avantages de CURSOR par rapport aux outils classiques d’analyse de code ?**  
+CURSOR permet d’explorer un projet comme un tout, pas juste fichier par fichier. Il identifie les liens entre les composants, propose des explications sur des blocs de code, et aide à mieux comprendre les structures complexes. Il est plus “intelligent” que la simple navigation dans un IDE.
+
+2. **Comment CURSOR identifie-t-il les erreurs dans un projet et ses suggestions sont-elles toujours pertinentes ?**  
+L’outil repère des anomalies de logique ou de structure, et propose parfois des corrections. Ses suggestions sont souvent utiles, mais il faut rester critique : parfois elles sont génériques ou inadaptées au contexte du projet.
+
+3. **Comment CURSOR permet-il d’accélérer le refactoring dans un projet à grande échelle ?**  
+En mettant en évidence les duplications, les fonctions longues ou mal nommées, CURSOR aide à repérer rapidement les zones à retravailler. Il propose aussi des refactorings automatiques, ce qui fait gagner du temps, surtout sur les projets déjà bien fournis.
+
+4. **Quels sont les scénarios où CURSOR pourrait être une limite plutôt qu’un atout ?**  
+Sur des projets très simples ou des prototypes rapides, l’utilisation de CURSOR peut sembler “trop lourde”. Aussi, si on ne connaît pas un minimum le langage utilisé, ses suggestions peuvent être difficiles à évaluer.
+
+5. **Quels enseignements puis-je tirer de cette expérience pour mes futurs projets en développement web ?**  
+Tester cet outil m’a rappelé l’importance de bien structurer un projet dès le début. Un outil comme CURSOR est plus efficace quand le code est déjà organisé. Cela m’a aussi montré que je peux gagner du temps avec ce type d’outil, surtout sur de gros projets front-end comme celui du CHUV.
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+Je n’ai pas pu mener une expérimentation complète, mais j’ai commencé à utiliser CURSOR sur le projet open source **“Vue.js HackerNews Clone”**, un petit projet éducatif bien documenté. L’outil m’a aidée à visualiser rapidement la structure du code et à comprendre comment les différents composants interagissent.
+
+J’ai simulé des scénarios d’analyse de bugs, notamment autour de la navigation et du rendu de certaines pages. CURSOR m’a permis de repérer des incohérences potentielles dans le code, ce qui m’aurait pris plus de temps sans outil.
+
+Même si je n’ai pas fait de corrections effectives, cette exploration m’a montré que CURSOR peut réellement **accélérer la compréhension d’un projet**, ce qui sera très utile quand j’entrerai dans le code de la MIP.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+J’avais prévu 36h au total. Au final, j’ai probablement investi **environ 16 à 18h** :
+
+- Installation, documentation, tutoriel : ~5h  
+- Exploration du projet open source : ~6h  
+- Écriture du rapport et réflexion : ~5h
+
+Je n’ai pas pu consacrer le temps prévu à la partie “correction de bugs”, principalement à cause de l’agenda chargé du semestre et de mon déplacement en France pour un événement académique.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L’auto-formation, c’est difficile à cadrer. Il faut se motiver, trouver du temps, et s’imposer un cadre. Dans un semestre avec des projets, ce n’est pas toujours évident. J’ai souvent repoussé la tâche car je savais que j’aurais aussi une phase de pré-étude pendant mon TB pour approfondir CURSOR.
+
+Ce que j’ai appris : si je dois refaire ce type de travail, je dois mieux découper les étapes et me fixer des créneaux précis. En revanche, j’ai aussi vu que l’auto-formation permet de tester des outils concrets à son rythme, ce qui est un vrai plus.
+
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+Même si je n’ai pas rempli tous les objectifs, je ressors de cette auto-formation avec :
+
+- Une première maîtrise de CURSOR.  
+- Une vision claire de ce qu’il peut m’apporter pour mon TB.  
+- Des bases concrètes pour aller plus loin durant la pré-étude.
+
+Ce travail m’a permis d’amorcer un **outil technique clé** pour mon projet. Il m’a aussi montré que je dois mieux anticiper le temps nécessaire pour m’auto-former, surtout dans un contexte chargé. Cela dit, je me sens beaucoup plus à l’aise à l’idée d’utiliser CURSOR quand je commencerai à travailler sur le code de la MIP.
