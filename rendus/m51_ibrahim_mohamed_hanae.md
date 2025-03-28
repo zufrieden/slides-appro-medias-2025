@@ -58,33 +58,36 @@ Critères de réussite :
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+_Faire  un figma professionnel en respectant les auto-layouts, des variables, du design system et des prototypes avancés. 
 
-Pour valider mon apprentissage, je vais réaliser un Proof of Concept (POC) en recréant une interface complète, en utilisant exclusivement des fonctionnalités avancées de Figma.
+_Pour valider mon apprentissage, je vais réaliser un Proof of Concept (POC) en recréant une interface complète, en utilisant exclusivement des fonctionnalités avancées de Figma. 
+(voici mon figma https://www.figma.com/design/sZEwZsClNWjShyj3RfNo0j/Pana-beauty?node-id=15-1669&t=UOFQGNCA3xWKI0g8-1)_
 ---
 
 # RAPPORT FINAL À RENDRE POUR LE 28 MARS 23h59
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
-
+_Mon auto-formation m’a permis d’atteindre un niveau avancé sur Figma en optimisant mon workflow et en appliquant mes apprentissages à mon TB, même si certaines fonctionnalités avancées nécessitent encore du perfectionnement._
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+_1. Les auto-layouts permettent de créer des éléments dynamiques qui s’adaptent automatiquement, tandis que les grids servent à structurer une mise en page de manière fixe._
+_2. - Utiliser le padding et le spacing efficacement.
 
+   - Exploiter le redimensionnement automatique (Hug, Fill).
+
+   - Imbriquer des auto-layouts pour plus de flexibilité._
+_3. Unsplash / Icons8 (médias), Autoflow (flux utilisateurs), Master (gestion des composants), Figmotion (animations)._
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
-
+_ L’expérimentation a été formatrice, car elle m’a permis de mieux comprendre les fonctionnalités avancées de Figma. J’ai renforcé mes compétences en auto-layouts, variables et prototypes interactifs, et je pourrai appliquer ces acquis efficacement à mon TB.
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+_J’avais prévu de consacrer 36 heures à cette auto-formation, réparties entre exploration, pratique et application. Cependant, j’ai passé un peu moins de temps que prévu, environ 30 heures, car certaines notions étaient plus intuitives que je ne l’imaginais, notamment les auto-layouts et l’usage des plug-ins. En revanche, j’ai passé plus de temps que prévu sur les variables et prototypes interactifs, qui demandaient plus d’expérimentation. L’investissement global reste cohérent avec mon objectif, et je pourrai approfondir certains points directement en appliquant mes acquis à mon TB.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+_L’auto-formation m’a offert une grande flexibilité pour apprendre à mon rythme et approfondir les sujets selon mes besoins. J’ai pu me concentrer sur des fonctionnalités essentielles et tester immédiatement leur application. Cependant, l’absence de cadre structuré m’a parfois fait perdre du temps à chercher des solutions par moi-même. De plus, sans retour externe, il était plus difficile d’identifier mes erreurs ou d’obtenir des conseils précis. Malgré ces défis, cette approche m’a permis de **renforcer mon autonomie et d’adapter mon apprentissage à mon projet de TB._
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+J'ai appris que pratiquer régulièrement et suivre un plan aide beaucoup à progresser sur Figma. Pour mon TB, cela m'aidera à créer une interface plus facile à utiliser et plus fonctionnelle.
