@@ -1,4 +1,4 @@
-# M51-1/2 Künzi Céà,emt - Les Puces NFC
+# M51-1/2 Künzi Clément - Les Puces NFC
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 4 MARS 23h59
 
