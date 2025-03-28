@@ -95,18 +95,18 @@ Au total, j’ai consacré environ 28 heures à cette auto-formation. Cependant,
 
 ### Avantages
 
--   Flexibilité : J’ai pu organiser mon apprentissage selon mon rythme et mes disponibilités, en adaptant mon emploi du temps aux imprévus.
--   Autonomie : J’ai pu choisir les ressources les plus adaptées à mes besoins (documentation officielle, tutoriels, vidéos en ligne).
--   Approfondissement personnalisé : J’ai pu consacrer plus de temps aux concepts qui me semblaient les plus importants ou les plus difficiles à comprendre.
+-   J’ai pu organiser mon apprentissage selon mon rythme et mes disponibilités, en adaptant mon emploi du temps aux imprévus.
+-   J’ai pu choisir les ressources les plus adaptées à mes besoins.
+-   J’ai pu consacrer plus de temps aux concepts qui me semblaient les plus importants ou les plus difficiles à comprendre.
 
 ### Inconvénients
 
--   Difficulté à évaluer sa progression : Il est parfois compliqué d’estimer si l’on a acquis suffisamment de compétences sans comparaison avec d’autres apprenants.
--   Gestion du temps : Sans échéances strictes imposées par un cadre externe, il est plus facile de repousser certaines tâches et de devoir réorganiser son emploi du temps.
+-   Il est parfois compliqué d’estimer si l’on a acquis suffisamment de compétences sans comparaison avec d’autres personnes.
+-   Sans échéances strictes imposées, il est plus facile de repousser certaines tâches et de devoir réorganiser son emploi du temps.
 
 ## Conclusion
 
-Cette auto-formation sur LangChain m’a permis de découvrir un framework puissant pour intégrer des modèles de langage dans des applications et d’en comprendre les concepts fondamentaux.
+Cette auto-formation sur LangChain m’a permis de découvrir un framework pour intégrer des modèles de langage dans des applications et d’en comprendre les concepts fondamentaux.
 
 ### Leçons apprises
 
