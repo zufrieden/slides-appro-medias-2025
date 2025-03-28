@@ -91,6 +91,7 @@ Afin de valider mon apprentissage, je vais réaliser deux livrables concrets :
 ## Retour sur l'état initial
 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+
 J'avais espoir de réussir à déployer une application sur les stores mais les contraintes financières et techniques étaient trop importantes.
 
 J'ai pu comprendre les différences majeures entre PWA et application native comme je l'espérais mais tout reste encore flou car les avis diverges sur ce qui reste le mieux à faire. Trouver des informations est facile mais les points de vues sont trop différents pour avoir une vision nette sur les différentes technologies et savoir ce qui est recommandé.
@@ -136,6 +137,7 @@ Les grands changements sont la différence entre les UI, la gestion des permissi
 
 ## Résultat de l'expérimentation
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
 Je n'ai pas pu essayer de déployer mon application car il fallait payer 25 USD pour créer un compte développeur sur Google Play Console. Le développement était long et j'ai eu de la peine à comprendre toutes les normes Google pour qu'elle soit compatible. Je pense que le mieux est vraiment de conseiller aux entreprises des PWA qui sont plus facile à mettre en place et qui n'ont que peu de contraintes.
 
 L'infographie a permis à mon père de comprendre que les "applications téléchargeable sur internet" n'étaient pas tout à fait autant sûr qu'il pensait et il a arrêté de les téléchargé sur son ordinateur du travail. Il se contente maintenant des versions web ou alors il utilise son ordinateur ou téléphone privé.
@@ -143,6 +145,7 @@ L'infographie a permis à mon père de comprendre que les "applications téléch
 ## Investissement
 
 _Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+
 1. **(10h) Recherche et documentation** sur les différences entre PWA et applications natives
 
 2. **(8h) Étude approfondie** des avantages et inconvénients des applications native et des PWA
@@ -163,6 +166,7 @@ J'ai passablement perdu de temps sur la recherche des différences et cas d'usag
 ## Réflexion sur la méthode d'auto-formation
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+
 L'auto-formation a été difficile car je manquais de rigueur et me perdais souvent pendant mes recherches en répondant à des messages ou en pensant à notre projet d'intégration et en notant des idées.
 J'ai pu me concentrer sur les parties qui m'intéressait ce qui représente un avantage considérable contrairement aux cours de la HEIG-VD classiques.
 
@@ -172,6 +176,7 @@ J'ai vu qu'une formation 100% autodidacte demandait beaucoup de discipline. Cet 
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
 _Quelles implications pour votre TB et pourquoi ?_
+
 J'ai appris que faire une application native demande de la veille constante afin de suivre les modifications Google et Apple continuellement. De plus, une application compatible sur tous les smartphones semble peu probable et demandera beaucoup d'adaptations si ce n'est une réécriture complète.
 
 Pour mon TB, je vais devoir travailler sur ma rigueur et me mettre plus de barrières pour éviter de me disperser et réussir à suivre le planning que je vais me fixer. Les rendez-vous hebdomadaires avec mon prof référent seront une aide pour respecter les délais.
