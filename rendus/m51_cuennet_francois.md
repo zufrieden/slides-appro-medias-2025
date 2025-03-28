@@ -47,24 +47,54 @@ Pour valider mon apprentissage en psychologie UX, je vais réaliser un POC sous 
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+L’objectif initial était d’approfondir ma compréhension de la psychologie appliquée à l’UX en lisant les deux ouvrages cités précédement. 
+J’ai réussi à lire Laws of UX dans son intégralité et à en extraire les concepts clés. Concernant le deuxième livre, j’ai atteint la 43e “thing” sur les 100. Même si je ne suis pas allé jusqu’au bout, cela représente une portion significative du contenu, et m’a permis d’assimiler une grande variété de principes psychologiques concrets.
+La réalité a donc été légèrement en deçà de l’objectif temporel, mais je suis content du résultat. Je ressors de cette démarche avec un socle plus solide en psychologie UX et des outils concrets à appliquer dans mes projets.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. - La charge cognitive : une interface trop complexe ou surchargée empêche une navigation fluide.
+   - Les attentes mentales (mental models) : les utilisateurs projettent ce qu’ils pensent qu’il va se passer ; une interface qui ne respecte pas ces modèles crée de la confusion.
+   - La perception visuelle : principes de Gestalt, hiérarchisation de l’information, effets de proximité et similarité influencent fortement l’interprétation des éléments.
+   - La mémoire : les utilisateurs oublient vite, d’où l’importance de la reconnaissance plutôt que du rappel.
+   - Les émotions : un design perçu comme agréable est plus facilement accepté, même s’il n’est pas parfaitement fonctionnel.
+2. Avec le livre "Laws of UX", j'ai pu comprendre des lois fondamentales dans l'UX tel que la loi de Jakob, de Fitt, de Miller, de Hick et bien d'autres encore. En ayant pris des notes approfondies sur ces lois, il m'est possible de pouvoir analyser de manière méthodique le site web de POMOCA. Le livre "100 things every designer needs to know about people" m'a permis d'apprendre des concepts plus psychologiques, axés sur le comportementalisme. Ce sont donc des éléments qui me seront nécessaire pour mieux comprendre comment les gens interagissent de manière générale avec le produit.
+3. Les deux livres utilisent beaucoup de termes qui sont réutilisés dans les livres que j'avais déjà lu: Conceptual model, affordance, mapping, signifiers, feedback, contraints. Il y a donc beaucoup de concepts qui se chevauchent. Par exemple, la règle “aider les utilisateurs à reconnaître plutôt qu’à se souvenir” est un concept fondamental pour expliquer l'effet Von Restorff (Laws of UX), et Don Norman (The design of everyday things) explique comment le phénomène psychologique se produit grâce à un modèle conceptuel qu'il décrit. Les concepts d’affordance et de signifiants de Don Norman prennent aussi du sens quand on comprend comment les utilisateurs “voient” et interprètent les éléments.
+4. J'ai trouvé l'effet "Aesthetic-Usability Effect" particulièrement intéressant. Nous comprenons instinctivement qu'un design qui plait esthétiquement parait "mieux", mais je ne pensais pas que la tolérance envers un système imparfait mais esthétique serait autant forte même lorsque ce système est clairement dysfonctionnel. J'ai beaucoup aimé comprendre comment la vision se forme dans le cerveau, et que c'est en utilisant des patterns primitives, des "geons" que l'on perçoit les objets autour de nous.
+5. - Moins, c’est mieux : éviter la surcharge cognitive, simplifier au maximum.
+   - La reconnaissance > le rappel : toujours favoriser les éléments clairs, explicites et facilement accessibles.
+   - L’importance de l’émotion et de la cohérence visuelle : un design agréable incite à l’exploration et renforce la marque.
+   - Test utilisateur dès que possible : la théorie est précieuse, mais l’expérience réelle révèle souvent l’inattendu.
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+L’expérimentation a consisté à faire une analyse UX du site de POMOCA sous l’angle de la psychologie cognitive.
+J’ai listé les points de friction liés à la charge mentale, au manque de feedback utilisateur ou aux choix peu clairs.
+J’ai ensuite proposé des améliorations concrètes : par exemple, une simplification du “Find Your Skin” selector basé sur la loi de Hick, et une meilleure structuration visuelle pour guider l’utilisateur.
+Cet exercice m’a permis de valider mes apprentissages : j’ai vu concrètement comment les principes étudiés pouvaient débloquer des problèmes réels.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+J'avais prévu: 
+  - 32h de lecture
+  - 4h pour le rapport.
+
+J'ai réalisé:
+- 20h de lecture
+- 4h de prise de note et relecture
+- 4h pour le rapport
+
+C'est donc un total d'heure un peu en dessous de l'objectif. Je suis néanmoins content du résultat.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L’auto-formation demande de la discipline, surtout en autonomie complète. Mais ça m'a permit aussi d'apprendre à mon rythme.
+Le fait d'apprendre quelque chose qui m'intéresse m'a permis d'être pro-actif et motivé tout au long de mon apprentissage.
+Le fait de lire dans le cadre d’un projet réel (mon TB) a été également très motivant.
 
 ## Conclusion
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
 _Quelles implications pour votre TB et pourquoi ?_
+
+Cette auto-formation m’a permis d’intégrer la psychologie cognitive comme un outil essentiel dans mon approche UX, et de pouvoir analyser plus facilement le design des produits que je rencontre. Je me sens plus confiant pour concevoir des interfaces centrées utilisateur. Pour mon travail de Bachelor, cela me permet d’aller au-delà d’une simple refonte esthétique, et de proposer une expérience plus fluide, intuitive et engageante.
