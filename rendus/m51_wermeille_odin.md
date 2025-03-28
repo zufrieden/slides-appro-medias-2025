@@ -34,7 +34,7 @@ Quels navigateurs sont incompatibles avec React?_
 
 ## Expérimentation
 
-_Je vais créer un repo GitHub qui contiendra mes essais sur React, ainsi que quelques exercices proposés sur https://react.dev/learn/react-developer-tools. Le lien sera inclu dans le rendu du 28.03.2025_
+_Je vais créer un repo GitHub qui contiendra mes essais sur React, ainsi que quelques exercices proposés sur https://react.dev/learn. Le lien sera inclu dans le rendu du 28.03.2025_
 
 ---
 
@@ -42,24 +42,42 @@ _Je vais créer un repo GitHub qui contiendra mes essais sur React, ainsi que qu
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+_Les connaissances en JavaScript dont je disposait avant cette auto-formation m'ont effectivement aidées à comprendre et utiliser React.js. J'ai pu finir les étapes présentées à https://react.dev/learn dans "Get Started"._
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+_Comment créer une app React.js ?
+Il existe de nombreux types d'app React (+Next.js, +Vite, +Expo, ...) selon les routers. De façon générale : npx create-insert_router-router@latest._
+
+_Quelle sont les 3 plus grands avantages de React.js par rapport à Vue.js ?
+L'arrêt de support est moins probable en ce qui concerne React.
+React est plus populaire, il est donc plus facile de trouver des réponses aux questions le concernant.
+React est plus facile à intégrer dans une application existante._
+
+_Quelle sont les 3 plus grands désavantages de React.js par rapport à Vue.js ?
+Vue est un framework et non une librairie, ce qui signifie qu'il est plus complet que React.
+Vue est adaptable aux besoin, pas besoin de tout intégrer pour avoir une application fonctionnelle.
+Vue fait partie d'un écosystème complet développé par une même équipe et dont la compatibilité est garantie._
+
+_Y a t-il une différence de vitesse entre React et Vue? Si oui, laquelle ?
+Pas vraiment, les deux évoluent de façon parallèle et implémentent rapidement les solutions trouvées par leur concurrent._
+
+_Quels navigateurs sont incompatibles avec React ?
+Les deux versions les plus récentes de Microsoft Edge, Safari, Firefox, Google Chrome, Opera et la dernière version d'Electron sont supportées_
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+_J'ai progressé en suivant les étapes décrites sur https://react.dev/learn sous "Get Started" et ai créé et utilisé le repo https://github.com/OdinWermeille/learning-react_
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+_Répartition finale temps (~19h) entre les étapes : QuickStart (~3h), Tutorial: Tic-Tac-Toe (~2h), Thinking in React (~2h), Installation(~2h), Creating a React App (-), Build a React app from Scratch (-), Add React to an Existing Project (-), Setup (-), Editor Setup (-), Using TypeScript (~7h), React Developer Tools (-), React Compiler (~2h). Une heure environ pour les recherches auxiliaires._
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+_L'auto-formation est évidemment une partie essentielle des efforts qui doivent être consentis pour garder des connaissances à jour et progresser. Je pense que ces 20 heures me feront gagner un temps équivalent lors de mon travail de Bachelor._
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+_Cette expérience m'a permis d'apprendre que, dans le cas de React et Vue, comme souvent en programation le choix est principalement une question de préférene de l'équipe avec laquelle on travaille plutôt qu'en raison des differences effectives._
+_Dans le cadre de mon TB et comme cité plus haut, j'ai pu prendre environ 20 heures d'avance._
