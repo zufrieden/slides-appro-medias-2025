@@ -18,10 +18,10 @@ _Actuellement, j'ai une connaissance de base de Jira, mais je ne maîtrise pas e
 
 ## Objectifs
 
-1. **Maîtriser la création et la gestion de projets dans Jira** : Être capable de structurer un projet efficacement et d’utiliser les fonctionnalités essentielles.
-2. **Comprendre et configurer les workflows** : Apprendre à personnaliser les processus de travail pour s’adapter aux besoins d’une équipe.
-3. **Utiliser les outils de reporting et d’analyse** : Exploiter les tableaux de bord et filtres pour améliorer le suivi des projets.
-4. **Optimiser la collaboration dans Jira** : Mettre en place les bonnes pratiques pour faciliter la communication et le travail en équipe.
+1. **Maîtriser la création et la gestion de projets dans Jira** : Être capable de structurer un projet efficacement et d’utiliser les fonctionnalités essentielles.  
+2. **Comprendre et configurer les workflows** : Apprendre à personnaliser les processus de travail pour s’adapter aux besoins d’une équipe.  
+3. **Utiliser les outils de reporting et d’analyse** : Exploiter les tableaux de bord et filtres pour améliorer le suivi des projets.  
+4. **Optimiser la collaboration dans Jira** : Mettre en place les bonnes pratiques pour faciliter la communication et le travail en équipe.  
 5. **Découvrir les intégrations avec d’autres outils** : Connecter Jira avec des logiciels complémentaires pour enrichir ses fonctionnalités.
 
 _L'atteinte des objectifs sera validée par l'utilisation effective de ces compétences dans un projet pratique._
@@ -44,10 +44,10 @@ _Pour structurer mon apprentissage, je vais suivre une approche progressive et a
 
 ## 5 questions
 
-1. Comment structurer un projet Jira efficacement ?
-2. Quels sont les types de workflows et comment les configurer ?
-3. Comment optimiser l'utilisation des tableaux de bord et des filtres ?
-4. Quelles sont les meilleures pratiques pour collaborer sur Jira ?
+1. Comment structurer un projet Jira efficacement ?  
+2. Quels sont les types de workflows et comment les configurer ?  
+3. Comment optimiser l'utilisation des tableaux de bord et des filtres ?  
+4. Quelles sont les meilleures pratiques pour collaborer sur Jira ?  
 5. Comment intégrer Jira avec d'autres outils pour améliorer la gestion de projet ?
 
 ## Expérimentation
@@ -58,27 +58,46 @@ _Je vais appliquer mes apprentissages en configurant un projet Jira complet, ave
 
 # RAPPORT FINAL À RENDRE POUR LE 28 MARS 23h59
 
-## Retour sur l'état initial
+# Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Au début, je connaissais les bases de Jira, mais je voulais mieux comprendre comment l’utiliser de manière efficace dans un contexte de gestion de projet. L’objectif était d’apprendre les bonnes pratiques et les fonctionnalités avancées pour pouvoir les appliquer dans mon Travail de Bachelor et plus tard dans ma carrière.
 
-## Réponses aux 5 questions
+# Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+## Comment structurer un projet Jira efficacement ?
 
-## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+Il faut bien choisir entre un projet géré par l’équipe ou par l’entreprise, définir les rôles, les types de tâches (epic, story, tâche) et utiliser des boards adaptés (scrum ou kanban).
 
-## Investissement
+## Quels sont les types de workflows et comment les configurer ?
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+On peut utiliser des workflows par défaut ou en créer sur mesure. J’ai appris à créer des transitions, ajouter des conditions et automatiser certaines étapes pour améliorer le processus.
 
-## Réflexion sur la méthode d'auto-formation
+## Comment optimiser l'utilisation des tableaux de bord et des filtres ?
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+J’ai appris à utiliser JQL pour créer des filtres précis, et à configurer des tableaux de bord avec des gadgets utiles pour le suivi de projet.
 
-## Conclusion
+## Quelles sont les meilleures pratiques pour collaborer sur Jira ?
 
-_Quelles leçons avez-vous apprises et pourquoi ?_  
-_Quelles implications pour votre TB et pourquoi ?_
+Il faut bien nommer les tickets, les tenir à jour, commenter en taguant les bonnes personnes, et organiser les tâches de manière claire pour toute l’équipe.
 
+## Comment intégrer Jira avec d'autres outils pour améliorer la gestion de projet ?
+
+C’est la seule question sur laquelle j’ai eu plus de mal. J’ai compris que c’est possible (avec Slack, Confluence, etc.), mais je n’ai pas eu le temps de tester concrètement ces intégrations.
+
+# Résultat de l'expérimentation
+
+J’ai créé un projet Jira fictif autour d’un projet web. J’ai configuré le backlog, un workflow personnalisé, des automatisations simples, et un tableau de bord.  
+Mais surtout, j’ai pu mettre en pratique mes apprentissages dans le cadre de notre projet d’Intégration à l’école, ce qui m’a permis de gérer concrètement les tâches, la collaboration et le suivi de l’avancement avec l’outil.
+
+# Investissement
+
+J’ai investi environ 30 heures au total, entre l’apprentissage, les tests, la configuration et l’utilisation réelle dans un contexte de travail d’équipe (projet d’Intégration).
+
+# Réflexion sur la méthode d’auto-formation
+
+J’ai aimé apprendre à mon rythme, en testant par moi-même. C’est motivant et concret. Par contre, il faut être discipliné et organisé. Sans plan clair, on peut vite se perdre dans les nombreuses fonctionnalités.
+
+# Conclusion
+
+J’ai appris à mieux utiliser Jira et à le configurer pour gérer un projet. Je me sens plus à l’aise avec l’outil et prêt à l’utiliser dans un vrai contexte.  
+Cette auto-formation m’a déjà été utile dans le cadre scolaire, et je suis sûr qu’elle le sera aussi pour mon Travail de Bachelor et pour la suite de mon parcours en gestion de projet.
