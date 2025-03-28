@@ -159,6 +159,8 @@ _Détaillez le temps passé et les écarts avec l'investissement imaginé au dé
 6. **(30min) Étude de la conversion d’une application Android vers iOS**
 
 7. **(1h) Réalisation d'une infographie expliquant les différences et cas d'usages**
+
+
 La semaine de CRUNCH a pris pas mal de mon temps et de mon énergie ce qui ne m'a pas permis de suivre l'entier de la formation. 
 
 J'ai passablement perdu de temps sur la recherche des différences et cas d'usages des PWA et applications natives ainsi que sur les normes Google pour les applications ce qui fait que j'ai eu moins de temps pour expérimenter.
