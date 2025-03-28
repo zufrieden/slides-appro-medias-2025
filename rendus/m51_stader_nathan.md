@@ -80,26 +80,83 @@ Pour valider mon apprentissage, je vais développer une application web complèt
 
 # RAPPORT FINAL À RENDRE POUR LE 28 MARS 23h59
 
-## Retour sur l'état initial
+## Retour sur l’état initial
 
-J'analyserai les écarts entre mes attentes et la réalité de mon auto-formation, en identifiant les difficultés rencontrées et les compétences acquises.
+Au départ, mon objectif était clair : approfondir ma compréhension de React, avec un accent particulier sur les hooks avancés, le state management, les optimisations de performance et la structuration d’une application modulaire. J'avais également pour ambition de me familiariser avec Next.js et de documenter techniquement mon projet.
+
+Dans la réalité, j’ai effectivement pu explorer et pratiquer la majorité des éléments que j'avais planifiés. J’ai trouvé une grande quantité de ressources (officielles et communautaires), ce qui a largement facilité mon apprentissage. Toutefois, la principale difficulté a été la gestion du temps : j’ai sous-estimé l’investissement nécessaire pour assimiler et appliquer correctement les concepts avancés tout en travaillant simultanément sur mon e-portfolio. 
+
+Malgré cela, j’ai acquis bien plus que les bases : je maîtrise désormais les fondements de Next.js, la manipulation de bases de données via Prisma, et je suis à l’aise avec TypeScript dans un contexte React.
+
 
 ## Réponses aux 5 questions
 
-Je répondrai en détail aux questions posées et compléterai les réponses avec des exemples concrets issus de mon projet.
+1. **Comment fonctionne le Virtual DOM dans React et pourquoi est-il performant ?**  
+   Le Virtual DOM est une représentation en mémoire de l’arbre DOM réel. Lorsqu’un changement a lieu, React crée un nouvel arbre virtuel, le compare à l’ancien (diffing) et n’applique que les changements nécessaires au DOM réel (reconciliation). Cela évite les manipulations inutiles du DOM, qui sont coûteuses en performance, et permet des mises à jour rapides et efficaces de l’interface.
 
-## Résultat de l'expérimentation
+2. **Quelle est la différence entre useState, useReducer et useContext ?**  
+   - `useState` gère un état local simple.  
+   - `useReducer` est utile pour des logiques d'état plus complexes ou dépendantes d’actions.  
+   - `useContext` permet de partager des données globales (thème, utilisateur, etc.) à travers l’application sans passer par les props.  
+   J’ai utilisé `useContext` pour gérer les données de navigation et d’authentification, ce qui a allégé la structure de mon code.
 
-Je décrirai mon expérience de développement, les problèmes rencontrés et les solutions mises en place. J'expliquerai comment cette expérimentation m'a permis d'améliorer mes compétences en React.
+3. **Comment éviter le re-rendering excessif dans une application React ?**  
+   On peut éviter les re-renders inutiles avec `React.memo`, `useMemo`, `useCallback`, en structurant bien les composants et en limitant les changements d’état. J’ai constaté des ralentissements sur certains composants et, en profilant mon application, j’ai pu les optimiser en mémorisant des fonctions et des calculs coûteux.
+
+4. **Quels sont les avantages et inconvénients de Redux par rapport à Context API ?**  
+   Redux est plus robuste pour les applications complexes, avec une meilleure traçabilité des actions, une logique centralisée et des middlewares puissants. En revanche, il est plus verbeux et nécessite plus de configuration. Context API est plus simple et natif à React, idéal pour des cas moins complexes. J’ai choisi Context API pour sa simplicité dans le cadre de mon e-portfolio.
+
+5. **Comment optimiser le chargement d’une application React avec React Suspense et lazy loading ?**  
+   `React.lazy` permet de charger des composants uniquement lorsqu’ils sont nécessaires, tandis que `Suspense` permet de définir un fallback pendant ce chargement. Cela réduit le poids initial de l'application et améliore le temps de chargement perçu. Je l’ai utilisé pour mes pages dynamiques afin de charger uniquement ce qui est nécessaire.
+
+
+## Résultat de l’expérimentation
+
+J’ai commencé par réaliser deux petits projets d’exercices trouvés en ligne. Ils m'ont permis de me familiariser avec la logique des composants, les hooks, et surtout avec l'intégration de TypeScript. J’ai rencontré quelques soucis liés à la rigueur imposée par TypeScript, mais cela m’a permis de structurer mon code de manière plus claire et plus sûre.
+
+Après ces exercices, je me suis lancé dans la réalisation de mon **e-portfolio** en utilisant **Next.js** pour le framework, **Prisma** pour interagir avec une base de données SQLite, et **TypeScript** pour la robustesse du typage.  
+J’ai terminé la **maquette**, la **structure du projet**, l’**architecture des pages** et j’ai développé le système d’**articles dynamiques**. Ce travail m’a permis de comprendre :
+- l’architecture côté serveur avec Next.js (API Routes),
+- les modèles de données via Prisma,
+- la modularité et la scalabilité qu'offre ce stack.
+
+J’ai également appris à :
+- Mettre en place une base de données relationnelle avec Prisma.
+- Créer une interface admin basique.
+- Utiliser `getStaticProps` et `getServerSideProps` dans Next.js.
+- Organiser un projet React complexe avec TypeScript.
+
 
 ## Investissement
 
-J'évaluerai le temps réellement investi et comparerai avec mes prévisions. J'expliquerai les écarts et les ajustements effectués au fil de l’apprentissage.
+J’ai consacré environ **3 à 4 heures par semaine**, soit bien moins que prévu. L’ampleur de mon Travail de Bachelor et le développement de l’e-portfolio ont demandé un certain équilibre. J’ai donc dû adapter mes ambitions initiales.  
 
-## Réflexion sur la méthode d'auto-formation
+### Écarts notables :
+- Objectifs techniques partiellement remplis : hooks avancés ✅, Context API ✅, Redux ❌, documentation complète ❌
+- Projet final en cours : structure réalisée, développement en cours
 
-J’analyserai les avantages et inconvénients de cette méthode, en mettant en avant ce qui a fonctionné et ce qui pourrait être amélioré pour de futures formations.
+L’apprentissage continuera naturellement avec l’avancement de mon e-portfolio.
+
+
+## Réflexion sur la méthode d’auto-formation
+
+Je trouve que ma méthode était bien adaptée. En combinant :
+- l’étude de la documentation officielle,
+- la réalisation de petits exercices,
+- l’application concrète sur un projet réel,
+
+j’ai pu apprendre de manière active, ciblée et motivante. Le fait d’avoir un **projet personnel** comme fil conducteur m’a permis de donner du sens à mon apprentissage et de rester engagé.
+
+Ce que je pourrais améliorer :
+- mieux planifier les plages de travail dédiées,
+- poser plus de jalons intermédiaires pour valider les acquis progressivement,
+- intégrer une relecture extérieure pour avoir des retours sur la qualité du code.
+
 
 ## Conclusion
 
-Je résumerai les leçons tirées de cette auto-formation et leurs implications pour mon Travail de Bachelor, en expliquant comment ces nouvelles compétences vont enrichir mon projet et mon avenir professionnel.
+Cette auto-formation m’a permis de passer d’un niveau débutant à un niveau intermédiaire solide en React. J’ai compris les concepts fondamentaux et avancés, découvert des outils professionnels (Next.js, Prisma, TypeScript) et structuré un projet personnel concret.
+
+Les compétences acquises enrichiront considérablement mon Travail de Bachelor, tant en performance, qu’en maintenabilité et en professionnalisme du rendu. De plus, elles constituent un atout majeur pour ma carrière dans le développement web.
+
+Je compte continuer à développer mon e-portfolio dans les semaines à venir, en intégrant progressivement d’autres concepts (authentification, backoffice, déploiement), ce qui prolongera encore l’impact positif de cette auto-formation.
