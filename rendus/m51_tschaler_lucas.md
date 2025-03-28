@@ -61,25 +61,33 @@ Pour valider mon apprentissage, je vais développer un prototype d'application. 
 # RAPPORT FINAL À RENDRE POUR LE 28 MARS 23h59
 
 ## Retour sur l'état initial
-
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+L'auto-formation a été un peu plus complexe que prévu en raison du manque de temps disponible (semaine Crunch et le projet d'intégration qui prennent du temps). Malgré cela, j'ai pu acquérir une compréhension de base de Budibase et développer une interface fonctionnelle. L'objectif principal a été atteint, bien que certaines fonctionnalités avancées n'aient pas été explorées aussi en profondeur que voulu.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+**Comment concevoir une interface utilisateur dynamique avec Budibase ?**
+En utilisant le constructeur d'interface glisser-déposer de Budibase, il est possible de créer rapidement des interfaces interactives. L'ajout de logique conditionnelle et de filtres permet d'améliorer l'expérience utilisateur. On peut rapidement être limité au niveau du design de l'interface.
+
+**Comment utiliser les automatisations dans Budibase pour simplifier des tâches répétitives ?**
+Budibase permet d'automatiser des tâches via des workflows basés sur des déclencheurs comme des mises à jour de base de données ou des interactions utilisateur. Cela peut être utilisé pour envoyer des notifications ou mettre à jour dynamiquement des champs.
+
+**Comment intégrer Budibase avec d'autres outils via des APIs ?**
+Budibase offre la possibilité de se connecter à des APIs externes via des requêtes HTTP. Il permet aussi d'intégrer des bases de données externes et des services comme Zapier pour enrichir les fonctionnalités.
+
+**Quels sont les avantages de Budibase pour un projet professionnel ?**
+Budibase permet un développement rapide, réduit le besoin en compétences techniques avancées et facilite la mise en place d'outils internes personnalisés.
+
+**Quelles sont les limites de Budibase ?**
+La personnalisation avancée peut être limitée par rapport à un développement sur mesure. De plus, certaines intégrations nécessitent des contournements via des outils tiers.
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+L'expérimentation a été formatrice sur plusieurs aspects. J'ai pu comprendre la logique de Budibase et développer un prototype fonctionnel. Cependant, l'exploration de toutes les fonctionnalités avancées a été limitée par le temps disponible. J'ai pu bénéficier de la période d'essai gratuitement pendant 14 jours.
 
 ## Investissement
-
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Bien qu'il était demandé au moins 36 heures d'investissement, j'avoue que je ne pensais pas y consacrer autant de temps. En raison de la semaine du Crunch et du Projet d'intégrations, je n'ai pu consacrer qu'environ 16 heures. Cet écart a limité la possibilité d'explorer certaines fonctionnalités plus en profondeur. Cependant, j'ai tout de même pu apprendre à utiliser Budibase ce qui me sera essentiel pour mon travail de bachelor. L'objectif d'avoir une première expérience (concluante) avec Budibase et se faire la main sur cet outil est atteint.
 
 ## Réflexion sur la méthode d'auto-formation
-
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L'auto-formation offre une grande liberté d'apprentissage mais nécessite une organisation rigoureuse. L'un des défis majeurs a été la gestion du temps et la priorisation des tâches dans un contexte chargé. J'ai globalement réussi à suivre le planning prévu sauf durant la semaine du Crunch où je n'ai pas avancé. Les objectifs principaux que je me suis fixés ont été réalisés plus rapidement que prévu.
 
 ## Conclusion
-
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+J'ai appris à utiliser un outil no-code pour développer rapidement une application fonctionnelle. Cela essentiel pour mon TB, car c'est le principal outil à ma disposition. Pour mon avenir professionnel, cette compétence est un atout pour la conception rapide de solutions adaptées aux besoins des entreprises.
