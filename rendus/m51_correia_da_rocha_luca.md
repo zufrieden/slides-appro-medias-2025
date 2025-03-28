@@ -80,24 +80,86 @@ Ce POC consistera à :
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Je m'attendais à apprendre les différentes méthodes d'envoi d'e-mails sur un site web et à les mettre en pratique. J'ai réussi à comprendre les principes de base de l'envoi d'e-mails via SMTP et via une API tierce. Je n'ai malheureusement pas pu tester l'envoi d'e-mails via un serveur, faute de temps.
+
+Ayant déjà pu tester les mail en local dans un cours précédent, je me suis concentré sur les différentes méthodes d'envoi d'e-mails et leur intégration sur un site web.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. Quels sont les protocoles d'envoi d'e-mails les plus utilisés sur les sites web ?
+  
+   - Le Simple Mail Transfer Protocol (SMTP) est le protocole standard utilisé pour l'envoi d'e-mails sur Internet. Il est employé par les serveurs de messagerie pour transmettre des messages d'un serveur à un autre.
+   
+      Pour assurer la réception des e-mails, d'autres protocoles tels que POP3 (Post Office Protocol version 3) et IMAP (Internet Message Access Protocol) sont utilisés. Le POP3 permet de télécharger les e-mails sur un appareil, tandis que l'IMAP synchronise les e-mails entre plusieurs appareils. 
+      
+      En résumé, SMTP est principalement utilisé pour l'envoi d'e-mails, tandis que POP3 et IMAP sont utilisés pour leur réception.​
+
+2. Quelles sont les bonnes pratiques pour sécuriser un système d'envoi d'e-mails ?
+
+   - Utiliser un service d'envoi d'e-mails fiable.
+   - Configurer l'authentification des utilisateurs.
+   - Utiliser un cryptage d'e-mail.
+   - Se protéger contre les attaques par injection dans les formulaires.
+   - Limiter le nombre d'e-mails envoyés par utilisateur pour éviter le spam.
+   - Surveillez le système d'envoi d'e-mails.
+   - Tenir le logiciel à jour.
+   - Éduquer les utilisateurs.
+
+3. Quels sont les avantages et inconvénients des différentes solutions d'envoi d'e-mails ?
+
+   - Serveur SMTP
+      - ✅ Simple à configurer, compatible avec la plupart des systèmes.
+      - ❌ Moins performant, risque de blocage par certains pare-feu.
+
+   - API d’envoi d’e-mails
+      - ✅ Rapide, sécurisé, avec des fonctionnalités avancées (suivi, statistiques).
+      - ❌ Plus complexe à intégrer, dépendance au fournisseur.
+
+   - Serveur de messagerie auto-hébergé
+      - ✅ Contrôle total, confidentialité des données.
+      - ❌ Exige des compétences techniques, gestion de la sécurité.
+
+   - Service de messagerie tiers (Email as a Service)
+      - ✅ Facile à utiliser, fiable, évolutif.
+      - ❌ Coûts récurrents, moins de contrôle sur les données.
+
+4. Comment intégrer un système d'envoi d'e-mails sur un site web existant ?
+
+   - Pour intégrer un système d'envoi d'e-mails sur un site web il faut :
+
+      1. Choisir la méthode d'envoi d'e-mails (SMTP, API, etc.) en fonction des besoins du projet.
+
+      2. Configurer le serveur d'envoi d'e-mails en suivant les instructions du fournisseur de services.
+
+      3. Installer les bibliothèques nécessaires pour l'envoi d'e-mails (par exemple, PHPMailer pour PHP).
+
+      4. Créer un formulaire de contact sur le site web pour collecter les informations de l'utilisateur.
+
+      5. Écrire le code pour traiter le formulaire et envoyer l'e-mail en utilisant la méthode choisie.
+
+      6. Tester l'envoi d'e-mails en soumettant le formulaire et en vérifiant la réception des messages.
+
+      7. Mettre en place des mesures de sécurité pour protéger le système d'envoi d'e-mails (authentification, validation des entrées, etc.).
+
+5. A quoi faut-il faire attention lors de la mise en place d'un système d'envoi d'e-mails ?
+
+   - Il faut:
+     - Vérifier que les emails atteignent leurs destinataires.
+     - Mesurer si les emails sont efficaces.
+     - Détecter et résoudre rapidement les problèmes d'envoi d'emails.
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+L'experimentation s'est relativement bien passée. Je me suis focus sur la partie théorique car c'est la partie la plus rapide à réaliser. J'ai pu comprendre les différentes méthodes d'envoi d'e-mails et leurs avantages et inconvénients. Donc je considère que l'expérimentation a été formatrice en tout cas sur la partie théorique.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+J'ai passé 14 heures sur ce projet, soit environ 1/3 du temps prévu. J'ai sous-estimé le temps nécessaire pour comprendre les différentes méthodes d'envoi d'e-mails et leur intégration sur un site web. Il y a également eu le Crunch pendant 1 semaine qui m'a empêché de travailler sur ce projet. Avec en plus ma candidature pour un master qui m'a aussi pris du temps.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+J'ai constaté que l'auto-formation est un moyen relativement efficace pour apprendre de nouvelles compétences. Cependant, il est important de bien planifier son temps et de rester motivé pour atteindre ses objectifs. J'ai eu du mal à rester concentré sur ce projet dû aux éléments déjà cités. J'ai aussi remarqué que l'auto-formation demande une certaine discipline, car commencer à travailler sur autre chose que ce qu'on a fait toute la journée est parfois difficile.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+J'ai appris qu'il est essentiel de bien planifier son temps et de rester concentré pour mener à bien un projet d'auto-formation. Cela m'a permis de mieux comprendre les différentes méthodes d'envoi d'e-mails sur un site web et de les comparer. Pour mon TB, cela me permettra de choisir la meilleure méthode d'envoi d'e-mails à intégrer dans le site web de l'entreprise.
