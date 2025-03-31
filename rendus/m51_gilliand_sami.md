@@ -117,28 +117,136 @@ Cependant, la production vidéo demande **beaucoup de temps et de ressources** (
 
 ---
 
-# RAPPORT FINAL À RENDRE POUR LE 28 MARS 23h59
+# Etape 2 - 🔙 - Retour sur l'utilisation de solutions STT & TTS dans des vidéos pédagogiques 
 
-## Retour sur l'état initial
+## 🔹 Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+L’objectif de cette auto-formation était d’acquérir une **maîtrise opérationnelle des outils de transcription automatique (STT)** et de **synthèse vocale (TTS)** dans un objectif professionnel, lié à mon Travail de Bachelor pour Skyguide. Le but était de gagner en autonomie sur des technologies concrètes et directement applicables dans la **création de vidéos pédagogiques accessibles et modulables**.
 
-## Réponses aux 5 questions
+Le positionnement initial était juste : l’étude m’a permis de mieux comprendre **le potentiel de l’intelligence artificielle dans la simplification de la production multimédia**, tout en tenant compte des contraintes spécifiques d’une entreprise publique comme Skyguide (sécurité, confidentialité, accessibilité).
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+➡️ **Constat :** les objectifs SMART définis en amont ont été atteints, mais la réalité du terrain m’a amené à affiner certains critères, notamment en ce qui concerne **les limites de l’IA**, la **qualité des voix**, ou **les formats de sortie**.
 
-## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+---
 
-## Investissement
+## 🔹 Réponses aux 5 questions
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+### 1. Quelles sont les principales différences entre les outils STT disponibles aujourd’hui ?
 
-## Réflexion sur la méthode d'auto-formation
+🔍 **Recherche comparative :**
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+| Outil        | Précision | Multilingue | API | RGPD Friendly | Avantages |
+|--------------|-----------|-------------|-----|----------------|-----------|
+| **Whisper (OpenAI)** | Excellente | Oui | Oui (via open-source ou API tierces) | Moyen (self-host recommandé) | Gratuit, précis, open-source |
+| **Otter.ai**         | Bonne      | Anglais privilégié | Limité | Conforme | Idéal pour réunions en live |
+| **AssemblyAI**       | Très bonne | Oui | Oui | Conforme | API puissante (détection de speaker, résumé, etc.) |
 
-## Conclusion
+📌 **Conclusion** : Whisper est le plus équilibré pour un usage personnalisé, à condition d’être à l’aise techniquement. AssemblyAI est excellent mais moins accessible pour un usage non-technique. Otter.ai reste intéressant dans un cadre collaboratif (réunions).
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+### 2. Quels outils TTS permettent la création de voix naturelles et multilingues ?
+
+🔍 **Comparatif des outils TTS testés :**
+
+| Outil            | Naturel | Voix multilingues | Clonage | Facilité d’usage | Remarques |
+|------------------|---------|--------------------|---------|------------------|-----------|
+| **ElevenLabs**   | Excellent | Oui | Oui (avec consentement vocal) | Très bon | Voix quasi humaines, très souple |
+| **Amazon Polly** | Bon | Oui | Non | Bon | Plus "robotique", mais fiable |
+| **Google Cloud TTS** | Bon | Oui | Non | Bon | Facilement intégrable, voix plus neutres |
+
+📌 **Conclusion** : Pour Skyguide, **ElevenLabs** est l’outil qui offre la **meilleure qualité audio**, particulièrement pour la narration de vidéos pédagogiques en français, anglais ou allemand.
+
+### 3. Quels sont les critères clés pour choisir un outil STT dans un contexte professionnel comme Skyguide ?
+
+🎯 **Critères à prendre en compte** :
+- **Sécurité des données (RGPD, hébergement interne)**
+- **Support multilingue (au moins FR, DE, EN)**
+- **Facilité d’intégration dans un environnement existant (Outlook, MS365, Staffbase)**
+- **Coût d’usage à l’échelle**
+- **Qualité des transcriptions (taux d’erreur, gestion des accents, ponctuation)**
+
+📌 Pour Skyguide, une solution **self-hosted comme Whisper** serait idéale pour la sécurité, en complément d’un outil cloud (comme AssemblyAI) pour des projets spécifiques.
+
+### 4. Comment intégrer ces outils dans un workflow de production pédagogique ?
+
+Voici un **workflow type** testé & recommandé :
+
+1. 🎥 **Création de la vidéo pédagogique** (enregistrement live ou scénarisé)
+2. 🔊 **Extraction de la piste audio** via Premiere Pro ou Audition
+3. 💬 **Transcription automatique avec Whisper** (via notebook Python ou plateforme type MacWhisper)
+4. 🧾 **Nettoyage de la transcription** et génération de sous-titres (.srt)
+5. 🎙️ (optionnel) **Narration automatique via ElevenLabs**
+6. 🖥️ **Montage final avec intégration STT/TTS dans Premiere**
+7. 🚀 **Exportation et diffusion** sur Staffbase, Stream, ou LMS
+
+✅ Ce workflow est **scalable**, accessible, et adaptable au niveau technique des équipes de formation de Skyguide.
+
+### 5. Quels gains concrets peut-on attendre avec ces outils ?
+
+🔹 **Gain de temps :** Jusqu’à 50 % de réduction du temps de production pour les vidéos avec voix-off et sous-titres (source : [PlayPlay 2025](https://playplay.com/blog/ai-driven-video-creation/))  
+🔹 **Accessibilité accrue :** Sous-titres multilingues et voix claires, amélioration pour collaborateurs non francophones ou malentendants.  
+🔹 **Homogénéité de l’image de marque vocale :** Voix standardisée et contrôlée pour les modules de formation.  
+🔹 **Souplesse de production :** Moins de dépendance à un studio ou à une voix off humaine.
+
+---
+
+## 🔹 Résultat de l'expérimentation
+
+L’expérimentation a été réalisée dans le cadre du projet d’intégration HEIG-VD (vidéo : [YouTube Short](https://youtube.com/shorts/LQTrlO3iTHo)). 
+J’ai utilisé **Whisper pour la transcription STT**, ce qui m’a permis de générer rapidement un sous-titrage propre et précis en français.
+
+✅ **Points forts :**
+- Transcription automatique très fidèle, y compris avec les noms propres.
+- Workflow léger, facilement réutilisable.
+- Possibilité de traduire automatiquement le texte ensuite.
+
+❗ **Limites observées :**
+- Le modèle ne comprend pas bien les coupures ou effets sonores.
+- Une légère retouche reste nécessaire pour obtenir un texte parfait.
+- L’audio de mauvaise qualité impacte significativement la précision.
+
+🧪 **Taux de précision observé (STT Whisper en français, sans bruit de fond) :** Environ 95 % (Pas mal pour un premier test avec une IA).
+
+---
+
+## 🔹 Investissement
+
+⏱️ **Temps initial prévu :** 36h  
+⏳ **Temps réel investi :** 34h, répartis comme suit :
+
+- 6h → Veille technologique et lectures (blogs IA, benchmarks, GitHub Whisper, forums)
+- 16h → Prise en main des outils, tests, transcription sur plusieurs vidéos
+- 10h → Application concrète sur plusieurs projets HEIG-VD (Projet d'intégration ; TB)
+- 2h → Rédaction du rapport, documentation du processus
+
+🟢 L’écart s’explique par la **prise en main très rapide des outils**, bien documentés et pensés pour l’utilisateur. 
+Cela m’a permis d’approfondir la partie comparative au-delà du projet initial.
+
+---
+
+## 🔹 Réflexion sur la méthode d’auto-formation
+
+✅ **Points positifs :**
+- J’ai pu adapter l’apprentissage à mon rythme.
+- Le sujet m’a motivé, car directement lié à mon TB.
+- L’approche par test concret a permis une assimilation rapide des connaissances.
+
+⚠️ **Difficultés rencontrées :**
+- Difficile de valider la pertinence d’un outil sans une vraie mise en situation.
+- Nécessité de faire preuve de rigueur pour ne pas partir dans tous les sens (l’IA offre beaucoup de pistes, et trop de facilité parfois).
+
+🎯 L’auto-formation est particulièrement efficace **lorsqu’elle est structurée autour d’un projet réel**, avec une problématique concrète et un livrable clair à produire.
+
+---
+
+## 🔹 Conclusion
+
+Cette auto-formation m’a permis de :
+
+- **Développer une compétence technique directement applicable** à mon TB et à ma future carrière.
+- **Comprendre les enjeux d’accessibilité, de standardisation et de gain de temps** liés à l’IA dans la production pédagogique.
+- **Élaborer un mini workflow reproductible**, que je peux présenter comme solution stratégique à Skyguide.
+
+➡️ Dans le cadre de mon Travail de Bachelor, ces compétences me permettront :
+- D’**intégrer une dimension technique concrète** à mes recommandations stratégiques.
+- D’**accélérer la production des vidéos** tout en augmentant leur qualité et leur accessibilité.
+- De **valoriser mon profil professionnel** par une spécialisation complémentaire en IA appliquée à la formation.
