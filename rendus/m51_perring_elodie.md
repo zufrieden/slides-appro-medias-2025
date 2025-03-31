@@ -63,24 +63,80 @@ Ces deux livrables permettront d'optimiser le processus de création des landing
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Au départ, mon niveau en JavaScript et ma maîtrise de Figma étaient "moyens". Le principal défi était d'approfondir ces compétences pour mieux comprendre le fonctionnement de Figma et être capable de créer des design systems facilement modifiables. 
+
+Concernant les objectifs que je m'étais fixés, je pense avoir bien réussi, même si j'aurais souhaité développer un plugin plus avancé. Le manque de temps m'en a empêchée, mais je suis tout de même satisfaite du travail que j'ai accompli.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+
+**1. Comment structurer et organiser un design system modulaire dans Figma, adapté à des projets de landing pages ?**
+
+- Il faut être très bien organiser pour avoir une meilleure optimisation des composants.
+Il est essentiel de définir les couleurs et la typographie sous forme de variables. Cela permet de les modifier facilement si nécessaire. De plus, il est important de mettre en place une grille dès le début, afin de l'utiliser comme base pour tous les composants.
+- Il est aussi recommandé d'utiliser des composants réutilisables, en créant par exemple des variantes comme des boutons primaires et secondaires.
+- Il est également très important d'organiser les pages et les composants dans Figma de afin de pouvoir facilement s'y repérer.
+
+**2. Quelles sont les bonnes pratiques pour créer des variantes de composants dans Figma, notamment pour des éléments adaptatifs comme les boutons et les sections ?**
+
+- La nomenclature des variantes est cruciale pour faciliter la sélection du bon variant. Il est donc important de choisir des noms clairs et explicites.
+- Pour que les composants s’adaptent aux différentes tailles d’écran, il est recommandé d’utiliser l’auto-layout, ce qui permet un redimensionnement automatique.
+- Pour éviter de devoir ajouter les interactions à chaque fois, il est préférable de les inclure directement dans le composant, afin de ne pas risquer d'oublier.
+- Il est également conseillé d'ajouter des notes et de prévoir une documentation pour rendre l'utilisation et la compréhension encore plus simples.
+
+**3. Comment interagir avec l’API Figma pour créer un plugin qui modifie automatiquement les propriétés de plusieurs composants ?
+**
+Pour créer un plugin qui interagit avec l'API Figma, voici les étapes à suivre :
+- Installer Node.js : Cela est nécessaire pour configurer l'environnement de développement du plugin.
+-  Utiliser les templates Figma : Figma propose des templates pour faciliter la création de plugins. (Plugins > Development > New Plugin).
+-  Installer les dépendances : Suivez les instructions pour installer les dépendances requises.
+-  Commencer à développer le plugin : Une fois tout configuré, on peut commencer à développer. Par exemple, pour créer un composant rectangle, on peut utiliser le code suivant :
+
+```javascript
+const createRectangle = () => {
+  const rectangle = figma.createRectangle();
+  rectangle.resize(100, 100); // Définir la taille du rectangle
+  rectangle.fills = [{ type: 'SOLID', color: { r: 0, g: 0, b: 1 } }];
+  return rectangle;
+};
+
+const createComponent = () => {
+  const rectangle = createRectangle();
+
+  const frame = figma.createFrame();
+  frame.appendChild(rectangle);
+
+  const component = figma.createComponent();
+  component.appendChild(frame);
+
+  figma.currentPage.appendChild(component);
+  figma.currentPage.selection = [component];
+
+  figma.notify("Composant créé !");
+};
+
+createComponent();
+```
+**4. Comment choisir entre l'optimisation des composants Figma et la création d'un plugin pour automatiser certaines tâches ?**
+
+Le choix entre utiliser Figma ou créer un plugin dépend de la complexité de la tâche. Si l'objectif est simplement de modifier la couleur d'un composant, il est plus simple et rapide d'utiliser Figma, plutôt que de développer un plugin, ce qui demande beaucoup de temps et d'effort. En revanche, il est préférable de créer un plugin lorsque l'on souhaite automatiser des tâches répétitives et complexes, comme la modification de plusieurs composants en fonction de données externes. De plus, un plugin est particulièrement utile si l'on souhaite générer ou modifier du contenu à partir d'une base de données.
+
+**5. Comment tester et itérer efficacement sur un design system dans Figma afin de s'assurer qu'il reste flexible et évolutif ?**
+
+Pour tester et itérer efficacement sur un design system dans Figma et garantir qu'il reste flexible et évolutif, il est crucial de s'assurer que les composants peuvent être facilement adaptés et utilisés dans divers contextes. Il faut également vérifier que le design system est responsive et fonctionne bien sur différentes tailles d'écran. Par ailleurs, il est recommandé d'établir un processus de documentation clair, afin que tous les membres de l'équipe comprennent comment utiliser, modifier et ajouter des éléments au système.
+
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+L'expérience a été formatrice sur plusieurs aspects, notamment en termes de gestion des variantes de composants et d'interaction avec l'API de Figma. J'ai pu créer un design system ainsi que petit plugin figma. Le plugin que j'ai développé est fonctionnel, même s'il reste basique. Cette étape m'a permis de découvrir le fonctionnement des plugins ainsi la découverte de l'API Figma.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+J'avais initialement surestimé le temps nécessaire pour bien comprendre le fonctionnement des composants dans Figma. Je pensais que cela me prendrait environ 15 heures, mais grâce à mes connaissances préalables, quelques tutoriels sur YouTube et la documentation, j'ai pu assimiler le sujet assez rapidement, en environ 6 heures. J'ai donc pu passer plus tôt que prévu à la création du plugin, mais cela m'a pris plus de temps à cause de la complexité de l'API, environ 15 heures. Avec le crunch et les cours qui ont occupé une grande partie de mon emploi du temps, je n'ai pas pu consacrer plus de temps au plugin, ce qui m'amène à un total d'environ 21 heures sur ce projet.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L'auto-formation offre plusieurs avantages, comme la flexibilité et la possibilité d'apprendre à son propre rythme. Cependant, elle peut parfois être démotivante lorsque les concepts se révèlent plus complexes que prévu. Dans mon cas, l'expérience a été positive pour la partie sur les composants, car j'ai pris moins de temps que prévu pour les maîtriser. En revanche, la partie sur les plugins a été plus difficile, car je ne comprenais pas tout au départ. Mais cette difficulté a eu un côté positif : le fait de chercher les réponses par moi-même m'a aidé à mieux mémoriser les concepts, ce qui est bénéfique.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+J'ai appris à structurer un design system dans Figma, à utiliser de manière optimale les variantes de composants, et à créer un plugin simple. Ces compétences, en particulier l'optimisation de l'utilisation des composants, me seront très utiles pour mon travail de Bachelor, qui porte sur "comment améliorer l'efficacité et la rapidité de création des landing pages pour les PME". L'utilisation des composants permet non seulement de gagner un temps précieux, mais aussi d'assurer la cohérence visuelle et d'optimiser la phase de prototypage. Cette auto-formation m'a également appris à mieux m'organiser, surtout lors des semaines chargées.
