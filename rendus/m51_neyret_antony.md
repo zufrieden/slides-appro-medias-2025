@@ -4,9 +4,7 @@
 
 ## Mon sujet d'étude est ...
 
-**_Décrire le sujet_**
-
-Apprentissage de Three.js avec comme objectif de pouvoir concevoir une scène interactive et narrative en 3D.
+L'apprentissage de Three.js avec comme objectif de pouvoir concevoir une scène interactive et narrative en 3D.
 
 ### Contexte
 
@@ -63,24 +61,84 @@ Je vais réaliser un PoC d'une scène interactive montrant une ruche en 3D avec 
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Mon objectif était d'apprendre les bases de Three.js afin de pouvoir concevoir une scène interactive et narrative en 3D, en lien avec mon Travail de Bachelor sur la sensibilisation à l’apiculture.
+
+Mes attentes étaient les suivantes :
+
+- Assimiler les fondamentaux de Three.js (scène, caméras, lumières, animations).
+- Réaliser un Proof of Concept (PoC) avec une scène incluant une abeille animée.
+- Comprendre comment intégrer et optimiser une scène dans un projet web.
+
+En réalité, j’ai dû adapter mon planning à cause d’une charge de travail plus importante que prévue, notamment avec le projet d’intégration et le crunch. J’ai donc utilisé un LLM et GitHub Copilot pour accélérer mon apprentissage, tout en comprenant le code généré.
+
+J’ai réussi à :
+
+- Suivre le tutoriel officiel de Three.js et l’améliorer/adapter.
+- Expérimenter avec la gestion de la caméra et des contrôles.
+- Créer une scène de base avec une abeille animée.
+- Apprendre les fondamentaux, même si l’aspect graphique reste à améliorer.
+
+Cependant, j’ai passé environ 20 heures sur les 36 heures prévues. Ça m’a quand même permis de franchir une première barrière, mais sans tester en profondeur toutes les possibilités de Three.js.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. Comment structurer une scène en Three.js et organiser les éléments essentiels ?
+
+- Une scène Three.js est généralement composée d’un renderer, d’une scène, d’une caméra, de lumières, d’objets 3D et d’une boucle.
+
+2. Quels sont les différents types de caméras en Three.js et dans quels cas les utiliser ?
+
+- PerspectiveCamera : Utilisée pour des scènes réalistes avec une profondeur de champ.
+- OrthographicCamera : Pratique pour les visualisations techniques et interfaces 2D/3D.
+- CubeCamera : Utilisée pour les effets de réflexion.
+- ArrayCamera : Utile pour le rendu multi-vues.
+
+3. Comment gérer l’importation de modèles 3D externes et quels formats sont compatibles ?
+
+- GLTF, OBJ, FBX, STL.
+
+4. Quelles sont les bonnes pratiques pour optimiser une scène Three.js en termes de performance ?
+
+- J’ai pas trop tester ce point mais réduire le nombre de polygones des modèles 3D.
+
+5. Comment ajouter des interactions utilisateur et déclencher des animations ?
+
+- Avec [OrbitControls](https://threejs.org/docs/#examples/en/controls/OrbitControls).
+- J’ai vu qu’on pouvait déclencher une animation contenue dans un objet 3D.
+- Ajout d’event listeners pour capturer les événements.
+
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+J’ai réussi à créer une scène avec une abeille animée, en comprenant la logique de base de Three.js. Cependant, le rendu graphique reste à améliorer.
+
+L’expérimentation a été formatrice sûr :
+
+- La structuration d’une scène 3D.
+- La gestion des caméras et contrôles.
+- L’utilisation de l’IA générative intégrée à VSCode.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Moins de temps que prévu à cause du crunch et du projet d’intégration.
+Temps réel investi : ~20h
+
+Je pense que le fait qu’on soit passé des cours à option qui avaient beaucoup de congés à des semaines complètes à faussé mon estimation de temps à disposition.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+J’ai l’habitude de m’auto-former depuis longtemps.
+
+- L’IA a été nouveau pour accélérer la compréhension.
+- Je suis quelqu’un qui aime expérimenter et tester en lisant la doc plutôt qu’en regardant passivement une vidéo, ce qui demande beaucoup de temps.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+J’ai appris les bases de Three.js et réussi à créer une première scène interactive.
+Globalement, j'ai atteint les objectifs mais pas assez en profondeur.
+
+Implications pour mon TB :
+- L’utilisation de Three.js est envisageable pour mon projet. Je dois cependant approfondir mes compétences pour proposer une expérience réellement immersive et belle.
+- Mon approche pourrait inclure davantage d’expérimentation avec des shaders.
+
+En conclusion, cette auto-formation m’a permis de dépasser la barrière de l’entrée en Web 3D. Je vais poursuivre mes tests et améliorations pour aller plus loin et exploiter au mieux cet outil dans mon TB.
