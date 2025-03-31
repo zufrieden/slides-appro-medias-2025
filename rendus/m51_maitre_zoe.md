@@ -82,24 +82,64 @@ Livrables :
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Quand j'ai commencé cette auto-formation, mon but était d'approfondir mes connaissances en accessibilité web et d'apprendre à rendre un site avec chatbot accessible à tous. C'est une connaissance que je trouve essentielle pour mon travail de Bachelor.
+
+Globalement, j'ai atteint tous les objectifs que je m'étais fixés, mais je n'ai pas réussi à respecter le planning initial. J'avais plus de temps au début, mais la semaine du 17 au 21 a été complètement prise par le CRUNCH. J'ai eu de la chance, car mon projet durant le CRUNCH portait justement sur l'accessibilité : il s'agissait de rendre un processus physique et numérique plus accessible aux personnes malvoyantes et aveugles. Cette expérience m'a énormément appris et a complété mes recherches sur l'accessibilité numérique.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+Quels sont les critères essentiels pour assurer l'accessibilité d'un site web avec chatbot ?
+- Respecter les WCAG (Web Content Accessibility Guidelines)
+- Assurer une navigation compatible avec les technologies d'assistance (lecteurs d'écran, navigation au clavier)
+- Utiliser un langage simple et clair
+- Offrir un contraste suffisant et permettre la personnalisation des interfaces
+- Assurer la compatibilité avec des modes d'interaction alternatifs (voix, gestes)
+
+
+Quels outils permettent d’auditer l’accessibilité d’un site web et comment les utiliser ?
+- Axe DevTools : Permet une analyse automatique des problèmes d'accessibilité
+- WAVE : Offre une inspection visuelle et un résumé des problèmes d'accessibilité
+- Lighthouse : Fournit un audit global, incluant performance et accessibilité
+
+
+Comment un chatbot peut-il être conçu pour être accessible aux utilisateurs en situation de handicap ?
+- Intégrer une synthèse vocale
+- Rendre le chatbot accessible via la navigation au clavier
+- Ajouter des options pour reformuler et simplifier le langage
+- Permettre de désactiver les animations et suggestions automatiques
+
+
+Quelles sont les principales difficultés rencontrées par les utilisateurs aveugles ou malvoyants face à un chatbot ?
+- Dépendance aux lecteurs d'écran, qui ne sont pas toujours compatibles
+- Complexité des messages longs ou mal structurés
+- Manque de descriptions alternatives pour les boutons ou images
+- Navigation difficile si le chatbot n'est pas optimisé pour le clavier
+
+
+Comment puis-je intégrer des solutions d’accessibilité dans mon projet de refonte UX du site de l’Office des Véhicules ?
+- Effectuer des tests d’accessibilité avec des outils d’audit
+- Consulter des utilisateurs en situation de handicap pour mieux comprendre leurs besoins
+- Mettre en place des solutions adaptées pour le chatbot (compatibilité avec les lecteurs d'écran, interaction vocale)
+- Appliquer les bonnes pratiques UX/UI pour améliorer l’expérience utilisateur globale
+
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+Cette expérimentation a été enrichissante. J’ai pu tester plusieurs outils d’audit et mieux comprendre les difficultés que peuvent rencontrer les utilisateurs en situation de handicap. Ces tests ont mis en évidence des points clés à améliorer, notamment en ce qui concerne la navigation au clavier et la lisibilité des réponses du chatbot. De plus avec mon projet au CRUNCH, je me suis rendue compte à quel point peu de choses sont adaptées pour les personnes non-voyantes. J'ai pu faire plusieurs tests avec des lecteurs d'écran, j'ai trouvé l'expérience très difficile et déconcertante.
+
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+J’avais prévu un planning bien réparti, mais j’ai réalisé que j’avais plus de temps libre au début du projet. Par contre, la semaine du 17 au 21 a été totalement absorbée par un crunch, ce qui m’a forcé à décaler une partie du travail. J'ai quand même réussi à faire tout ce que je souhaitais.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L’auto-formation a ses avantages : j’ai pu avancer à mon rythme et choisir les ressources et outils les plus adaptés. Par contre, cela demande une grande discipline et un bon planning.
+
+L’un des plus gros défis a été de jongler entre ce projet et mes autres obligations académiques, personnelles et professionnelles. J’ai un peu amélioré ma gestion du temps, même si c'est encore à améliorer pour l’avenir.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+Grâce à cette auto-formation, j’ai acquis des compétences clés sur l’accessibilité. J’ai appris à utiliser des outils d’audit, identifier des problèmes et proposer des solutions concrètes. Je trouve que ces connaissances sont essentielles afin que les personnes avec un handicap puissent être autonome.
+
+Ces connaissances vont être super utiles pour mon travail de Bachelor, mon futur professionnel et également personnel. Au final, même si l’organisation a été plus compliquée que prévu, le bilan reste très positif. 
+
