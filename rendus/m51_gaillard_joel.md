@@ -92,24 +92,105 @@ Comme énoncé précédemment, ce rapport servira de référence et de guide lor
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_ 
+
+J'ai pu apprendre convenablement le fonctionnement des cinq deisgn patterns et comprendre leur utilité. J'ai pour la plupart pu les illustrer avec des exemples issus de Laravel, sinon je les ai illustrés par du PHP classique. J'ai réussi à faire des liens avec le framework de Rumya pour chacun des patterns. **J'ai également rédigé un rapport que je vous ai joint sur teams.**
+
+J'ai cependant revu quelque peu ma planification, je trouvais plus judicieux d'écrire dans un premier temps les parties du rapport liées à la compréhension des designs patterns, puis dans un second temps analyser le framework de Rumya (plutôt que de faire tout le rapport en fin de projet) pour ainsi pouvoir m'aider de mon propre support lors de l'analyse du framework.
+
+J'ai cependant un peu plus de peine avec les patterns **Factory** et **Observer**. Je suis moins sûr de la pertinence de mes analyses que pour les trois autres patterns.
+
+Il me manque également de la pratique car cet apprentissage s'est limité à de la compréhension et à de l'analyse à retranscrire dans un rapport. Il serait judicieux maintenant que j'utilise ces design patterns dans un projet de code pour vérifier que j'ai effectivement compris leur fonctionnement.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._ 
+
+**1. Quels sont les principaux design patterns que j’ai retenus et quelle problématique chacun résout-il ?**
+
+- **MVC** : sépare les responsabilités entre le modèle (logique métier et lien avec la base de données), la vue (interface utilisateur) et le contrôleur (traitement des requêtes). Cela permet de rendre le tout plus lisible et maintenable.
+- **Singleton** : garantit qu’une seule instance d’une classe existe (utile notamment pour la connexion à la base de donnée)
+- **Factory** : encapsule la logique de création d’objets pour rendre le code plus flexible et évolutif
+- **Builder** : permet de construire des objets complexes étape par étape, sans surcharger le constructeur.
+- **Observer** : met en place un mécanisme de notification automatique entre un sujet et ses observateurs, utile pour réagir à des événements.
+
+**2. Comment reconnaître un pattern au sein d’un code existant ?**
+
+- **MVC** : une structure de fichiers distincte entre les modèles, les vues et les contrôleurs
+- **Singleton** : instance statique, méthode `getInstance()` (qui retourne toujours la même instance et la crée si celle-ci est inexistante) , constructeur privé
+- **Factory** : classe spécifique de `Factory` (en plus de la classe de l'objet créé), méthode `create` ou `make` pour créer dans objets sans utiliser directement le new
+- **Builder** : présence de méthodes setter, propriétés non obligatoires assignées par défaut à `null`, présence d'une méthode de création (comme `build`)
+- **Observer** : un sujet déclenchant des notifications, un observateur réagissant aux événements liés au sujet
+
+**3. Dans quelle mesure le pattern MVC structure-t-il un framework comme Laravel ?**
+
+- **Models** : récupèrent et gèrent les données (via Eloquent)
+- **Views** : sont gérées via Blade pour l'affichage dynamique
+- **Controllers** : reçoivent les requêtes et gèrent les interactions
+
+**4. Pourquoi l’identification de patterns est-elle utile pour décortiquer un framework propriétaire sans documentation ?**
+
+- Comprendre les rôles des classes
+- Émettre des hypothèses sur les utilisations de méthodes
+- Permet de plus rapidement comprendre des bouts de code en un coup d'œil, sans devoir trop l'analyser
+
+**5. Quelles bonnes pratiques puis-je appliquer pour repérer et comprendre les patterns d’un nouveau projet ?**
+
+- Repérer les noms liés à ces patterns (`Factory`, `Controller`, `Builder`, etc.)
+- Réfléchir aux cas d'utilisations (singleton pour la db, factory pour les seeders, builders pour la création d'objets)
+- Ne pas tomber dans le piège de **mettre un pattern pour mettre un pattern**
 
 ## Résultat de l'expérimentation
+
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+L'expérimentation a été formatrice pour mes connaissances personnelles en programmation.
+
+Grâce à celle-ci, j'ai également pu commencer à me plonger dans la compréhension du framework de Rumya.
+
+De plus, j'ai pu réutiliser Zotero en m'habituant à noter mes sources (ce qui me sera demandé lors de mon TB).
+
+Avec le dossier, j'ai également pu plus me familiariser avec le language Markdown (en prenant mes notes avec Notion) et me rechallenger sur de la mise en pages avec InDesign, chose que je n'avais quasiment plus faite depuis mon CFC.
 
 ## Investissement
 
 _Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
 
+J'ai passé environ 31h sur ce projet, avec un écart de 5h sur l'investissement imaginé au départ. Cet écart est explicable par ma fatigue liée aux autres projets imposés par la HEIG, notamment le crunch, et au délai restreint pour exécuter ces heures de travail. 
+
+J'avais prévu travailler sur ce projet 2h par jour de semaine (hors semaine de crunch) et 4h par jour de weekend, mais j'ai pris l'initiative de ne pas sortir l'ordinateur le samedi suivant le crunch (22.03.2025) (ce qui explique déjà 4h de décalage).
+
+**Vous trouverez sur teams un tableau détaillé de mes horaires pour ce projet.**
+
 ## Réflexion sur la méthode d'auto-formation
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
 
+**Avantages**
+
+- Choix d'un thème réellement utile
+- Autonomie dans les horaires
+- Possibilité d'avancer à mon rythme
+
+**Inconvénients**
+
+- Risque de décrochage
+- Peu de moyen de vérifier ma compréhension et mes compétences (inconvénient atténué par les retours de M. Tisserand sur mon contenu)
+- Difficulté à trouver des sources pertinentes, difficultés à vérifier l'exactitude des informations
+- Aucune certification prouvant mes capacités dans le domaine
+
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
+_Quelles leçons avez-vous apprises et pourquoi ? Quelles implications pour votre TB et pourquoi ?_
+
+J'ai appris qu'il pouvait être utile de passer du temps à étudier le code avant de passer à la pratique pour mieux assimiler certains concepts et ainsi être par la suite plus efficace, moi qui avais parfois pris la mauvaise habitude de me lancer directement dans les projets et d'un peu trop me reposer sur l'IA.
+
+J'ai pu prendre l'habitude de lire de la documentation et de mieux comprendre l'anglais, malgré mes lacunes dans cette langue.
+
 _Quelles implications pour votre TB et pourquoi ?_
+
+En liant les design petterns et le framework de Rumya et en demandant un retour de mon travail à M. Tisserand, j'ai pu par ce projet:
+
+- comprendre certains aspects du framework que je vais utiliser dans mon TB
+- utiliser l'IDE PhpStorm (qui est utilisé dans l'entreprise Rumya) 
+- prendre de l'avance en ayant la possibilité d'avoir dès maintenant un compte GitLab et un compte Mattermost directement liés à l'entreprise Rumya
