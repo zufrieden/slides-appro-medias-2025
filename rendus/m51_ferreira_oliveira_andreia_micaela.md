@@ -76,24 +76,70 @@ Comme expliqué dans la démarche, je vais créer un chatbot simple qui pourra i
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Avant cet exercice, mes connaissances sur les chatbots étaient limitées à leur utilisation en tant qu’utilisatrice. Grâce à cette auto-formation, j’ai pu approfondir leur fonctionnement, explorer diverses plateformes de création et identifier celles qui convenaient le plus à mon travail de Bachelor.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+#### Quel rôle joue un chatbot dans un environnement professionnel, et quel sont ses avantages ?
+Dans ce genre d’environnement, un chatbot automatise les interactions avec les clients et contient plusieurs avantages :
+1.	Il offre une assistance rapide 24/7 sans interruption.
+2.	Le chatbot réduit les coûts en diminuant le besoin de personnel dédié.
+3.	Il améliore l’engagement client en fournissant des réponses immédiates.
+4.	Et finalement, il collecte et analyse les données sur les clients qui seront utiles à l’entreprise.
+
+#### Quelles plateformes de création de chatbots existent et quelles sont leurs fonctionnalités clés ?
+Lors de mes recherches, j’ai pu trouver beaucoup de plateformes pour créer des chatbots personnalisés, voici celles qui ont retenu mon attention :
+1.	Botnation AI est une plateforme simple d’utilisation qui permet de créer des chatbots sans avoir besoin de coder. Ils ont également des vidéos sur Youtube qui montrent comment utiliser leur plateforme en 5 minutes et également des vidéos informatives sur les chatbots.
+2.	Landbot permet également de créer des chatbots sans avoir besoin de coder. Ils proposent des modèles réutilisables afin de faciliter la création du chatbot.
+3.	Tidio est une plateforme plutôt réservée aux petites et moyennes entreprises et comme les deux dernières, la programmation n’est pas nécessaire pour la création de chatbots.
+
+#### Comment un chatbot peut-il mémoriser des informations et les utiliser dans des conversations futures ?
+Le chatbot stocke les informations en utilisant des bases de données et lors des interactions futures, il utilise ces données pour personnaliser ses réponses. (Honnêtement, je pensais que c’était plus complexe que ça).
+
+#### Quels sont les limitations et les défis potentiels liés à la création d’un chatbot pour une entreprise ?
+Premièrement, la compréhension des chatbots peut être limitée par l’interprétation des requêtes complexes ou vagues.
+Intégrer un chatbot dans un système qui est déjà mis en place peut être compliqué car il faut s’assurer qu’il y ait une compatibilité entre les deux.
+Et finalement, les chatbots ont besoin d’être mis à jour régulièrement pour rester performants.
+
+#### Comment tester et améliorer continuellement un chatbot après sa mise en place dans une entreprise ?
+Afin d’améliorer continuellement un chatbot il est nécessaire de :
+-	Tester régulièrement le chatbot en simulant des conversations pour voir la pertinence des questions.
+-	Recueillir des retours des utilisateurs afin de détecter chaque problème.
+-	Suivre les indicateurs de performance, comme le taux de réponses.
+-	Mettre régulièrement les données de l’entreprise à jour.
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+Grâce aux tutoriels que les plateformes ont en ligne, j’ai pu créer un chatbot simple, ce qui m’a permis de comprendre et d’acquérir quelques bases. Cependant, par manque de temps, je n’ai pas pu tester beaucoup de plateformes et approfondir davantage cette expérimentation. Néanmoins, cette expérience m’a fourni une première base pour intégrer des chatbots et m’a montré que la création ne nécessite pas de code pour être performante.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Phase de recherche : 17h au lieu de 15h. J’ai passé beaucoup de temps à me renseigner sur l’utilisation des chatbots au sein des entreprises et sur les meilleures façons de les optimiser afin d’apporter une réelle valeur ajoutée à l’entreprise.
+
+Phase de recherche de plateforme de création de chatbots : 1h au lieu de 3h. Grâce à mes recherches j’ai pu identifier quelques plateformes qui pourraient convenir à l’entreprise Cavin mais je n’ai pas eu le temps de toutes les tester correctement.
+
+Phase d’apprentissage de création de chatbot : 2h au lieu de 5h. Grâce aux tutoriels fournis par les plateformes qui ne duraient que quelques minutes, cette phase a été plus courte.
+
+Phase de création d’un chatbot simple : 3h au lieu de 8h. Comme la phase d’apprentissage de création de chatbot a été enrichissante et comme le temps était assez limité, je n’ai pas passé beaucoup de temps à créer un chatbot avec des données personnalisées et plus complexes que le tutoriel.
+
+Phase de résumé : 5h comme prévu. Au fur et à mesure que je faisais des recherches, je notais dans un document toutes les informations qui me semblaient importantes.
+
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+Cette auto-formation m’a permis de :
+-	Gérer mon temps à mon rythme et de manière autonome
+-	Réaliser l’importance de la recherche afin de partir sur de bonnes bases.
+-	Approfondir mes connaissances sur les chatbots 
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+Grâce à cette auto-formation, j’ai pu :
+-	Apprendre l’importance de l’autonomie en gérant mon temps à mon rythme, et de prévoir un temps adéquat pour chaque tâche.
+-	Comprendre l’importance de la recherche en amont qui m’a permis de découvrir des outils adaptés aux besoins de l’entreprise et approfondir mes connaissances des chatbots.
+  
+Les implications pour mon TB sont les suivantes : 
+-	 Cette expérience m’a fourni une première base solide pour travailler sur l’intégration de chatbots dans le département des ventes chez Cavin. J’ai maintenant une meilleure compréhension des outils que je peux utiliser lors de mon TB.
+-	J’ai pu identifier les plateformes les plus appropriées et je trouverai la meilleure plateforme en continuant cette veille pour commencer mon TB sans problème.
+-	Grâce à mon dossier de résumé, je retrouve les informations dont j’ai besoin sans avoir besoin d’aller m’informer sur plein de plateformes différentes, ce qui sera un gain de temps important.
+
