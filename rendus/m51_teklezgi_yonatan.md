@@ -88,24 +88,91 @@ Ce sujet est essentiel pour mon Travail de Bachelor car l’analyse des **KPIs e
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+**Constats principaux :**  
+- **Attentes :** Acquérir une maîtrise suffisante pour être autonome dans la création de tableaux de bord interactifs.  
+- **Objectifs :** Prendre en main l’interface des outils, créer des visualisations simples et comprendre les bonnes pratiques.  
+- **Réalité :**  
+  - J’ai réussi à bien prendre en main **Google Data Studio**, qui s’est révélé plus accessible.  
+  - **Tableau et Power BI nécessitent plus d’apprentissage** en raison de leurs nombreuses fonctionnalités avancées.  
+  - J’ai pu créer des **visualisations basiques et des filtres interactifs**, mais je n’ai pas encore atteint un niveau permettant une **analyse avancée des KPIs**.  
+  - La partie "comparaison des outils" a été plus complexe que prévu, car chacun a des forces et des limites en fonction du contexte d’utilisation.  
 
+- **Conclusion** : Objectifs partiellement atteints. Une maîtrise approfondie nécessitera un investissement supplémentaire, notamment sur **Power BI et Tableau**, qui demandent plus de pratique.  
+
+---
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. **Quelle est la différence entre Power BI, Tableau et Google Data Studio en termes de fonctionnalités ?**  
+   - **Google Data Studio** est **gratuit et intuitif**, idéal pour des **tableaux de bord simples** connectés à des outils Google (Analytics, Sheets).  
+   - **Power BI** est puissant pour **les analyses complexes et les grandes bases de données**, mais **moins intuitif** pour un débutant.  
+   - **Tableau** offre des **visualisations très avancées et interactives**, mais il est payant et demande **une bonne prise en main**.  
+
+2. **Comment structurer un jeu de données pour qu’il soit exploitable dans un outil de data visualisation ?**  
+   - Nettoyer les données (suppression des valeurs aberrantes, harmonisation des formats).  
+   - Organiser les données sous forme de **tableaux structurés** avec des colonnes clairement définies.  
+   - Privilégier les **formats CSV, Excel ou bases de données connectables directement**.  
+
+3. **Quels types de visualisations sont les plus adaptés à l’analyse des KPIs en sponsoring ?**  
+   - **Graphiques en barres** : Comparer les fréquentations des évènement sponsorisés.  
+   - **Courbes d’évolution** : Suivre l’impact d’un sponsoring sur le temps.  
+   - **Heatmaps et diagrammes en radar** : Évaluer l’engagement du public sur différents canaux.  
+   - **Tableaux de bord interactifs** : Permettre des analyses dynamiques.  
+
+4. **Comment appliquer des filtres et des interactions pour améliorer la lisibilité d’un tableau de bord ?**  
+   - **Utilisation de segments et filtres dynamiques** pour afficher des résultats ciblés.  
+   - **Drill-down et drill-through** : Explorer les données à différents niveaux de détail.  
+   - **Mise en avant des valeurs clés** via des couleurs et des indicateurs visuels.  
+
+5. **Quels sont les critères pour évaluer la pertinence d’un outil de data visualisation pour un projet ?**  
+   - **Accessibilité et facilité d’utilisation**.  
+   - **Capacité à traiter des volumes de données importants**.  
+   - **Intégration avec d’autres outils** (CRM, ERP, Google Analytics…).  
+   - **Coût et modèle économique (gratuit/payant, licences, etc.)**.  
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+L’expérimentation a été **formatrice sur plusieurs points** :  
+- **Prise en main et manipulation des interfaces** : Comprendre les différences entre les outils et identifier celui qui correspond le mieux à mes besoins.  
+- **Création de premières visualisations** : J’ai pu tester les capacités de chaque outil et voir leurs limites.  
+- **Découverte des bonnes pratiques** en data visualisation (choix des graphiques, structuration des tableaux de bord).  
+
+Cependant, **je n’ai pas pu approfondir autant que prévu sur Power BI et Tableau**, qui nécessitent une **plus grande courbe d’apprentissage**.  
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+| **Phase** | **Temps prévu** | **Temps réel passé** | **Écart** | **Pourquoi ?** |  
+|-----------|---------------|-------------------|----------|-------------|  
+| Découverte des outils | 6h | 8h | +2h | Plus de temps que prévu pour comprendre les interfaces |  
+| Création de visualisations | 8h | 6h | -2h | Moins avancé que prévu sur Power BI et Tableau |  
+| Manipulation des données | 10h | 12h | +2h | Problèmes avec certaines sources de données |  
+| Analyse et comparaison | 8h | 6h | -2h | Manque d’expertise pour une analyse approfondie |  
+| Rédaction du rapport | 4h | 4h | 0h | Conforme aux prévisions |  
+| **Total** | 36h | 36h | **0h** | Rééquilibrage entre les phases |  
+
+**Conclusion** : J’ai respecté le volume d’heures, mais **certains aspects ont nécessité plus de temps**, en particulier la **prise en main des interfaces**.  
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+### **Avantages**  
+Flexibilité : J’ai pu avancer à mon rythme.  
+Apprentissage ciblé : J’ai exploré **ce qui était le plus utile** pour mon TB.  
+Acquisition d’une **méthode de travail autonome**, précieuse pour l’avenir.  
+
+### **Inconvénients**  
+Manque d’encadrement : Certaines notions étaient difficiles à assimiler seul.  
+Courbe d’apprentissage variable : Power BI et Tableau demandent **plus de temps et de pratique**.  
+Risque de dispersion : Difficile d’évaluer **jusqu’où aller** sans un cadre défini.  
+
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+### **Leçons apprises**  
+- **Google Data Studio est un bon point d’entrée** en data visualisation, mais Power BI et Tableau sont plus puissants.  
+- **Une formation complémentaire** (tutoriels avancés, cours en ligne) serait nécessaire pour maîtriser Power BI et Tableau.  
+- **L’auto-formation fonctionne bien** pour une première approche, mais elle doit être combinée à des **exercices pratiques plus poussés**.  
+
+### **Implications pour mon Travail de Bachelor**  
+- **Je vais privilégier Google Data Studio** pour les premiers tableaux de bord.  
+- **Si nécessaire, approfondir Power BI ou Tableau** en fonction des besoins du TB.  
+- **Appliquer les bonnes pratiques** apprises pour structurer des rapports clairs et efficaces.  
+
+**Prochaine étape : Intégrer ces outils dans la réflexion sur les KPIs en sponsoring** et voir comment exploiter la data visualisation pour améliorer les décisions stratégiques.  
