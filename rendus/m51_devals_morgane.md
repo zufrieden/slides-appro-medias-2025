@@ -64,24 +64,39 @@ Pour valider mon apprentissage, je vais :
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Au départ, je maîtrisais seulement les bases de la conception UX/UI sur Figma, avec des compétences centrées sur la création de maquettes statiques et de parcours utilisateurs simples. Je n'avais pas encore exploré les animations ou les micro-interactions, ni mesuré leur impact sur l’accessibilité et l’expérience utilisateur.
+
+Grâce à cette auto-formation, j'ai dépassé mes attentes initiales. J'ai acquis une bonne compréhension théorique des principes liés aux animations UX/UI, mais aussi développé des compétences pratiques sur Figma. Je suis maintenant capable d'intégrer des animations réfléchies à mes prototypes, rendant l’expérience utilisateur bien plus interactive et intuitive.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+**1. Quels types d’animations et de micro-interactions améliorent l’expérience utilisateur sans la perturber ?**
+Des animations discrètes comme les effets au survol, le feedback visuel immédiat (par exemple, les boutons réactifs) et les transitions fluides sont particulièrement efficaces. Elles enrichissent l'expérience sans distraire ou surcharger l'utilisateur, rendant la navigation plus agréable et intuitive.
+
+**2. Comment créer des animations fluides et adaptées sur Figma ?**
+Sur Figma, j’ai appris à exploiter le Smart Animate, les transitions interactives et l'utilisation des variants. L’ajustement précis des paramètres d’easing (accélération/décélération) permet de créer des animations fluides et naturelles.
+
+**3. Quels principes suivre pour garantir l’accessibilité des animations UX/UI ?**
+Pour garantir l'accessibilité, il est essentiel d’éviter les animations trop rapides ou complexes qui pourraient perturber certains utilisateurs. Proposer des alternatives statiques ou la possibilité de désactiver les animations, tout en respectant les directives WCAG (Web Content Accessibility Guidelines), permet de rendre l’interface utilisable par tous.
+
+**4. Comment choisir les bonnes animations pour améliorer la navigation et l’engagement utilisateur ?**
+Le choix doit toujours être orienté vers l’objectif précis de l’interaction : faciliter la navigation, offrir un feedback immédiat ou simplifier l’expérience utilisateur. Les animations sélectionnées doivent rester intuitives et minimalistes, apportant un réel bénéfice sans ajouter de complexité inutile.
+
+**5. Quelles sont les différences d’impact entre une interface statique et une interface animée ?**
+Les interfaces animées stimulent l’engagement des utilisateurs en offrant une interaction dynamique. À la différence des interfaces statiques, elles communiquent mieux les possibilités d’interaction, diminuent les erreurs de navigation et rendent l’expérience globale plus fluide et attractive.
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+L’expérimentation a été enrichissante. J'ai créé deux prototypes, l’un statique et l’autre avec des animations et micro-interactions, spécialement pensés pour l’espace client. Cette expérience m’a permis de clairement identifier quelles animations étaient efficaces (feedback instantané, transitions claires) et celles qui l’étaient moins (animations trop complexes ou perturbantes).
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+J'ai consacré environ 40 heures, un peu plus que les 36 heures initialement prévues. Ce dépassement est dû à la complexité technique rencontrée durant l’apprentissage des animations avancées sur Figma, nécessitant plus de temps que prévu.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L’auto-formation m’a apporté beaucoup d’autonomie et une flexibilité pour personnaliser mon apprentissage selon mes besoins réels. Cependant, elle exige une discipline stricte et une bonne gestion du temps, car le manque d’un cadre externe structurant peut facilement conduire à une surcharge de travail.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+J’ai appris que des animations UX bien pensées améliorent l'expérience utilisateur. Maîtriser ces techniques me permet désormais de concevoir des interfaces plus intuitives et engageantes. Cette compétence sera très utile pour mon Travail de Bachelor afin de rendre l’espace client de Romande Énergie à la fois plus efficace et agréable à utiliser.
