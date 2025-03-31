@@ -72,24 +72,53 @@ Pour valider mes compétences, je vais réaliser un POC qui reproduira les fonct
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Les objectifs de bases étaient trop pointilleux. Au final je ne me suis pas préoccupés de certaines tâches comme faire des test ou analyser les performances. Je me suis concentré sur le coeur de ma problèmatique.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+- Points clés pour mettre en place une authentification OAuth dans Laravel et récupérer les informations utilisateur?
+  - Comprendre OAuth  (délégation d'autorisation, pour utiliser des comptes d'autres services)
+  - Comprendre les outils Laravel conçus pour mettre en place OAuth (LAravel Socialite notamment) et les installer,
+  - setup d'une ID OAuth Google dans Google Cloud Console,
+  - configurer Laravel (ID OAuth, préparer la DB, les Models, Controllers, Routes, etc),
+  - comprendre le principe de services dans Laravel et impléemnter le service pour Google Calendar.
+- Points clés pour intégrer et afficher dynamiquement des créneaux de rendez-vous depuis une API externe?
+  - comprendre et installer laravel-google-calendar (package Laravel pour l'intégration de Google Calendar),
+  - setup d'une ID Google Calendar dans Google Cloud Console pour utiliser l'API:
+    - configurer Laravel (préparer la DB, les Models, Controllers, Routes etc).
+- Comment éviter les conflits de réservation en temps réel?
+  - Il semblerait que le système actuel gère d'un bonne manière les possibles conflits:
+    - génération des slots de réservation au runtime,
+    - vérification de la disponibilité du slot lors d'un demande de réservation.
+  - Possible point de friction: le calendrier ne se met pas à jour tant que l'utilisateur ne fait pas une action. Cela est dû à la nature de PHP/Laravel.
+- Comment optimiser les performances d’une application Laravel traitant des données dynamiques?
+  - Question peut-être pas vraiment pertinente au final. Vu que la réponse semble être d'écrire du bon code 🫢:
+  - utiliser les systèmes de cache de Laravel semble être une bonne idée,
+  - utiliser Laravel Telescope (sorte de console d'aide au dév).
+- J'ai remarqué en complétant cette deuxième partie que je n'avais posé que 4 questions. J'ai beau y réfléchir, je ne trouve pas de question supplémentaire qui complète les 4 autres de manière pertinente. 
+
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+L'expérimentation a été intéressante surtout pour la recherche sur les concepts clés et la compréhension de nouveaux outils. Dans la pratique, le résultat a tout de même un côté un peu bancal: je suis allé assez vite sur les notions de base de Laravel qu'il fallait réféchir 😬.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+Au final, j'ai passé beaucoup moins de temps que prévu sur ce projet:
+- la recherche et la lecture de documentation a été beaucoup plus rapide que prévu,
+- comme dit précédemment, je n'ai pas tout fait picco bello au niveau du dév et certaines étapes on même été supprimmées par manque de pertinence,
+- j'ai aussi été limité dans le temps que j'avais à disposition pour ce projet.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L'auto-formation a bien marché dans ce contexte car je savais où allé et quoi chercher. J'ai connu des situations où je sais qu'il y a un manque, mais on ne sait pas où chercher, ce qui rend l'auto-formation compliquée.
+
+Cela a aussi bien fonctionné car l'apprentissage était basée sur des solutions techniques, documentées et expliquées et précises.
+
+Là ou ça a moins bien été, c'est qu'il faut arriver à se procurer le temps nécessaire pour l'auto-formation.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+- Pas facile de faire de l'auto-formation avec des deadlines (selon mon expérience, c'est plutôt un travail à long terme qui se fait au rythme qu'on arrive à lui donner),
+- il faudra être bien au clair sur les fondamentaux. Même si la solution de l'agenda marche, elle peut se casser la figure si je gère pas bien mon app Laravel,
+- il y a un aspect clé en main à l'intégration de l'agenda, car il s'agit de services proposés par des entreprises. Cela risque d'être différent pendant le TB si je travaille avec des outils développés à l'interne.
