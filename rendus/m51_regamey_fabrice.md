@@ -30,8 +30,8 @@ _Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignabl
 
 _Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
 
-- D'ici au 28 mars, j’obtiendrai les certifications Google (Display, Search, Measurement, Analytics) en suivant les formations officielles et en validant les examens correspondants.\
-- D'ici au 28 mars, je validerai la certification "Meta Certified Media Buying Professional" en complétant les formations associées et en réussissant l’évaluation (si elle est accessible).\
+- D'ici au 28 mars, j’obtiendrai les certifications Google (Display, Search, Measurement, Analytics) en suivant les formations officielles et en validant les examens correspondants.
+- D'ici au 28 mars, je validerai la certification "Meta Certified Media Buying Professional" en complétant les formations associées et en réussissant l’évaluation (si elle est accessible).
 - D’ici au 28 mars, je rédigerai au moins deux résumés (google et meta) issus des formations suivies pour consolider mes apprentissages.
 
 ## Démarche
@@ -51,12 +51,12 @@ Voici le descriptif de la répartition de la charge de travail :
   Google Ads - Search Certification	**4h**\
   Google Analytics Certification	**5h**\
   --------------\
-  Lecture du support "Facebook Media Buying Professional"	**1h**\
-  Meta Certified Media Buying Professional (et ses formations associées)	**5h**\
+  Lecture du support "Facebook Media Buying Professional"	**1h**
+  Meta Certified Media Buying Professional (et ses formations associées)	**5h**
   --------------\
   Rédaction de notes et résumé **2h**\
   --------------\
-  Total	**24h**\
+  Total	**24h**
 
 Je m'organiserai pour prendre chaque formation les unes après les autres, sans dépasser le temps fixé. J'effecturai aussi des résumés lorsque ce sera pertinent.  
 
@@ -64,11 +64,11 @@ Je m'organiserai pour prendre chaque formation les unes après les autres, sans 
 
 _Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
 
-- Quels sont les principaux types de campagnes disponibles sur Google Ads et dans quels cas les utiliser ?\
-- Comment Google Analytics 4 permet-il de suivre et d’analyser les performances d’une campagne publicitaire ?\
-- Quels critères sont essentiels pour définir une audience efficace sur Meta Ads ?\
-- Quelles sont les principales différences entre Google Ads et Meta Ads en termes de ciblage et de format publicitaire ?\
-- Quels indicateurs clés (KPIs) doivent être surveillés pour mesurer l’efficacité d’une campagne publicitaire en ligne ?\
+- Quels sont les principaux types de campagnes disponibles sur Google Ads et dans quels cas les utiliser ?
+- Comment Google Analytics 4 permet-il de suivre et d’analyser les performances d’une campagne publicitaire ?
+- Quels critères sont essentiels pour définir une audience efficace sur Meta Ads ?
+- Quelles sont les principales différences entre Google Ads et Meta Ads en termes de ciblage et de format publicitaire ?
+- Quels indicateurs clés (KPIs) doivent être surveillés pour mesurer l’efficacité d’une campagne publicitaire en ligne ?
 
 ## Expérimentation
 
@@ -84,22 +84,74 @@ Je fournirai les certifications obtenues lorsque celles-ci sont disponibles ains
 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
 
+La réalité est bien différente de notre idéal planifié.
+J'ai comblé une partie de mes attentes en ce qui concerne l'acquisition de nouvelles connaissances sur l'écosystème Google. Je pensais cependant réussir à en acquérir davantage.\
+Les objectifs n'ont pas été atteints, seule une formation a été validée. J'avoue avoir été surpris d'avoir besoin d'autant de temps pour compléter ne serait-ce qu'une formation.\
+Je suis actuellement en train de suivre la certification "Google Analytics".
+
 ## Réponses aux 5 questions
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
 
+Voici mes 5 questions:
+- Quels sont les principaux types de campagnes disponibles sur Google Ads et dans quels cas les utiliser ?
+- Comment Google Analytics 4 permet-il de suivre et d’analyser les performances d’une campagne publicitaire ?
+- Quels critères sont essentiels pour définir une audience efficace sur Meta Ads ?
+- Quelles sont les principales différences entre Google Ads et Meta Ads en termes de ciblage et de format publicitaire ?
+- Quels indicateurs clés (KPIs) doivent être surveillés pour mesurer l’efficacité d’une campagne publicitaire en ligne ?
+
+Et mes réponses:
+- Google Ads propose plusieurs types de campagnes selon les objectifs. Les campagnes sur le Réseau de Recherche sont idéales pour capter une audience avec une intention d'achat claire, tandis que les campagnes Display permettent d’accroître la notoriété via des annonces visuelles sur des sites partenaires. Les campagnes Vidéo (YouTube Ads) sont parfaites pour le branding et l’engagement. Les campagnes Performance Max maximisent les conversions en diffusant sur tous les canaux Google. Les campagnes Shopping sont adaptées aux e-commerçants souhaitant afficher leurs produits sur Google Shopping.\
+  Le choix dépend donc de l’objectif : conversion, visibilité, trafic physique (Locales), ou promotion d’applications.
+- Je n'ai pas suivi la formation "Google Analytics"
+- Je n'ai pas acquis de connaissances pour les outils Meta
+- Idem
+- Pour mesurer l’efficacité d’une campagne publicitaire en ligne, plusieurs indicateurs clés de performance (KPIs) doivent être surveillés en fonction des objectifs:
+  - Taux de clics
+  - Coût par clic
+  - Taux de conversion
+  - Coût par acquisition
+  - Retour sur investissement publicitaire
+  - Impressions et portée
+  - Taux d’engagement (likes, partages, commentaires)
+
 ## Résultat de l'expérimentation
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+J'ai commencé par m'identifier et créer mon espace sur la plateforme de formation Google nommée Skillshop. J'ai ensuite tout simplement tenté de libérer le plus de temps possible afin de suivre les formations.\
+En ce qui concerne la partie que j'ai pu réaliser, elle s'est avérée formatrice. Je n'avais aucune connaissance de base, et cela m'a permis d'en acquérir, mais surtout de briser la glace avec la vision complexe que j'avais des outils Google.
 
 ## Investissement
 
 _Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
 
+Pour terminer la certification "Google Search", il m'a fallu un peu plus de 10 heures, bien loin des 5 heures estimées.\
+Ceci est majoritairement dû aux conditions de travail. Je n'ai que très rarement pu me dégager plus d'une heure, ce qui ne permettait pas d'être très productif. J'ai essayé d'utiliser le temps de trajet dans le train ou encore le peu qu'il me restait le soir pour avancer dans la formation. Il était compliqué, à chaque petite session, de se mettre dedans et d'avancer efficacement.\
+Il m'a aussi fallu plus de temps car la formation est donnée en anglais et utilise beaucoup de termes techniques.
+
 ## Réflexion sur la méthode d'auto-formation
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
 
+L’auto-formation présente plusieurs avantages:
+- la flexibilité d’apprentissage
+- la possibilité de progresser à son propre rythme
+- de cibler précisément les compétences dont on a besoin
+
+Et aussi des inconvénients :
+- L'absence de cadre strict
+- Aucun accompagnement
+- Peu, voire pas d’évaluation
+
 ## Conclusion
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
+
+J'ai appris que l'auto-formation demande une grande discipline et une organisation rigoureuse, surtout lorsqu'on a un emploi du temps chargé.
+J’ai également constaté que suivre des formations en anglais avec un vocabulaire technique demande un effort supplémentaire et augmente le temps d’apprentissage.
+Dernier point, je me suis rendu compte de l'importance de se dégager de vraies plages horaires afin d'être plus efficace, plutôt que d’essayer de progresser par petites sessions dispersées.
+
 _Quelles implications pour votre TB et pourquoi ?_
+
+Cette formation m'a permis d’acquérir des compétences qui me seront utiles dans le cadre de mon activité d'indépendant que je souhaite lancer.
+Car en comprenant mieux les outils Google pour la publicité digitale, je serai en meilleure posture pour apporter une réelle valeur ajoutée aux PME, même s'il me reste encore beaucoup à apprendre.
