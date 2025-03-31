@@ -70,24 +70,32 @@ Réalisation d’un mini guide sur l’utilisation des outils
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Cette auto-formation visait à renforcer mes compétences sur GA4 et Meta Business Suite pour optimiser les performances digitales, essentielles à mon Travail de Bachelor. Malgré une semaine de crunch qui a limité mon temps disponible, j’ai pu progresser sur la plupart des objectifs. Certaines tâches ont pris moins de temps que prévu, ce qui m’a permis de compenser en partie ce manque. J’ai particulièrement amélioré ma compréhension des indicateurs de performance et la configuration d’événements personnalisés, bien que certaines fonctionnalités avancées nécessitent encore de la pratique.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+1. Pour configurer un événement personnalisé dans GA4, il faut d’abord définir l’événement souhaité, comme le suivi d’un clic sur un bouton. Ensuite, dans Google Tag Manager, il faut créer un nouveau tag GA4, lui attribuer un nom d’événement pertinent, et configurer un déclencheur basé sur l’action cible (ex. clic sur un bouton spécifique). Une fois le tag paramétré, il est important de tester l’événement dans le mode de débogage avant de le publier pour s’assurer qu’il fonctionne correctement.
+
+2. Dans GA4, les indicateurs essentiels incluent le nombre de sessions, le taux de rebond, la durée moyenne des sessions et les conversions (inscriptions, achats, etc.). Ces données permettent d’évaluer l’engagement et l’efficacité d’un site. Pour Meta Business Suite, les principaux indicateurs sont la portée des publications, l’engagement (likes, partages, commentaires), le taux de clics sur les liens et le coût par résultat pour les publicités. Ces métriques aident à optimiser les campagnes et ajuster la stratégie de contenu.
+
+3. Pour créer un rapport efficace dans GA4, il faut utiliser l’outil d’exploration des données. Il s’agit de sélectionner les dimensions et indicateurs pertinents, comme les sources de trafic, le comportement des utilisateurs ou les conversions. Une fois les données compilées, l’analyse doit permettre d’identifier les tendances et les points d’amélioration. Par exemple, un taux de rebond élevé peut indiquer un problème d’expérience utilisateur, nécessitant des ajustements dans le design ou le contenu du site.
+
+4. Meta Business Suite permet de programmer des publications à l’avance en sélectionnant une date et une heure optimales selon l’audience cible. Il est conseillé d’analyser les statistiques pour identifier les moments où l’engagement est le plus élevé. La gestion des interactions peut être optimisée en configurant des réponses automatiques aux messages et en interagissant régulièrement avec la communauté pour renforcer l’engagement.
+
+5. Pour lancer une campagne publicitaire sur Meta, il faut d’abord définir un objectif précis (conversion, trafic, engagement). Ensuite, il est essentiel de bien cibler l’audience en fonction des critères démographiques, intérêts et comportements. Une fois la campagne active, il faut analyser les indicateurs de performance comme le coût par clic, le taux de conversion et le retour sur investissement. Des tests A/B peuvent être réalisés pour ajuster les éléments de la campagne et améliorer son efficacité.
 
 ## Résultat de l'expérimentation
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+L’expérimentation m’a permis d’acquérir une meilleure maîtrise des outils et d’appliquer concrètement les concepts appris. J’ai pu configurer des événements personnalisés sur GA4 et suivre leur impact, tout en optimisant mes publications et campagnes sur Meta Business Suite. Cependant, certaines fonctionnalités avancées mériteraient encore plus de pratique pour être pleinement exploitées.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+J'ai investi un peu près ~25 heures pour ce cours en auto-formation (-11h, en raison d’une semaine de crunch qui a limité mon temps disponible, mais certaines tâches ont pris moins de temps que prévu).
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+Se mettre au travail a parfois été difficile, mais une fois plongé dans l’apprentissage, le sujet s’est révélé très intéressant. J’aurais aimé avoir plus d’un mois pour approfondir certains aspects et explorer des sujets plus vastes. De plus, réaliser cette auto-formation durant une période intense comme le crunch a rendu l’organisation plus compliquée. Avec plus de temps, j’aurais pu mieux assimiler certaines notions et tester plus de fonctionnalités avancées.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+Cette formation m’a permis de mieux comprendre GA4 et Meta Business Suite, des compétences clés pour mon Travail de Bachelor et ma future carrière. La mise en pratique a été un élément déterminant dans cet apprentissage, et je compte approfondir encore ces outils pour optimiser les stratégies digitales de manière plus efficace.
