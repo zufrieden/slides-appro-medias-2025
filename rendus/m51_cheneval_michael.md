@@ -62,25 +62,54 @@ Je vais réaliser une application frontend permettant de récupérer et d'affich
 
 ## Retour sur l'état initial
 
-_Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
+Mon objectif initial était d'approfondir ma maîtrise des requêtes API en vue de mon travail de Bachelor.  
+Globalement, j'ai pu atteindre une bonne partie de mes objectifs, même si certains aspects plus techniques et chronophages, comme le caching ou l'implémentation complète de l'authentification JWT, n'ont pas pu être entièrement réalisés par manque de temps.  
+Cela dit, j’ai acquis une base solide que je pourrai renforcer plus tard selon les besoins de mon projet final.
 
 ## Réponses aux 5 questions
 
-_Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
+**1. Comment effectuer une requête GET et POST avec `fetch` et `axios` ?**  
+Cette partie a été bien maîtrisée. J’ai appris à utiliser `fetch` et `axios` pour faire des requêtes GET et POST, en manipulant les headers, le body, et en traitant les réponses JSON.  
+Je préfère personnellement `axios` pour sa simplicité et sa gestion automatique de certaines erreurs.
+
+**2. Comment gérer les erreurs d’une requête API et afficher un message utilisateur pertinent ?**  
+J’ai réussi à implémenter une gestion d’erreurs basique : affichage de messages en cas d’erreurs 400 ou 500, avec des `try/catch` et des conditions sur les codes de statut.  
+Je n’ai pas encore mis en place un système d’erreurs plus avancé (retries, logs, etc.), mais j’en comprends le principe.
+
+**3. Comment fonctionne l’authentification avec JWT et comment l’implémenter dans une requête API ?**  
+J’ai compris le principe des tokens JWT (stockage dans le client, ajout dans les headers), mais je n’ai pas eu le temps d’implémenter une vraie logique de connexion avec token JWT valide, expiration, et renouvellement.  
+Cela reste un point que je souhaite approfondir plus tard, car c’est très utile dans un projet professionnel.
+
+**4. Comment optimiser les requêtes API pour éviter les appels inutiles ?**  
+J’ai commencé à explorer des pistes comme le debounce ou la limitation des appels répétitifs, mais je n’ai pas mis en œuvre une solution complète.  
+L’optimisation reste un objectif secondaire dans cette première phase d’apprentissage, mais j’en ai pris conscience et je l’intègrerai dans le futur.
+
+**5. Comment mettre en place un système de caching basique pour améliorer les performances ?**  
+Je n’ai pas eu le temps de mettre en place un vrai système de caching (comme `localStorage` ou `sessionStorage`), mais je vois bien comment cela peut se faire.  
+J’ai prévu d’ajouter cela dans mon application à l’avenir, surtout pour éviter de surcharger l’API avec des requêtes identiques.
 
 ## Résultat de l'expérimentation
 
-_Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+J’ai développé une application frontend connectée à une API publique (API transports).  
+L’interface affiche des informations de manière simple et efficace, avec gestion des erreurs basiques.  
+Même si le projet reste relativement simple, il m’a permis de mettre en pratique les fondamentaux des requêtes API dans un contexte réaliste.
 
 ## Investissement
 
-_Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
+J’ai investi environ 30 heures sur les 36 prévues.  
+Certaines fonctionnalités (comme l’authentification complète ou le caching) se sont avérées plus complexes et longues que prévu, et j’ai préféré assurer une base fonctionnelle et bien comprise plutôt que de bâcler les parties plus avancées.
 
 ## Réflexion sur la méthode d'auto-formation
 
-_En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+L’auto-formation m’a permis de travailler à mon rythme et d’approfondir certains aspects à ma manière, en fonction de mes besoins et intérêts.  
+J’ai pu revenir plusieurs fois sur des points techniques que je ne maîtrisais pas encore, ce qui n’est pas toujours possible dans un cadre plus encadré ou en classe.  
+Cette liberté m’a aussi permis d’expérimenter, de chercher des solutions par moi-même et de gagner en autonomie.
+
+Cependant, j’ai aussi constaté que l’auto-formation demande une certaine rigueur et capacité à s’organiser.  
+Sans échéances intermédiaires claires ou retours extérieurs, il est facile de sous-estimer la complexité de certaines parties (comme le caching ou l’authentification) et de prendre du retard.
 
 ## Conclusion
 
-_Quelles leçons avez-vous apprises et pourquoi ?_
-_Quelles implications pour votre TB et pourquoi ?_
+J’ai consolidé mes compétences de base sur les requêtes API, ce qui est déjà très utile pour mon travail de Bachelor.  
+Même si je n’ai pas tout pu réaliser, j’ai maintenant une meilleure compréhension du sujet, et je sais exactement sur quoi je dois progresser dans les semaines à venir.  
+Ce projet m’a montré l’importance de bien planifier son apprentissage et de rester pragmatique dans ses objectifs.
